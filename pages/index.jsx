@@ -4,10 +4,13 @@ function Header({ title }) {
 }
 
 export default function HomePage() {
+  
+  // states
   const names = ['Jamie', 'Orr', 'Project'];
   const [word, setWord] = useState('');
   const [result, setResult] = useState('')
   
+  // functions
   function textTyping(event) {
     setWord(event.target.value);
   }
@@ -21,7 +24,7 @@ export default function HomePage() {
     setResult("");
   }
 
-
+  // html
   return (
     
     <div>
