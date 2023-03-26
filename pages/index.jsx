@@ -28,20 +28,21 @@ export default function HomePage() {
   return (
     
     <div>
+      
       <Header title="My Italian Website Project" />
+      
       <ul>
         {names.map((name) => (
           <li key={name}>{name}</li>
         ))}
       </ul>
       
-
       <div>Type out the Italian for 'Hello', and submit your answer</div> <br />  
-      <input type="text" id="hello" name="hello" onChange={textTyping} value={word} autoComplete="off"></input > <button onClick={clearText}>Clear</button> <br /><br /> 
+      <input type="text" id="hello" name="hello" onChange={textTyping} value={word} autoComplete="off"></input > 
+      <button onClick={clearText}>Clear</button> <br /><br /> 
       <button onClick={wordSubmit}>Click to submit your answer</button> <br /> <br />
-      <div>{result}</div>
+      <div>{result}</div> <br />
 
-      <br></br><br></br>
     </div>
 
   );
