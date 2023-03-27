@@ -45,6 +45,7 @@ export default function HomePage() {
       <Header title="My Italian Website Project" />
       
       <div>The aim of this project is to create a website where you can practice vocab learning in a foreign language</div> <br />
+      <div>Currently, the only supported language is Italian</div> <br />
       
       <div>Type out the word in Italian which means "{question[0]}"</div> <br />  
       <input type="text" id="attempt" onChange={updateAnswer} value={answer} autoComplete="off"></input > 
