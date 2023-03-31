@@ -5,15 +5,29 @@ function Header({ title }) {
 }
 
 const wordList = [["hello", "ciao"], ["however", "ciononostante"], ["but", "ma"], ["and", "e"], ["after", "dopo"]]
+// const apiPath = "https://localhost:5000/api"
 
 export default function HomePage() {
   
   // states
 
+  //const [words, setWords] = useState([[]])
   const [answer, setAnswer] = useState('')
-  const [question, setQuestion] = useState(wordList[0])
+  const [question, setQuestion] = useState(["hello", "ciao"])
   const [result, setResult] = useState('')
   
+  // useEffect(
+  //   () => {
+  //     fetch(apiPath).then(
+  //       response => response.json()
+  //     ).then(
+  //       data => {
+  //         setWords(data)
+  //       }
+  //     )
+  //   }, []
+  // )
+
   // functions
 
   function updateAnswer(event) {
@@ -46,7 +60,9 @@ export default function HomePage() {
       
       <div>The aim of this project is to create a website where you can practice vocab learning in a foreign language</div> <br />
       <div>Currently, the only supported language is Italian</div> <br />
-      <div>Me writing stuff to see if fast update still exists</div> <br /> <br />
+      <div>Did it work?</div> <br /> <br />
+
+      
       
       <div>Type out the word in Italian which means "{question[0]}"</div> <br />  
       <input type="text" id="attempt" onChange={updateAnswer} value={answer} autoComplete="off"></input > 
