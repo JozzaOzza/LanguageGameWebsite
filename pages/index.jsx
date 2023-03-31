@@ -46,7 +46,7 @@ export default function HomePage() {
       
       <div>The aim of this project is to create a website where you can practice vocab learning in a foreign language</div> <br />
       <div>Currently, the only supported language is Italian</div> <br />
-      <div>Once we've figured out one langauge, then maybe we can think about extending to more</div> <br /> <br />
+      <div>Me writing stuff to see if fast update still exists</div> <br /> <br />
       
       <div>Type out the word in Italian which means "{question[0]}"</div> <br />  
       <input type="text" id="attempt" onChange={updateAnswer} value={answer} autoComplete="off"></input > 
