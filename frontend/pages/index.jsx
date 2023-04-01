@@ -4,28 +4,24 @@ function Header({ title }) {
   return <h1>{title ? title : 'Default title'}</h1>;
 }
 
-const wordList = [["hello", "ciao"], ["however", "ciononostante"], ["but", "ma"], ["and", "e"], ["after", "dopo"]]
-const apiPath = "http://localhost:5000/api"
-
 export default function HomePage() {
   
   // states
 
-  const [words, setWords] = useState([[]])
+  const [words, setWords] = useState()
   const [answer, setAnswer] = useState('')
   const [question, setQuestion] = useState(["hello", "ciao"])
   const [result, setResult] = useState('')
   
   useEffect(() => {
-    fetch("/api").then(
-      response => response.json()
-    ).then(
-      data => {
-        setWords(data)
-      }
-    )
-  }, []
-  )
+    async function fetchMyAPI() {
+      let response = await fetch('/api')
+      response = await response.json()
+      setWords(response["words"])
+    }
+
+    fetchMyAPI()
+  }, [])
 
   // functions
 
@@ -63,13 +59,16 @@ export default function HomePage() {
       <div>Did it work?</div> <br /> <br />
 
       
-      
-      <div>Type out the word in Italian which means "{question[0]}"</div> <br />  
-      <input type="text" id="attempt" onChange={updateAnswer} value={answer} autoComplete="off"></input > 
-      <button onClick={clearText}>Clear</button> <br /><br /> 
-      <button onClick={submitAnswer}>Click to submit your answer</button> <br /> <br />
-      <div >{result}</div> <br />
-      <button onClick={newQuestion}>Click to receive a new word</button>
+      {(typeof words === 'undefined') ? (
+        <p>Data is loading...</p>
+      ) : (
+        <><div>Type out the word in Italian which means "{question[0]}"</div> <br />  
+        <input type="text" id="attempt" onChange={updateAnswer} value={answer} autoComplete="off"></input > 
+        <button onClick={clearText}>Clear</button> <br /><br /> 
+        <button onClick={submitAnswer}>Click to submit your answer</button> <br /> <br />
+        <div >{result}</div> <br />
+        <button onClick={newQuestion}>Click to receive a new word</button></>
+      )}
 
     </div>
 
