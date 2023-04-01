@@ -1,32 +1,31 @@
-import { useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 
 function Header({ title }) {
   return <h1>{title ? title : 'Default title'}</h1>;
 }
 
 const wordList = [["hello", "ciao"], ["however", "ciononostante"], ["but", "ma"], ["and", "e"], ["after", "dopo"]]
-// const apiPath = "https://localhost:5000/api"
+const apiPath = "http://localhost:5000/api"
 
 export default function HomePage() {
   
   // states
 
-  //const [words, setWords] = useState([[]])
+  const [words, setWords] = useState([[]])
   const [answer, setAnswer] = useState('')
   const [question, setQuestion] = useState(["hello", "ciao"])
   const [result, setResult] = useState('')
   
-  // useEffect(
-  //   () => {
-  //     fetch(apiPath).then(
-  //       response => response.json()
-  //     ).then(
-  //       data => {
-  //         setWords(data)
-  //       }
-  //     )
-  //   }, []
-  // )
+  useEffect(() => {
+    fetch("/api").then(
+      response => response.json()
+    ).then(
+      data => {
+        setWords(data)
+      }
+    )
+  }, []
+  )
 
   // functions
 
@@ -47,7 +46,8 @@ export default function HomePage() {
 
   function newQuestion() {
     clearText()
-    setQuestion(wordList[Math.floor(Math.random() * wordList.length)])
+    setQuestion(words[Math.floor(Math.random() * words.length)])
+    console.log(`New question is: ${question[1]}`)
   }
 
   // html
