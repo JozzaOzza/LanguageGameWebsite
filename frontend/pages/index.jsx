@@ -8,21 +8,27 @@ export default function HomePage() {
   
   // states
 
-  const [words, setWords] = useState()
+  let words
+  let question
   const [answer, setAnswer] = useState('')
-  const [question, setQuestion] = useState()
   const [result, setResult] = useState('')
   
   useEffect(() => {
-    async function fetchMyAPI() {
-      let response = await fetch('/api')
-      response = await response.json()
-      setWords(await response['words'])
-      console.log(words)
-      setQuestion(words[Math.floor(Math.random() * words.length)])
-    }
+    fetch('/api')
+      .then(response => response.json())
+      .then(data => {
+        // Do something with the JSON data
+        console.log(typeof data.words);
+        console.log(data.words[0]);
+        
+        words = data.words
+        console.log(typeof words)
+        
+        question = (words[Math.floor(Math.random() * words.length)])
+        console.log(question)
+      })
+      .catch(error => console.error(error));
 
-    fetchMyAPI()
   }, [])
 
   // functions
@@ -44,7 +50,7 @@ export default function HomePage() {
 
   function newQuestion() {
     clearText()
-    setQuestion(words[Math.floor(Math.random() * words.length)])
+    question = (words[Math.floor(Math.random() * words.length)])
     console.log(`New question is: ${question[1]}`)
   }
 
@@ -61,7 +67,7 @@ export default function HomePage() {
       <div>Did it work?</div> <br /> <br />
 
       
-      {(typeof question === 'undefined' || question === []) ? (
+      {(typeof words === 'undefined') ? (
         <p>Data is loading...</p>
       ) : (
         <><div>Type out the word in Italian which means "{question[0]}"</div> <br />  
