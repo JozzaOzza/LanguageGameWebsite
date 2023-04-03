@@ -2,7 +2,6 @@ const express = require("express")
 const app = express()
 const PORT = 5000
 const date = new Date()
-let time = date.getHours() + ":" + date.getMinutes() + ":" + date.getSeconds()
 
 const italianWords = [
     ["hello", "ciao"], 
@@ -13,6 +12,10 @@ const italianWords = [
 ]
 
 app.get("/api", (req, res) => {
+    res.set({
+        "Access-Control-Allow-Origin" : "*", 
+        "Access-Control-Allow-Credentials" : true 
+    })
     res.json({"words": italianWords})
     console.log(`Request received at: ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()}`)
 })
