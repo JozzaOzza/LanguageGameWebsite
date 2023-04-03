@@ -32,16 +32,31 @@ export default function HomePage() {
   
   // states
 
-  const [question, setQuestion] = useState(null)
-  const [words, setWords] = useState(null)
+  const [question, setQuestion] = useState([])
+  const [words, setWords] = useState([[]])
   const [answer, setAnswer] = useState('')
   const [result, setResult] = useState('')
   const [hide, setHide] = useState(true)
 
+  useEffect(() => {
+    console.log(`First word in list is: ${words[0][0]}`);
+  }, [words])
+
+  useEffect(() => {
+    console.log(`Current question is: ${question[0]}`);
+  }, [question])
+
   // functions
 
   function getData() {
-
+    fetch('http://localhost:5000/api').then(
+      Response => Response.json()
+    ).then(
+      Data => {
+        console.log(Data.words)
+        setWords(Data.words)
+      }
+    )
   }
 
   function startSession() {
@@ -80,15 +95,10 @@ export default function HomePage() {
       
       <div>The aim of this project is to create a website where you can practice vocab learning in a foreign language</div> <br />
       <div>Currently, the only supported language is Italian</div> <br />
-      <div>Did it work?</div> <br /> <br />
-
-      <QuestionsTest words={words} />
-
-      {(hide === true) ? (
-        <button onClick={startSession()}>Start</button>
-      ) : (
-        <Session questionsLoaded={false}/>
-      )}
+      <button id='startButton' onClick={() => {
+          document.getElementById("startButton").style.display="none"
+          startSession()
+        }}>Start</button>
 
     </div>
 
