@@ -8,13 +8,42 @@ function Header({ title }) {
   return <h1>{title ? title : 'Default title'}</h1>;
 }
 
-function QuestionsTest({ questions }) {
-  return <p>{questions ? questions : 'No questions have loaded'}</p>
-}
+function Session({words}) {
 
-function Session({ questionsLoaded }) {
+  // states
+  const [question, setQuestion] = useState([])  
+  const [answer, setAnswer] = useState('')
+  const [result, setResult] = useState('')
+
+  // useEffect(() => {
+  //   console.log(`Current question is: ${question[0]}`);
+  // }, [question])
+
+  // functions
+  function updateAnswer(event) {
+    setAnswer(event.target.value)
+  }
+
+  function submitAnswer() {
+    setResult(answer.toLowerCase() == question[1] ?
+    "Congratulations, you were correct" :
+    "Not quite, try again :)");
+  }
+
+  function clearText() {
+    setAnswer("")
+    setResult("");
+  }
+
+  function newQuestion() {
+    clearText()
+    setQuestion(words[Math.floor(Math.random() * words.length)])
+    console.log(`New question is: ${question[0]}`)
+  }
+
+  // render
   return <div>
-    {(questionsLoaded === false) ? (
+    {(words === [[]]) ? (
       <p>Data is still loading ...</p>
     ) : (
       <><div>Type out the word in Italian which means "{question[0]}"</div> <br />  
@@ -32,19 +61,12 @@ export default function HomePage() {
   
   // states
 
-  const [question, setQuestion] = useState([])
   const [words, setWords] = useState([[]])
-  const [answer, setAnswer] = useState('')
-  const [result, setResult] = useState('')
   const [hide, setHide] = useState(true)
 
   useEffect(() => {
     console.log(`First word in list is: ${words[0][0]}`);
   }, [words])
-
-  useEffect(() => {
-    console.log(`Current question is: ${question[0]}`);
-  }, [question])
 
   // functions
 
@@ -64,27 +86,6 @@ export default function HomePage() {
     setHide(false)
   }
 
-  function updateAnswer(event) {
-    setAnswer(event.target.value)
-  }
-
-  function submitAnswer() {
-    setResult(answer.toLowerCase() == question[1] ?
-    "Congratulations, you were correct" :
-    "Not quite, try again :)");
-  }
-
-  function clearText() {
-    setAnswer("")
-    setResult("");
-  }
-
-  function newQuestion() {
-    clearText()
-    setQuestion(words[Math.floor(Math.random() * words.length)])
-    console.log(`New question is: ${question[1]}`)
-  }
-
   // html
 
   return (
@@ -98,7 +99,8 @@ export default function HomePage() {
       <button id='startButton' onClick={() => {
           document.getElementById("startButton").style.display="none"
           startSession()
-        }}>Start</button>
+        }}>Start</button> <br /> <br />
+      <>{!hide && <Session id='session' words={words} style=''/>}</>  
 
     </div>
 
