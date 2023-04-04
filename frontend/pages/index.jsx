@@ -15,6 +15,7 @@ function Session({words}) {
   const [answer, setAnswer] = useState('')
   const [result, setResult] = useState('')
   const [score, setScore] = useState([0, 0])
+  const [submitOn, setSubmitOn] = useState(false)
 
   // useEffect(() => {
   //   console.log(`Current question is: ${question[0]}`);
@@ -34,6 +35,7 @@ function Session({words}) {
     [score[0] + 1, score[1] + 1] :
     [score[0], score[1] + 1]
     )
+    setSubmitOn(true)
   }
 
   function clearText() {
@@ -45,6 +47,7 @@ function Session({words}) {
     clearText()
     setQuestion(words[Math.floor(Math.random() * words.length)])
     console.log(`New question is: ${question[0]}`)
+    setSubmitOn(false)
   }
 
   // render
@@ -56,7 +59,7 @@ function Session({words}) {
       <div>Type out the word in Italian which means "{question[0]}"</div> <br />  
       <input type="text" id="attempt" onChange={updateAnswer} value={answer} autoComplete="off"></input > 
       <button onClick={clearText}>Clear</button> <br /><br /> 
-      <button onClick={submitAnswer}>Click to submit your answer</button> <br /><br />
+      <button id='submitButton' disabled={submitOn} onClick={submitAnswer}>Click to submit your answer</button> <br /><br />
       <div >{result}</div> <br />
       <button onClick={newQuestion}>Click to receive a new word</button> <br /> <br />
       <div>Your current score is: {score[0]} / {score[1]}</div>
