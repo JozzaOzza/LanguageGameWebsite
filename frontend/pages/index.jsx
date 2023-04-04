@@ -14,6 +14,7 @@ function Session({words}) {
   const [question, setQuestion] = useState([])  
   const [answer, setAnswer] = useState('')
   const [result, setResult] = useState('')
+  const [score, setScore] = useState([0, 0])
 
   // useEffect(() => {
   //   console.log(`Current question is: ${question[0]}`);
@@ -27,7 +28,12 @@ function Session({words}) {
   function submitAnswer() {
     setResult(answer.toLowerCase() == question[1] ?
     "Congratulations, you were correct" :
-    "Not quite, try again :)");
+    "Not quite, try again :)"
+    )
+    setScore(answer.toLowerCase() == question[1] ? 
+    [score[0] + 1, score[1] + 1] :
+    [score[0], score[1] + 1]
+    )
   }
 
   function clearText() {
@@ -46,12 +52,16 @@ function Session({words}) {
     {(words === [[]]) ? (
       <p>Data is still loading ...</p>
     ) : (
-      <><div>Type out the word in Italian which means "{question[0]}"</div> <br />  
+      <>
+      <div>Type out the word in Italian which means "{question[0]}"</div> <br />  
       <input type="text" id="attempt" onChange={updateAnswer} value={answer} autoComplete="off"></input > 
       <button onClick={clearText}>Clear</button> <br /><br /> 
       <button onClick={submitAnswer}>Click to submit your answer</button> <br /><br />
       <div >{result}</div> <br />
-      <button onClick={newQuestion}>Click to receive a new word</button></>
+      <button onClick={newQuestion}>Click to receive a new word</button> <br /> <br />
+      <div>Your current score is: {score[0]} / {score[1]}</div>
+      </>
+
   ) }
   </div>
 }
