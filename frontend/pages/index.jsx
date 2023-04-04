@@ -46,7 +46,6 @@ function Session({words}) {
   function newQuestion() {
     clearText()
     setQuestion(words[Math.floor(Math.random() * words.length)])
-    console.log(`New question is: ${question[0]}`)
     setSubmitOn(false)
   }
 
