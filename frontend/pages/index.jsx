@@ -15,7 +15,8 @@ function Session({words}) {
   const [answer, setAnswer] = useState('')
   const [result, setResult] = useState('')
   const [score, setScore] = useState([0, 0])
-  const [submitOn, setSubmitOn] = useState(false)
+  const [submitOn, setSubmitOn] = useState(true)
+  const [questionTime, setQuestionTime] = useState(false)
 
   // useEffect(() => {
   //   console.log(`Current question is: ${question[0]}`);
@@ -46,6 +47,7 @@ function Session({words}) {
   function newQuestion() {
     clearText()
     setQuestion(words[Math.floor(Math.random() * words.length)])
+    setQuestionTime(true)
     setSubmitOn(false)
   }
 
@@ -55,12 +57,18 @@ function Session({words}) {
       <p>Data is still loading ...</p>
     ) : (
       <>
-      <div>Type out the word in Italian which means "{question[0]}"</div> <br />  
+      <div>{(!questionTime) ?
+      "Press the New Question button to get started" : 
+      `Type out the word in Italian which means "${question[0]}"`
+      }</div> <br />  
       <input type="text" id="attempt" onChange={updateAnswer} value={answer} autoComplete="off"></input > 
       <button onClick={clearText}>Clear</button> <br /><br /> 
-      <button id='submitButton' disabled={submitOn} onClick={submitAnswer}>Click to submit your answer</button> <br /><br />
-      <div >{result}</div> <br />
-      <button onClick={newQuestion}>Click to receive a new word</button> <br /> <br />
+      <button id='submitButton' disabled={submitOn} onClick={submitAnswer}>Submit Answer</button> 
+      <p >{(result === "") ? 
+      " " :
+      result
+      }</p> <br />
+      <button onClick={newQuestion}>New Question</button> <br /> <br />
       <div>Your current score is: {score[0]} / {score[1]}</div>
       </>
 
@@ -82,8 +90,8 @@ export default function HomePage() {
 
   // functions
 
-  function getData() {
-    fetch('http://localhost:5000/api').then(
+  function getData(topic) {
+    fetch(`http://localhost:5000/api/${topic}`).then(
       Response => Response.json()
     ).then(
       Data => {
@@ -93,8 +101,8 @@ export default function HomePage() {
     )
   }
 
-  function startSession() {
-    getData()
+  function startSession(topic) {
+    getData(topic)
     setHide(false)
   }
 
@@ -108,10 +116,17 @@ export default function HomePage() {
       
       <div>The aim of this project is to create a website where you can practice vocab learning in a foreign language</div> <br />
       <div>Currently, the only supported language is Italian</div> <br />
-      <button id='startButton' onClick={() => {
-          document.getElementById("startButton").style.display="none"
-          startSession()
-        }}>Start</button> <br /> <br />
+      <button id='nounsButton' onClick={() => {
+          document.getElementById("nounsButton").style.display="none"
+          document.getElementById("verbsButton").style.display="none"
+          startSession("nouns")
+        }}>Nouns</button> 
+      {" "}
+      <button id='verbsButton' onClick={() => {
+          document.getElementById("nounsButton").style.display="none"
+          document.getElementById("verbsButton").style.display="none"
+          startSession("verbs")
+        }}>Verbs</button> <br /> <br />  
       <>{!hide && <Session id='session' words={words} style=''/>}</>  
 
     </div>
