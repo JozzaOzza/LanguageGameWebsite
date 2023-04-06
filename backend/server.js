@@ -19,7 +19,7 @@ const italianWords = [
 ]
 
 const italianVerbs = [
-    ["to have", "essere"], 
+    ["to have", "avere"], 
     ["to be able to", "potere"], 
     ["to do", "fare"], 
     ["to go", "andare"], 

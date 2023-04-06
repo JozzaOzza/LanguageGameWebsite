@@ -51,6 +51,10 @@ function Session({words}) {
     setSubmitOn(false)
   }
 
+  function goHome() {
+    
+  }
+
   // render
   return <div>
     {(words === [[]]) ? (
@@ -61,15 +65,18 @@ function Session({words}) {
       "Press the New Question button to get started" : 
       `Type out the word in Italian which means "${question[0]}"`
       }</div> <br />  
-      <input type="text" id="attempt" onChange={updateAnswer} value={answer} autoComplete="off"></input > 
-      <button onClick={clearText}>Clear</button> <br /><br /> 
-      <button id='submitButton' disabled={submitOn} onClick={submitAnswer}>Submit Answer</button> 
+      <input type="text" id="attempt" onChange={updateAnswer} value={answer} autoComplete="off"></input >
+      {" "} 
+      <button disabled={submitOn} onClick={clearText}>Clear</button> <br /><br /> 
+      <button id='submitButton' disabled={submitOn} onClick={submitAnswer}>Submit Answer</button>
+      {"      "} 
+      <button onClick={newQuestion}>New Question</button> <br /> <br />
+      <button onClick={newQuestion}>Back</button> <br /> <br />
+      <div>Your current score is: {score[0]} / {score[1]}</div> <br />
       <p >{(result === "") ? 
       " " :
       result
       }</p> <br />
-      <button onClick={newQuestion}>New Question</button> <br /> <br />
-      <div>Your current score is: {score[0]} / {score[1]}</div>
       </>
 
   ) }
