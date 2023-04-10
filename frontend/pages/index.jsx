@@ -69,7 +69,7 @@ function Session({words}) {
       {" "} 
       <button disabled={submitOn} onClick={clearText}>Clear</button> <br /><br /> 
       <button id='submitButton' disabled={submitOn} onClick={submitAnswer}>Submit Answer</button>
-      {"      "} 
+      {" "} 
       <button onClick={newQuestion}>New Question</button> <br /> <br />
       <button onClick={newQuestion}>Back</button> <br /> <br />
       <div>Your current score is: {score[0]} / {score[1]}</div> <br />
@@ -108,6 +108,16 @@ export default function HomePage() {
     )
   }
 
+  function callDbScript(topic) {
+    fetch(`http://localhost:5000/api/db`).then(
+      Response => Response.json()
+    ).then(
+      Data => {
+        console.log(Data.words)
+      }
+    )
+  }
+
   function startSession(topic) {
     getData(topic)
     setHide(false)
@@ -133,7 +143,11 @@ export default function HomePage() {
           document.getElementById("nounsButton").style.display="none"
           document.getElementById("verbsButton").style.display="none"
           startSession("verbs")
-        }}>Verbs</button> <br /> <br />  
+        }}>Verbs</button>
+      {" "}
+      <button id='dbButton' onClick={() => {
+          callDbScript()
+        }}>Data</button> <br /> <br />  
       <>{!hide && <Session id='session' words={words} style=''/>}</>  
 
     </div>
