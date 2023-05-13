@@ -1,0 +1,23 @@
+Powershell:
+
+    Go to repo:
+        cd ../../repos/LanguageGameWebsite/
+
+Verbs table:
+
+    Get all:
+        SELECT * FROM [dbo].[verbsPresent]
+
+    Update column with value:
+        UPDATE table_name
+        SET column_name = value
+        WHERE condition
+
+    Insert rows
+        INSERT INTO table_name (column_list)
+        VALUES
+            (value_list_1),
+            (value_list_2),
+            ...
+            (value_list_n);        
+    

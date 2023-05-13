@@ -65,7 +65,8 @@ async function connectAndQuery() {
         var poolConnection = await sql.connect(config);
 
         console.log("Reading rows from the Table...");
-        var resultSet = await poolConnection.request().query(`select * from [dbo].[verbsPresent]`);
+        var resultSet = await poolConnection.request().query(`select * 
+            from [dbo].[verbsPresent]`);
 
         console.log(`${resultSet.recordset.length} rows returned.`);
 
@@ -89,10 +90,10 @@ async function connectAndQuery() {
 }
 
 app.get("/api/db", (req, res) => {
+    console.log(`Db request received at: ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()}`)
     res.set({
         "Access-Control-Allow-Origin" : "*", 
         "Access-Control-Allow-Credentials" : true 
     })
     connectAndQuery()
-    console.log(`Db request received at: ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()}`)
 })

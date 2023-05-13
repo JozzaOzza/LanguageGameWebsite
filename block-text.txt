@@ -1,0 +1,31 @@
+uno/a – “one”
+due – “two”
+tre – “three”
+quattro – “four”
+cinque – “five”
+sei – “six”
+sette – “seven”
+otto – “eight”
+nove – “nine”
+dieci – “ten”
+undici – “eleven”
+dodici – “twelve”
+tredici – “thirteen”
+quattordici – “fourteen”
+quindici – “fifteen”
+sedici – “sixteen”
+diciassette – “seventeen”
+diciotto – “eighteen”
+diciannove – “nineteen”
+venti – “twenti”
+trenta – “thirty”
+quaranta – “fourty”
+cinquanta – “fifty”
+sessanta – “sixty”
+settanta – “seventy”
+ottanta – “eighty”
+novanta – “ninety”
+cento – “hundred” or “a hundred”
+mille – “thousand” or “a thousand”
+millione – “million”
+milliardo – “billion”
