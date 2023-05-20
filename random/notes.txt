@@ -10,6 +10,8 @@ verbs table:
 english, italian, i, you, he/she, we, you pl, they, ending (i.e. -are, -ire)
 
 site functionality:
-Home page 
-    with brief description of functionality
+Home page
     buttons to decide either of the broad categories defined above 
+    each button takes you to a separate page
+        dropdown menu to choose specific options
+        selecting option fills state with manageable amount of data

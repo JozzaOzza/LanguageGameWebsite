@@ -1,50 +1,14 @@
-grande – “big”
-stesso/a – “same”
-bello/a – “beautiful” or “gorgeous”
-nuovo/a – “new”
-certo/a – “sure” or “certain”
-vero/a – “true”
-buono/a – “good”
-italiano/a – “Italian”
-vecchio/a – “old”
-piccolo/a – “small”
-giovane – “young”
-alto/a – “tall”
-diverso/a – “different”
-lungo/a – “long”
-povero/a – “poor”
-maggiore– “greater”, “elder”, or “older
-possibile – “possible”
-caro/a – “expensive” or “dear”
-pieno/a – “full”
-nero/a – “black”
-particolare – “specific” or “unique”
-bianco/a – “white”
-attuale – “current”
-latino/a – “Latin”
-impossibile – “impossible”
-sereno/a – “serene” or “sunny”
-puro/a – “pure”
-normale – “normal”
-perfetto/a – “perfect”
-caratteristico/a – “characteristic”
-russo/a – “Russian”
-continuo/a – “continuous”
-stupido/a – “stupid”
-estremo/a – “extreme”
-grigio/a – “gray”
-reale – “real”
-interessante – “interesting”
-medesimo/a – “same”
-religioso/a – “religious”
-ampio/a – “wide”
-biondo/a – “blonde”
-ufficiale – “official”
-attento – “attentive” or “alert”
-enorme – “enormous”
-sottile – “thin”
-triste – “sad”
-minimo – “smallest”, “slightest”, or “minimal”
-privato/a – “private”
-rapido/a – “fast”
-diretto/a – “direct”
+anno – “year”
+giorno – “day”
+volta – “time” in the sense of “occasion”
+tempo – “time”
+ora – “hour”
+momento – “moment”
+notte – “night”
+sera – “evening”
+mese – “month”
+periodo – “period” or “interval”
+ieri – “yesterday”
+oggi – “today”
+domani – “tomorrow”
+minuto – “minute”

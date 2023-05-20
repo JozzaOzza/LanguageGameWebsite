@@ -22,17 +22,11 @@ function EditString {
     return $output
 }
 
-function RemoveNonAlphabeticCharacters {
-    param (
-        [string]$word
-    )
-    $word -replace $pattern, ''
-
-}
-
 Clear-Content .\text-generator-output.txt
+Clear-Content .\output-english.txt
 Get-Content '.\block-text.txt' | ForEach-Object {
     $editedLine = EditString $_
     Write-Host $editedLine 
     Add-Content -Path .\text-generator-output.txt -Value $editedLine
+    Add-Content -Path .\output-english.txt -Value $editedLine.Substring(0, $editedLine.IndexOf('=')).Trim()
 }

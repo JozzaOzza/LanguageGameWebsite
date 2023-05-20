@@ -1,0 +1,14 @@
+year
+day
+time in the sense of occasion
+time
+hour
+moment
+night
+evening
+month
+period, interval
+yesterday
+today
+tomorrow
+minute
