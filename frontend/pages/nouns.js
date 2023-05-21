@@ -1,5 +1,12 @@
+import NavBar from "../components/navbar"
+
 function Nouns() {
-    return <h1>Here's the Nouns page</h1>
+    return (
+        <div>
+            <NavBar></NavBar>
+            <h2>Nouns Practice</h2>
+        </div>
+    )
 }
 
 export default Nouns
