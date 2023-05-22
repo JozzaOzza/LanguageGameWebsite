@@ -5,13 +5,21 @@ export default function Session(props) {
     const topics = props.topics;
     
     // states
-    const [answers, setAnswers] = useState(["jamie"])
+    const [answers, setAnswers] = useState([{recordSets: [{italian: "essere"}]}])
     const [response, setResponse] = useState('')
     const [responseDisplay, setResponseDisplay] = useState('none')
 
     // functions
-    function getDataAndShowResponseArea() {
-        setResponseDisplay('block')
+    function getDataAndDisplayQuestion() {
+        setResponseDisplay('none')
+        fetch('http://localhost:5000/api/verbs').then(
+          Response => Response.json()
+        ).then(
+          Data => {
+            console.log(Data)
+            setAnswers([Data])
+          }
+        ).then(() => setResponseDisplay('block'))
     }
 
     // html
@@ -25,7 +33,7 @@ export default function Session(props) {
                 ))}
             </select>
             <br></br> <br></br>
-            <button onClick={() => getDataAndShowResponseArea()}>Select</button>
+            <button onClick={() => getDataAndDisplayQuestion()}>Select</button>
             <br></br>
             <div id='answerArea' style={{display:responseDisplay}}> 
                 <br></br><br></br>
@@ -38,6 +46,7 @@ export default function Session(props) {
                 ></input>
                 <button>Submit</button>
             </div>
+        <p>{typeof(answers[0].recordSets)}</p>    
             
         </div>
 
