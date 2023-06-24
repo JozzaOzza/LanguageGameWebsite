@@ -1,14 +1,21 @@
-anno – “year”
-giorno – “day”
-volta – “time” in the sense of “occasion”
-tempo – “time”
-ora – “hour”
-momento – “moment”
-notte – “night”
-sera – “evening”
-mese – “month”
-periodo – “period” or “interval”
-ieri – “yesterday”
-oggi – “today”
-domani – “tomorrow”
-minuto – “minute”
+sentire – “to feel” or “to hear”
+capire – “to understand”
+morire – “to die”
+aprire – “to open”
+uscire – “to go out”
+riuscire – “to succeed”
+finire – “to end” or “to finish”
+scrivere – “to write”
+dormire – “to sleep”
+avvenire – “to happen” or “to take place”
+offrire – “to offer”
+fuggire – “to flee”
+riferire – “to refer”
+impedire – “to prevent” or “to forbid”
+divertire – “to entertain” or “to amuse”
+fornire – “to provide”
+riempire – “to fill”
+scoprire – “to discover”
+partire – “to leave” or “to depart”
+unire – “to unite”
+colpire – “to hit”

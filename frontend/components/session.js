@@ -5,29 +5,31 @@ export default function Session(props) {
     const topics = props.topics;
     
     // states
-    const [answers, setAnswers] = useState(null)
+    const [queryData, setQueryData] = useState(null)
     const [question, setQuestion] = useState('')
     const [response, setResponse] = useState('')
     const [responseDisplay, setResponseDisplay] = useState('none')
+    const [questionNumber, setQuestionNumber] = useState(Math.floor(Math.random() * 4))
 
     // functions
     async function getDataAndDisplayQuestion() {
         setResponseDisplay('none')
         await getData()
+        // setQuestion(`Conjugate '${queryData[Math.floor(Math.random() * 4)].italian}' in the 'I' form`)
         setResponseDisplay('block')
     }
 
-    function getData() {
-        fetch('http://localhost:5000/api/verbs').then(
+    async function getData() {
+        fetch('http://localhost:5000/api/verbs'
+        ).then(
             Response => Response.json()
         ).then(
             Data => {
                 console.log(Data)
-                setAnswers(Data.recordset)
+                setQueryData(Data.recordset)
             }
         )
     }
-
     // html
     return (
         <div>
@@ -41,19 +43,18 @@ export default function Session(props) {
             <br></br> <br></br>
             <button onClick={() => getDataAndDisplayQuestion()}>Select</button>
             <br></br>
-            <div id='answerArea' style={{display:responseDisplay}}> 
-                <br></br><br></br>
-                <div>Conjugate the {question}</div>
+            <div id='answerArea' style={{display:responseDisplay}}>
+                <br></br>
+                <div>Question</div>
                 <input
                     placeholder='type answer here'
                     required
                     value={response}
                     onChange={(e) => setResponse(e.target.value)}
-                ></input>
-                <button>Submit</button>
+                ></input>         
             </div>
             <div>
-                {(answers == null) ? "" : (answers[0].italian)}
+                {(queryData == null) ? "" : (queryData[0].italian)}
             </div>
         
             

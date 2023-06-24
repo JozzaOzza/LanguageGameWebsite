@@ -12,7 +12,6 @@ app.listen(
 )
 
 // database config
-
 const config = {
     user: `${process.env.SQL_SERVER_USERNAME}`, // better stored in an app setting such as process.env.DB_USER
     password: `${process.env.SQL_SERVER_PASSWORD}`, // better stored in an app setting such as process.env.DB_PASSWORD
@@ -35,14 +34,13 @@ async function runQuery(query) {
 }
 
 // requests/responses
-
 app.get("/api/verbs", async (req, res) => {
     console.log(`Db request received at: ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()}`)
     res.set({
         "Access-Control-Allow-Origin" : "*", 
         "Access-Control-Allow-Credentials" : true 
     })
-    data = await runQuery(`SELECT * FROM [dbo].[verbsPresent]`)
+    data = await runQuery(`select top 5 * from [dbo].[verbsPresent]`)
     //res.send({queryData: data})
     res.json(data)
 })

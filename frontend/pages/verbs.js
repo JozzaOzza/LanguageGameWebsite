@@ -3,7 +3,7 @@ import Session from "../components/session"
 
 function Verbs() {
 
-    const topics = [[{name: "jamie", id: 1}, {name: "orr", id: 2}], 20]
+    const topics = [[{name: "jamie", id: 1}, {name: "orr", id: 2}], 5]
 
     return (
         <div className="verbs">

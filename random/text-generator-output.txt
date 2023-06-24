@@ -1,14 +1,4 @@
-year = anno
-day = giorno
-time in the sense of occasion = volta
-time = tempo
-hour = ora
-moment = momento
-night = notte
-evening = sera
-month = mese
-period, interval = periodo
-yesterday = ieri
-today = oggi
-tomorrow = domani
-minute = minuto
+
+
+
+
