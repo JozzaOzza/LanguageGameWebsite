@@ -34,13 +34,24 @@ async function runQuery(query) {
 }
 
 // requests/responses
-app.get("/api/verbs", async (req, res) => {
+app.get("/api/verbs/:ending", async (req, res) => {
     console.log(`Db request received at: ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()}`)
     res.set({
         "Access-Control-Allow-Origin" : "*", 
         "Access-Control-Allow-Credentials" : true 
     })
-    data = await runQuery(`select top 5 * from [dbo].[verbsPresent]`)
+    data = await runQuery(`select top 5 * from [dbo].[verbsPresent] where ending = '-${req.params.ending}'`)
     //res.send({queryData: data})
     res.json(data)
 })
+
+// app.get("/testQuery", async (req, res) => {
+//     console.log(`Db request received at: ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()}`)
+//     res.set({
+//         "Access-Control-Allow-Origin" : "*", 
+//         "Access-Control-Allow-Credentials" : true 
+//     })
+//     data = await runQuery(`select top 5 * from [dbo].[verbsPresent] where ending = '-are'`)
+//     //res.send({queryData: data})
+//     res.json(data)
+// })

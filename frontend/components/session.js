@@ -5,11 +5,12 @@ export default function Session(props) {
     const topics = props.topics;
     
     // states
+    const [queryType, setQueryType] = useState("are")
     const [queryData, setQueryData] = useState(null)
-    const [question, setQuestion] = useState('')
     const [response, setResponse] = useState('')
     const [responseDisplay, setResponseDisplay] = useState('none')
     const [questionNumber, setQuestionNumber] = useState(Math.floor(Math.random() * 4))
+    const [myName, setMyName] = useState("No Name Given")
 
     // functions
     async function getDataAndDisplayQuestion() {
@@ -20,7 +21,7 @@ export default function Session(props) {
     }
 
     async function getData() {
-        fetch('http://localhost:5000/api/verbs'
+        fetch(`http://localhost:5000/api/verbs/${queryType}`
         ).then(
             Response => Response.json()
         ).then(
@@ -40,21 +41,18 @@ export default function Session(props) {
                     <option key={item.id}>{item.name}</option>
                 ))}
             </select>
-            <br></br> <br></br>
             <button onClick={() => getDataAndDisplayQuestion()}>Select</button>
             <br></br>
             <div id='answerArea' style={{display:responseDisplay}}>
                 <br></br>
-                <div>Question</div>
+                <div>{queryData && `Conjugate '${queryData[questionNumber].english}' in the 'I' form`}</div>
                 <input
                     placeholder='type answer here'
                     required
                     value={response}
                     onChange={(e) => setResponse(e.target.value)}
-                ></input>         
-            </div>
-            <div>
-                {(queryData == null) ? "" : (queryData[0].italian)}
+                ></input>
+                <button onClick={() => setQuestionNumber(Math.floor(Math.random() * 4))}>Next Question</button>         
             </div>
         
             
