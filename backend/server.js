@@ -33,25 +33,26 @@ async function runQuery(query) {
     return result;
 }
 
-// requests/responses
+// get verbs by ending
 app.get("/api/verbs/:ending", async (req, res) => {
-    console.log(`Db request received at: ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()}`)
+    console.log(`Get request at ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()} - Verbs with ending '${req.params.ending}'`)
     res.set({
         "Access-Control-Allow-Origin" : "*", 
         "Access-Control-Allow-Credentials" : true 
     })
-    data = await runQuery(`select top 5 * from [dbo].[verbsPresent] where ending = '-${req.params.ending}'`)
+    data = await runQuery(`select top 5 * from [dbo].[verbsPresent] where ending = '${req.params.ending}' order by newid()`)
     //res.send({queryData: data})
     res.json(data)
 })
 
-// app.get("/testQuery", async (req, res) => {
-//     console.log(`Db request received at: ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()}`)
+// // post verbs
+// app.post("/api/verbs/post", async (req, res) => {
+//     console.log(`Request received at: ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()} - Verbs with ending: '${req.params.ending}'`)
 //     res.set({
 //         "Access-Control-Allow-Origin" : "*", 
 //         "Access-Control-Allow-Credentials" : true 
 //     })
-//     data = await runQuery(`select top 5 * from [dbo].[verbsPresent] where ending = '-are'`)
+//     data = await runQuery(`select top 5 * from [dbo].[verbsPresent] where ending = '${req.params.ending}'`)
 //     //res.send({queryData: data})
 //     res.json(data)
 // })

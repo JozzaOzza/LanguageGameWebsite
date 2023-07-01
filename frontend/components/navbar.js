@@ -1,6 +1,6 @@
 export default function NavBar() {
     return <nav className="nav">
-        <a href="/" className="site-title">Jamie's Language Learning</a>
+        <a href="/" className="site-title">Simple Language Learning</a>
         <ul>
             <li>
                 <a href="/nouns" className="site-links">Nouns</a>
