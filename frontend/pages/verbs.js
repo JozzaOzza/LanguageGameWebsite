@@ -3,14 +3,16 @@ import Session from "../components/session"
 
 function Verbs() {
 
-    const topics = [[{name: "-are", id: 1}, {name: "-ere", id: 2}, {name: "-ire", id: 3}], 5]
+    const topics = [[{ name: "-are", id: 1 }, { name: "-ere", id: 2 }, { name: "-ire", id: 3 }], 5]
 
     return (
-        <div className="verbs">
+        <div className="verbs" >
             <NavBar></NavBar>
-            <h2>Verbs Practice</h2>
-            <br></br>
-            <Session topics={topics}></Session>
+            <div>
+                <h4>Verbs Practice</h4>
+                <br></br>
+                <Session topics={topics}></Session>
+            </div>
         </div>
     )
 }
