@@ -1,0 +1,26 @@
+database notes
+
+tables
+    verbs
+    nouns
+    adverbs
+    adjectives
+    pronouns, connectives, others
+
+verbs (separate tenses into tables)
+    english, italian infinitive, ending, i, you, he she, we, you (pl), they (pl), isRegular?
+
+nouns
+    english, italian, category
+
+adverbs
+    english, italian, category
+
+adjectives
+    english, italian, category
+
+adjectives
+    english, italian, category    
+
+pronouns, connectives, others 
+    english, italian, category

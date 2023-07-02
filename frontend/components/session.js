@@ -84,15 +84,31 @@ export default function Session(props) {
             display: 'flex',
             justifyContent: 'center'
         }}>
-            <div style={{ display: selectAreaDisplay }}>
-                <div>Select an option from the dropdown menu</div>
-                <div>{mostRecentScore == null
+            <div style={{
+                display: selectAreaDisplay,
+                position: 'relative',
+                width: '30%'
+            }}>
+                <div style={{
+                    position: 'absolute',
+                    top: 0
+                }}>Select an option from the dropdown menu</div>
+                <div style={{
+                    position: 'absolute',
+                    top: 30
+                }}>{mostRecentScore == null
                     ? "Complete a test to see your most recent score"
                     : `Your most recent score is ${mostRecentScore}`
                 }</div>
                 <br></br>
-                <button onClick={() => startTest()}>Select</button>
-                <select onChange={(e) => setQueryType(e.target.value)}>
+                <button style={{
+                    position: 'absolute',
+                    top: 60
+                }} onClick={() => startTest()}>Select</button>
+                <select style={{
+                    position: 'absolute',
+                    top: 95
+                }} onChange={(e) => setQueryType(e.target.value)}>
                     {topics[0].map((item) => (
                         <option key={item.id}>{item.name}</option>
                     ))}
@@ -100,10 +116,17 @@ export default function Session(props) {
                 <br></br><br></br>
             </div>
 
-            <div id='answerArea' style={{ display: responseAreaDisplay }}>
+            <div id='answerArea' style={{ 
+                display: responseAreaDisplay,
+                position: 'relative',
+                width: '30%'
+            }}>
                 <div>{(!isPending && queryData) && `Conjugate '${queryData[wordNumber].english}' in the '${readableConjugates[conjugateNumber]}' form`}</div>
                 <br></br>
-                <div>
+                <div style={{
+                    position: 'absolute',
+                    top: 30
+                }}>
                     <input
                         placeholder='type answer here'
                         required
@@ -111,11 +134,17 @@ export default function Session(props) {
                         onChange={(e) => setResponse(e.target.value)}
                     ></input>
                 </div>
-                <div>
+                <div style={{
+                    position: 'absolute',
+                    top: 60
+                }}>
                     <button onClick={() => nextQuestion()}>Submit</button>
                 </div>
                 <br></br>
-                <div>{`Question ${total + 1}`}</div>
+                <div style={{
+                    position: 'absolute',
+                    top: 90
+                }}>{`Question ${total + 1} out of 10`}</div>
             </div>
         </div>
 
