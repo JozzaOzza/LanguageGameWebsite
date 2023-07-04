@@ -40,7 +40,7 @@ app.get("/api/verbs/:ending", async (req, res) => {
         "Access-Control-Allow-Origin" : "*", 
         "Access-Control-Allow-Credentials" : true 
     })
-    data = await runQuery(`select top 5 * from [dbo].[verbsPresent] where ending = '${req.params.ending}' order by newid()`)
+    data = await runQuery(`select top 10 * from [dbo].[verbsPresent] where ending = '${req.params.ending}' order by newid()`)
     //res.send({queryData: data})
     res.json(data)
 })

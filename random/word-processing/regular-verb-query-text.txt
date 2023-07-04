@@ -1,3 +1,2 @@
 insert into [dbo].[verbsPresent]
-values (
-('to call', 'chiamare', '-are', 'chiamo', 'chiami', 'chiama', 'chiamiamo', 'chiamate', 'chiamano', 'true'),
+values
