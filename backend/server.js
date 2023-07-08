@@ -56,3 +56,5 @@ app.get("/api/verbs/:ending", async (req, res) => {
 //     //res.send({queryData: data})
 //     res.json(data)
 // })
+
+// // comment and uncomment whenever I need to restart app
