@@ -49,12 +49,12 @@ app.get("/api/verbs/:ending", async (req, res) => {
 
 // get nouns by topic
 app.get("/api/nouns/:topic", async (req, res) => {
-    console.log(`Get request at ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()} - Nouns with topic '${req.params.ending}'`)
+    console.log(`Get request at ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()} - Nouns with topic '${req.params.topic}'`)
     res.set({
         "Access-Control-Allow-Origin" : "*", 
         "Access-Control-Allow-Credentials" : true 
     })
-    data = await runQuery(`select top 10 * from [dbo].[nouns] where topic = '${req.params.topic}' order by newid()`)
+    data = await runQuery(`select top 10 * from [dbo].[nouns] where category = '${req.params.topic}' order by newid()`)
     //res.send({queryData: data})
     res.json(data)
 })

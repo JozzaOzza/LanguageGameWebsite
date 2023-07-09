@@ -3,7 +3,7 @@ import Session from "../components/session"
 
 function Nouns() {
 
-    const topics = [[{ name: "travel", id: 1 }, { name: "food", id: 2 }, { name: "anantomy", id: 3 }], "nouns"]
+    const topics = [[{ name: "places", id: 1 }, { name: "travel", id: 2 }, { name: "time", id: 3 }], "nouns"]
 
     return (
         <div className="nouns" >

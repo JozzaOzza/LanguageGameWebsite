@@ -42,11 +42,9 @@ export default function Session(props) {
         setIsPending(true)
         setScore(0)
         setTotal(0)
-        currentScore, currentTotal = 0, 0
         setWordNumber(0)
         setResponse('')
 
-        setConjugateNumber(Math.floor(Math.random() * 6))
         await getData()
 
         setResponseAreaDisplay('block')
@@ -79,6 +77,7 @@ export default function Session(props) {
                     setQueryData(cleanData(Data.recordset))
                 }
             )
+            console.log(`${topics[1]} ${queryType}`)
         }
         catch {
             console.log("There was an error connecting to the database.")
@@ -97,15 +96,12 @@ export default function Session(props) {
     async function nextQuestion() {
         setScore(response.toLocaleLowerCase().trim() == queryData[wordNumber].italian ? score + 1 : score)
         setTotal(total + 1)
-        currentScore = response.toLocaleLowerCase().trim() == queryData[wordNumber].italian ? currentScore + 1 : currentScore
-        currentTotal += 1
         setResultString(response.toLocaleLowerCase().trim() == queryData[wordNumber].italian ? resultString + "/" : resultString + "X")
         if (wordNumber === testLength - 1) {
             endTest()
         } else {
             setResponse("")
             setWordNumber(wordNumber + 1)
-            setConjugateNumber(Math.floor(Math.random() * 6))
         }
     }
 
@@ -121,12 +117,12 @@ export default function Session(props) {
                     : `Your most recent score is ${mostRecentScore}`
                     }</div>
                 <br></br>
-                <button onClick={() => startTest()}>Select</button>
                 <select onChange={(e) => setQueryType(e.target.value)}>
                     {topics[0].map((item) => (
                         <option key={item.id}>{item.name}</option>
                     ))}
                 </select>
+                <button onClick={() => startTest()}>Select</button>
                 <br></br><br></br>
             </div>
 
