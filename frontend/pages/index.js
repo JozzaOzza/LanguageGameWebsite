@@ -16,8 +16,8 @@ export default function HomePage() {
     <div>
       <NavBar></NavBar>
       <br />
-      <div>The aim of this project is to create a website where you can practice vocab learning in a foreign language</div> <br />
-      <div>Currently, the only supported language is Italian</div> <br />
+      <div>Learn Italian by practicing specific types of words</div> <br />
+      <div>Currently the only format is a 10 question test, with words randomly selected from a given category</div> <br />
     </div>
 
   );

@@ -58,3 +58,27 @@ app.get("/api/nouns/:topic", async (req, res) => {
     //res.send({queryData: data})
     res.json(data)
 })
+
+// get adverbs by topic
+app.get("/api/adverbs/:topic", async (req, res) => {
+    console.log(`Get request at ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()} - Adverbs with topic '${req.params.topic}'`)
+    res.set({
+        "Access-Control-Allow-Origin" : "*", 
+        "Access-Control-Allow-Credentials" : true 
+    })
+    data = await runQuery(`select top 10 * from [dbo].[adverbs] where category = '${req.params.topic}' order by newid()`)
+    //res.send({queryData: data})
+    res.json(data)
+})
+
+// get adverbs by topic
+app.get("/api/adjectives/:topic", async (req, res) => {
+    console.log(`Get request at ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()} - Adjectives with topic '${req.params.topic}'`)
+    res.set({
+        "Access-Control-Allow-Origin" : "*", 
+        "Access-Control-Allow-Credentials" : true 
+    })
+    data = await runQuery(`select top 10 * from [dbo].[adjectives] where category = '${req.params.topic}' order by newid()`)
+    //res.send({queryData: data})
+    res.json(data)
+})

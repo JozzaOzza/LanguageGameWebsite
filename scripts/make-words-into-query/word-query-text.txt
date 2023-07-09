@@ -1,0 +1,18 @@
+insert into [dbo].[adjectives]
+values
+('one', 'uno', 'numbers', '', ''),
+('two', 'due', 'numbers', '', ''),
+('three', 'tre', 'numbers', '', ''),
+('four', 'quattro', 'numbers', '', ''),
+('five', 'cinque', 'numbers', '', ''),
+('six', 'sei', 'numbers', '', ''),
+('seven', 'sette', 'numbers', '', ''),
+('eight', 'otto', 'numbers', '', ''),
+('nine', 'nove', 'numbers', '', ''),
+('ten', 'dieci', 'numbers', '', ''),
+('eleven', 'undici', 'numbers', '', ''),
+('twelve', 'dodici', 'numbers', '', ''),
+('thirteen', 'tredici', 'numbers', '', ''),
+('fourteen', 'quattordici', 'numbers', '', ''),
+('fifteen', 'quindici', 'numbers', '', ''),
+('sixteen', 'sedici', 'numbers', '', ''),

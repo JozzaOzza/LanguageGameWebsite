@@ -1,4 +1,4 @@
-$queryFile = '.\noun-query-text.txt'
+$queryFile = '.\word-query-text.txt'
 $textFile = '.\raw-text.txt'
 
 # remove last line of target file if it's empty
@@ -15,7 +15,7 @@ function makeQueryFromLine {
     # columns
     $english = $line.Substring(0, $indexOfEqualSign).Trim().ToLower()
     $italian = $line.Substring(($indexOfEqualSign + 1)).Trim().ToLower()
-    $topic = 'time'
+    $topic = 'numbers'
     $alternatives = ''
     $examplePhrase = ''
 

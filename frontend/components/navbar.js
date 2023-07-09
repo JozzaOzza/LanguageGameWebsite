@@ -8,6 +8,12 @@ export default function NavBar() {
             <li>
                 <a href="/verbs" className="site-links">Verbs</a>
             </li>
+            <li>
+                <a href="/adjectives" className="site-links">Adjectives</a>
+            </li>
+            <li>
+                <a href="/adverbs" className="site-links">Adverbs</a>
+            </li>
         </ul>
     </nav>
 }
