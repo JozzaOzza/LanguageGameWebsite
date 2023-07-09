@@ -1,5 +1,5 @@
 import NavBar from "../components/navbar"
-import Session from "../components/session"
+import VerbsSession from "../components/verbsSession"
 
 function Verbs() {
 
@@ -14,7 +14,7 @@ function Verbs() {
                     justifyContent: 'center'
                 }}>Verbs Practice</h4>
                 <br></br>
-                <Session topics={topics}></Session>
+                <VerbsSession topics={topics}></VerbsSession>
             </div>
         </div>
     )

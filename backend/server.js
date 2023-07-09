@@ -11,6 +11,8 @@ app.listen(
     () => console.log(`Express server is listening on port number: ${PORT}`)
 )
 
+// // comment and uncomment whenever I need to restart app
+
 // database config
 const config = {
     user: `${process.env.SQL_SERVER_USERNAME}`, // better stored in an app setting such as process.env.DB_USER
@@ -45,16 +47,14 @@ app.get("/api/verbs/:ending", async (req, res) => {
     res.json(data)
 })
 
-// // post verbs
-// app.post("/api/verbs/post", async (req, res) => {
-//     console.log(`Request received at: ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()} - Verbs with ending: '${req.params.ending}'`)
-//     res.set({
-//         "Access-Control-Allow-Origin" : "*", 
-//         "Access-Control-Allow-Credentials" : true 
-//     })
-//     data = await runQuery(`select top 5 * from [dbo].[verbsPresent] where ending = '${req.params.ending}'`)
-//     //res.send({queryData: data})
-//     res.json(data)
-// })
-
-// // comment and uncomment whenever I need to restart app
+// get nouns by topic
+app.get("/api/nouns/:topic", async (req, res) => {
+    console.log(`Get request at ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()} - Nouns with topic '${req.params.ending}'`)
+    res.set({
+        "Access-Control-Allow-Origin" : "*", 
+        "Access-Control-Allow-Credentials" : true 
+    })
+    data = await runQuery(`select top 10 * from [dbo].[nouns] where topic = '${req.params.topic}' order by newid()`)
+    //res.send({queryData: data})
+    res.json(data)
+})

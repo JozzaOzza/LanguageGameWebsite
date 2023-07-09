@@ -1,9 +1,13 @@
 import React, { useEffect, useState } from 'react';
 
-export default function Session(props) {
+export default function VerbsSession(props) {
 
     const topics = props.topics;
+    const conjugates = ["i", "youSingular", "theySingular", "we", "youPlural", "theyPlural"]
+    const readableConjugates = ["I", "You (singular)", "They (singular)", "We", "You (plural)", "They (plural)"]
     const testLength = 10
+    let currentScore = 0
+    let currentTotal = 0
 
     // states
 
@@ -13,7 +17,8 @@ export default function Session(props) {
     const [selectAreaDisplay, setSelectAreaDisplay] = useState('block') // area where user can pick a topic, is this hidden or not
 
     const [queryData, setQueryData] = useState(null) // data from database
-    const [wordNumber, setWordNumber] = useState(0) // the word from queryData that the user will translate
+    const [wordNumber, setWordNumber] = useState(0) // the verb from queryData that the user will translate
+    const [conjugateNumber, setConjugateNumber] = useState(Math.floor(Math.random() * 6)) // the specific conjugation the user will answer
     const [response, setResponse] = useState('') // the user's answer
     const [score, setScore] = useState(0) // the user's correct answers
     const [total, setTotal] = useState(0) // the total number of questions the user has answered
@@ -70,7 +75,7 @@ export default function Session(props) {
 
     async function getData() {
         try {
-            fetch(`http://localhost:5000/api/${topics[1]}/${queryType}`
+            fetch(`http://localhost:5000/api/verbs/${queryType}`
             ).then(
                 Response => Response.json()
             ).then(
@@ -95,11 +100,11 @@ export default function Session(props) {
     }
 
     async function nextQuestion() {
-        setScore(response.toLocaleLowerCase().trim() == queryData[wordNumber].italian ? score + 1 : score)
+        setScore(response.toLocaleLowerCase().trim() == queryData[wordNumber][conjugates[conjugateNumber]] ? score + 1 : score)
         setTotal(total + 1)
-        currentScore = response.toLocaleLowerCase().trim() == queryData[wordNumber].italian ? currentScore + 1 : currentScore
+        currentScore = response.toLocaleLowerCase().trim() == queryData[wordNumber][conjugates[conjugateNumber]] ? currentScore + 1 : currentScore
         currentTotal += 1
-        setResultString(response.toLocaleLowerCase().trim() == queryData[wordNumber].italian ? resultString + "/" : resultString + "X")
+        setResultString(response.toLocaleLowerCase().trim() == queryData[wordNumber][conjugates[conjugateNumber]] ? resultString + "/" : resultString + "X")
         if (wordNumber === testLength - 1) {
             endTest()
         } else {
@@ -133,7 +138,7 @@ export default function Session(props) {
             <div id='responseArea' style={{
                 display: responseAreaDisplay
             }}>
-                <div>{(!isPending && queryData) && `Translate '${queryData[wordNumber].english}'`}</div>
+                <div>{(!isPending && queryData) && `Conjugate '${queryData[wordNumber].english}' in the '${readableConjugates[conjugateNumber]}' form`}</div>
                 <br></br>
                 <div >
                     <input

@@ -11,16 +11,13 @@ verbs (separate tenses into tables)
     english, italian infinitive, ending, i, you, he she, we, you (pl), they (pl), isRegular?
 
 nouns
-    english, italian, category
+    english, italian, category, alternatives, example
 
 adverbs
-    english, italian, category
+    english, italian, category, alternatives, example
 
 adjectives
-    english, italian, category
-
-adjectives
-    english, italian, category    
+    english, italian, category, alternatives, example
 
 pronouns, connectives, others 
-    english, italian, category
+    english, italian, category, alternatives, example

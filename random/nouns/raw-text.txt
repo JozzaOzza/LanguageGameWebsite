@@ -1,0 +1,17 @@
+house, home = casa
+country, town = paese
+world = mondo
+city = città
+road = strada
+square = piazza
+room = sala
+building = edificio
+office = ufficio
+zone = zona
+island = isola
+place = posto
+street, road = via
+north = nord
+south = sud
+east = est
+west = ovest
