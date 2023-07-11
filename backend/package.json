@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/JozzaOzza/LanguageGameWebsite.git"
   },
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
+  },
   "scripts": {
     "test": "echo \"No tests created yet\"",
     "start": "node server",
