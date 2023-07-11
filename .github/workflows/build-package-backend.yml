@@ -29,13 +29,20 @@ jobs:
     permissions:
       contents: read
       packages: write
+    
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
         with:
           node-version: 18.5.0
           registry-url: https://npm.pkg.github.com/
-      - run: npm ci
+          scope: '@JozzaOzza'
+      
+      - name: Authenticate with GitHub
+        run:   
+          echo "//npm.pkg.github.com:_authToken=${{ secrets.GITHUB_TOKEN }}" >
+          ~/.npmrc
+          
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
