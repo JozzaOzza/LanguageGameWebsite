@@ -1,8 +1,12 @@
 {
-  "name": "backend",
+  "name": "language-game-website-backend",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JozzaOzza/LanguageGameWebsite.git"
+  },
   "scripts": {
     "test": "echo \"No tests created yet\"",
     "start": "node server",
