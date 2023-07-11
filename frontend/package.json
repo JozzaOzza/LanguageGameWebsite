@@ -1,4 +1,5 @@
 {
+    "name": "@JozzaOzza/language-game-website-frontend",
     "proxy": "http://localhost:5000",
     "scripts": {
         "dev": "next dev"
