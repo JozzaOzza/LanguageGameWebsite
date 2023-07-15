@@ -29,7 +29,7 @@ export default function Session(props) {
     const [response, setResponse] = useState('') // the user's answer
     const [score, setScore] = useState(0) // the user's correct answers
     const [total, setTotal] = useState(0) // the total number of questions the user has answered
-    const [mostRecentScore, setMostRecentScore] = useState(null) // user's most recent score
+    const [mostRecentScore, setMostRecentScore] = useState("") // user's most recent score
     const [resultString, setResultString] = useState("")
 
     // effects
@@ -40,13 +40,10 @@ export default function Session(props) {
 
     useEffect(() => {
         console.log(`Current total is ${total}`)
-    }, [total])
-
-    useEffect(() => {
         if (total == 10) {
             setMostRecentScore(`${100 * (score / total)}%`)
         }
-    }, [score])
+    }, [total])
 
     // functions
 
@@ -117,7 +114,7 @@ export default function Session(props) {
                 display: selectAreaDisplay
             }} p="10">
                 <FormLabel >Select an option from the dropdown menu</FormLabel>
-                <FormLabel >{mostRecentScore === null && mostRecentScore !== 0
+                <FormLabel >{mostRecentScore === ""
                     ? "Complete a test to see your most recent score"
                     : `Your most recent score is ${mostRecentScore}`
                 }</FormLabel>

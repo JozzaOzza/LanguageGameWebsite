@@ -31,13 +31,10 @@ export default function VerbsSession(props) {
 
     useEffect(() => {
         console.log(`Current total is ${total}`)
-    }, [total])
-
-    useEffect(() => {
         if (total == 10) {
             setMostRecentScore(`${100 * (score / total)}%`)
         }
-    }, [score])
+    }, [total])
 
     // functions
 
