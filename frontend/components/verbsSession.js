@@ -6,8 +6,6 @@ export default function VerbsSession(props) {
     const conjugates = ["i", "youSingular", "theySingular", "we", "youPlural", "theyPlural"]
     const readableConjugates = ["I", "You (singular)", "They (singular)", "We", "You (plural)", "They (plural)"]
     const testLength = 10
-    let currentScore = 0
-    let currentTotal = 0
 
     // states
 
@@ -47,7 +45,6 @@ export default function VerbsSession(props) {
         setIsPending(true)
         setScore(0)
         setTotal(0)
-        currentScore, currentTotal = 0, 0
         setWordNumber(0)
         setResponse('')
 
@@ -102,8 +99,6 @@ export default function VerbsSession(props) {
     async function nextQuestion() {
         setScore(response.toLocaleLowerCase().trim() == queryData[wordNumber][conjugates[conjugateNumber]] ? score + 1 : score)
         setTotal(total + 1)
-        currentScore = response.toLocaleLowerCase().trim() == queryData[wordNumber][conjugates[conjugateNumber]] ? currentScore + 1 : currentScore
-        currentTotal += 1
         setResultString(response.toLocaleLowerCase().trim() == queryData[wordNumber][conjugates[conjugateNumber]] ? resultString + "/" : resultString + "X")
         if (wordNumber === testLength - 1) {
             endTest()
@@ -121,7 +116,7 @@ export default function VerbsSession(props) {
                 display: selectAreaDisplay
             }}>
                 <div >Select an option from the dropdown menu</div>
-                <div >{mostRecentScore == null
+                <div >{mostRecentScore === null && mostRecentScore !== 0
                     ? "Complete a test to see your most recent score"
                     : `Your most recent score is ${mostRecentScore}`
                     }</div>

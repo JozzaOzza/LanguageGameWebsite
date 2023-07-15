@@ -11,7 +11,7 @@ app.listen(
     () => console.log(`Express server is listening on port number: ${PORT}`)
 )
 
-// // comment and uncomment whenever I need to restart app
+// comment and uncomment whenever I need to restart app
 
 // database config
 const config = {

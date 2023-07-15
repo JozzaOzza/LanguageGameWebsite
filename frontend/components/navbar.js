@@ -1,18 +1,23 @@
+import { Link } from '@chakra-ui/react'
+
 export default function NavBar() {
     return <nav className="nav">
-        <a href="/" className="site-title">Simple Language Learning</a>
+        <Link href="/" className="site-title">Simple Language Learning</Link>
         <ul>
             <li>
-                <a href="/nouns" className="site-links">Nouns</a>
+                <Link href="/nouns" className="site-links">Nouns</Link>
             </li>
             <li>
-                <a href="/verbs" className="site-links">Verbs</a>
+                <Link href="/verbs" className="site-links">Verbs</Link>
             </li>
             <li>
-                <a href="/adjectives" className="site-links">Adjectives</a>
+                <Link href="/adjectives" className="site-links">Adjectives</Link>
             </li>
             <li>
-                <a href="/adverbs" className="site-links">Adverbs</a>
+                <Link href="/adverbs" className="site-links">Adverbs</Link>
+            </li>
+            <li>
+                <Link href="/other" className="site-links">Other</Link>
             </li>
         </ul>
     </nav>

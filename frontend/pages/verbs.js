@@ -9,11 +9,6 @@ function Verbs() {
         <div className="verbs" >
             <NavBar></NavBar>
             <div>
-                <h4 style={{
-                    display: 'flex',
-                    justifyContent: 'center'
-                }}>Verbs Practice</h4>
-                <br></br>
                 <VerbsSession topics={topics}></VerbsSession>
             </div>
         </div>

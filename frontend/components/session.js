@@ -1,4 +1,16 @@
 import React, { useEffect, useState } from 'react';
+import { Link } from '@chakra-ui/next-js'
+import { Button, ButtonGroup } from '@chakra-ui/react'
+import { Select } from '@chakra-ui/react'
+import { Input } from '@chakra-ui/react'
+import { Heading } from '@chakra-ui/react';
+import {
+    FormControl,
+    FormLabel,
+    FormErrorMessage,
+    FormHelperText,
+} from '@chakra-ui/react'
+import { Card, CardHeader, CardBody, CardFooter } from '@chakra-ui/react'
 
 export default function Session(props) {
 
@@ -59,13 +71,6 @@ export default function Session(props) {
         setResultString("")
     }
 
-    async function endTestWithoutScore() {
-        setSelectAreaDisplay('block')
-        setResponseAreaDisplay('none')
-        setQueryData(null)
-        setResultString("")
-    }
-
     async function getData() {
         try {
             fetch(`http://localhost:5000/api/${topics[1]}/${queryType}`
@@ -108,48 +113,47 @@ export default function Session(props) {
     // html
     return (
         <div >
-            <div id='selectArea' style={{
+            <FormControl id='selectArea' style={{
                 display: selectAreaDisplay
-            }}>
-                <div >Select an option from the dropdown menu</div>
-                <div >{mostRecentScore == null
+            }} p="10">
+                <FormLabel >Select an option from the dropdown menu</FormLabel>
+                <FormLabel >{mostRecentScore === null && mostRecentScore !== 0
                     ? "Complete a test to see your most recent score"
                     : `Your most recent score is ${mostRecentScore}`
-                    }</div>
+                }</FormLabel>
                 <br></br>
-                <select onChange={(e) => setQueryType(e.target.value)}>
+                <Button onClick={() => startTest()}>Select</Button>
+                <br></br> <br></br>
+                <Select onChange={(e) => setQueryType(e.target.value)}>
                     {topics[0].map((item) => (
                         <option key={item.id}>{item.name}</option>
                     ))}
-                </select>
-                <button onClick={() => startTest()}>Select</button>
+                </Select>
                 <br></br><br></br>
-            </div>
+            </FormControl>
 
-            <div id='responseArea' style={{
+
+            <FormControl id='responseArea' style={{
                 display: responseAreaDisplay
-            }}>
-                <div>{(!isPending && queryData) && `Translate '${queryData[wordNumber].english}'`}</div>
+            }} p="10">
+                <FormLabel>{(!isPending && queryData) && `Translate '${queryData[wordNumber].english}'`}</FormLabel>
                 <br></br>
-                <div >
-                    <input
-                        placeholder='type answer here'
-                        required
-                        value={response}
-                        onChange={(e) => setResponse(e.target.value)}
-                    ></input>
-                </div>
+                <Input
+                    placeholder='type answer here'
+                    required
+                    value={response}
+                    onChange={(e) => setResponse(e.target.value)}
+                ></Input>
+                <br></br> <br></br>
+                <ButtonGroup>
+                    <Button onClick={() => nextQuestion()}>Submit</Button>
+                    <Button onClick={() => endTest()}>End test</Button>
+                </ButtonGroup>
                 <br></br>
-                <div >
-                    <button onClick={() => nextQuestion()}>Submit</button>
-                    ----
-                    <button onClick={() => endTestWithoutScore()}>End test</button>
-                </div>
+                <FormHelperText >{`Question ${total + 1} out of 10`}</FormHelperText>
                 <br></br>
-                <div >{`Question ${total + 1} out of 10`}</div>
-                <br></br>
-                <div >{resultString}</div>
-            </div>
+                <FormHelperText >{resultString}</FormHelperText>
+            </FormControl>
         </div>
 
     )

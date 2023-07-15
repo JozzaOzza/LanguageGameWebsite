@@ -1,7 +1,12 @@
 // _app.js
 import '../global.css'
+import { ChakraProvider } from '@chakra-ui/react'
 
 const MyApp = ({ Component, pageProps }) => {
-    return <Component {...pageProps} />
-  }
-  export default MyApp
+  return (
+    <ChakraProvider>
+      <Component {...pageProps} />
+    </ChakraProvider>
+  )
+}
+export default MyApp

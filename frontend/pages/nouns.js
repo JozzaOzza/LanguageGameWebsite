@@ -9,11 +9,6 @@ function Nouns() {
         <div className="nouns" >
             <NavBar></NavBar>
             <div>
-                <h4 style={{
-                    display: 'flex',
-                    justifyContent: 'center'
-                }}>Nouns Practice</h4>
-                <br></br>
                 <Session topics={topics}></Session>
             </div>
         </div>
