@@ -1,4 +1,16 @@
 import React, { useEffect, useState } from 'react';
+import { Link } from '@chakra-ui/next-js'
+import { Button, ButtonGroup } from '@chakra-ui/react'
+import { Select } from '@chakra-ui/react'
+import { Input } from '@chakra-ui/react'
+import { Heading } from '@chakra-ui/react';
+import {
+    FormControl,
+    FormLabel,
+    FormErrorMessage,
+    FormHelperText,
+} from '@chakra-ui/react'
+import { Card, CardHeader, CardBody, CardFooter } from '@chakra-ui/react'
 
 export default function VerbsSession(props) {
 
@@ -36,6 +48,19 @@ export default function VerbsSession(props) {
         }
     }, [total])
 
+    useEffect(() => {
+        if (queryData == null) {
+            setIsPending(true)
+        } else {
+            setIsPending(false)
+        }
+    }, [queryData])
+
+    useEffect(() => {
+        setSelectAreaDisplay(isPending ? 'block' : 'none')
+        setResponseAreaDisplay(isPending ? 'none' : 'block')
+    }, [isPending])
+
     // functions
 
     async function startTest() {
@@ -46,11 +71,7 @@ export default function VerbsSession(props) {
         setResponse('')
 
         setConjugateNumber(Math.floor(Math.random() * 6))
-        await getData()
-
-        setResponseAreaDisplay('block')
-        setSelectAreaDisplay('none')
-        setIsPending(false)
+        getData()
     }
 
     async function endTest() {
@@ -109,48 +130,46 @@ export default function VerbsSession(props) {
     // html
     return (
         <div >
-            <div id='selectArea' style={{
+            <FormControl id='selectArea' style={{
                 display: selectAreaDisplay
-            }}>
-                <div >Select an option from the dropdown menu</div>
-                <div >{mostRecentScore === null && mostRecentScore !== 0
+            }} p="10">
+                <FormLabel >Select an option from the dropdown menu</FormLabel>
+                <FormLabel >{mostRecentScore === ""
                     ? "Complete a test to see your most recent score"
                     : `Your most recent score is ${mostRecentScore}`
-                    }</div>
+                }</FormLabel>
                 <br></br>
-                <button onClick={() => startTest()}>Select</button>
-                <select onChange={(e) => setQueryType(e.target.value)}>
+                <Button onClick={() => startTest()}>Select</Button>
+                <br></br> <br></br>
+                <Select onChange={(e) => setQueryType(e.target.value)}>
                     {topics[0].map((item) => (
                         <option key={item.id}>{item.name}</option>
                     ))}
-                </select>
+                </Select>
                 <br></br><br></br>
-            </div>
+            </FormControl>
 
-            <div id='responseArea' style={{
+            <FormControl id='responseArea' style={{
                 display: responseAreaDisplay
-            }}>
-                <div>{(!isPending && queryData) && `Conjugate '${queryData[wordNumber].english}' in the '${readableConjugates[conjugateNumber]}' form`}</div>
+            }} p="10">
+                <FormLabel>{(!isPending && queryData) && `Translate '${queryData[wordNumber].english}' in the '${readableConjugates[conjugateNumber]}' form`}</FormLabel>
                 <br></br>
-                <div >
-                    <input
-                        placeholder='type answer here'
-                        required
-                        value={response}
-                        onChange={(e) => setResponse(e.target.value)}
-                    ></input>
-                </div>
+                <Input
+                    placeholder='type answer here'
+                    required
+                    value={response}
+                    onChange={(e) => setResponse(e.target.value)}
+                ></Input>
+                <br></br> <br></br>
+                <ButtonGroup>
+                    <Button onClick={() => nextQuestion()}>Submit</Button>
+                    <Button onClick={() => endTest()}>End test</Button>
+                </ButtonGroup>
                 <br></br>
-                <div >
-                    <button onClick={() => nextQuestion()}>Submit</button>
-                    ----
-                    <button onClick={() => endTestWithoutScore()}>End test</button>
-                </div>
+                <FormHelperText >{`Question ${total + 1} out of 10`}</FormHelperText>
                 <br></br>
-                <div >{`Question ${total + 1} out of 10`}</div>
-                <br></br>
-                <div >{resultString}</div>
-            </div>
+                <FormHelperText >{resultString}</FormHelperText>
+            </FormControl>
         </div>
 
     )

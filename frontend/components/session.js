@@ -17,6 +17,7 @@ export default function Session(props) {
     const topics = props.topics;
     const testLength = 10
 
+    // ----------------------------------------------------------------------
     // states
 
     const [queryType, setQueryType] = useState(props.topics[0][0]["name"]) // type of data to get from the database
@@ -32,6 +33,7 @@ export default function Session(props) {
     const [mostRecentScore, setMostRecentScore] = useState("") // user's most recent score
     const [resultString, setResultString] = useState("")
 
+    // ----------------------------------------------------------------------
     // effects
 
     useEffect(() => {
@@ -45,20 +47,30 @@ export default function Session(props) {
         }
     }, [total])
 
+    useEffect(() => {
+        if (queryData == null) {
+            setIsPending(true)
+        } else {
+            setIsPending(false)
+        }
+    }, [queryData])
+
+    useEffect(() => {
+        setSelectAreaDisplay(isPending ? 'block' : 'none')
+        setResponseAreaDisplay(isPending ? 'none' : 'block')
+    }, [isPending])
+
+    // ----------------------------------------------------------------------
     // functions
 
-    async function startTest() {
+    function startTest() {
         setIsPending(true)
         setScore(0)
         setTotal(0)
         setWordNumber(0)
         setResponse('')
 
-        await getData()
-
-        setResponseAreaDisplay('block')
-        setSelectAreaDisplay('none')
-        setIsPending(false)
+        getData()
     }
 
     async function endTest() {
@@ -68,7 +80,7 @@ export default function Session(props) {
         setResultString("")
     }
 
-    async function getData() {
+    function getData() {
         try {
             fetch(`http://localhost:5000/api/${topics[1]}/${queryType}`
             ).then(
@@ -107,6 +119,7 @@ export default function Session(props) {
         }
     }
 
+    // ----------------------------------------------------------------------
     // html
     return (
         <div >
