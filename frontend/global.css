@@ -13,7 +13,7 @@ body {
 }
 
 .nav {
-    background-color: #333;
+    background-color: #353538;
     color: white;
     display: flex;
     justify-content: space-between;
@@ -48,7 +48,7 @@ body {
 }
 
 .nav li:hover {
-    background-color: #777;
+    background-color: #13a5df;
 }
 
 html, body, #root { height: 100%; }

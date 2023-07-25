@@ -11,12 +11,15 @@ function makeQueryFromLine {
         [string] $line
     )
     $indexOfEqualSign = $line.IndexOf('=')
+    $lastIndexOfComma = $line.LastIndexOf(',')
 
     # columns
     $english = $line.Substring(0, $indexOfEqualSign).Trim().ToLower()
-    $italian = $line.Substring(($indexOfEqualSign + 1)).Trim().ToLower()
-    $topic = 'numbers'
-    $alternatives = ''
+    $italian =  If ($lastIndexOfComma -lt $indexOfEqualSign) {$line.Substring(($indexOfEqualSign + 1)).Trim().ToLower()} `
+                Else {$line.Substring(($indexOfEqualSign + 1), ($lastIndexOfComma - $indexOfEqualSign - 1)).Trim().ToLower()}
+    $topic = 'general'
+    $alternatives = If ($lastIndexOfComma -lt $indexOfEqualSign) {''} `
+                    Else {$line.Substring(($lastIndexOfComma + 1)).Trim().ToLower()}
     $examplePhrase = ''
 
     # make query string and add to end of target file

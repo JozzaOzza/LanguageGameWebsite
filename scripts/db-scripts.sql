@@ -19,14 +19,19 @@ ADD column_name datatype;
 /*
 Add row(s)
 */
-INSERT INTO table_name (column_list)
-VALUES
-    (value_list_1),
-    (value_list_2)
+INSERT INTO [dbo].[nouns]
+VALUES ('popularity', 'popolarità', 'society', 'gradimento', '')
 
 /*
 Update rows
 */
-UPDATE table_name
-SET column1 = value1
-WHERE condition;
+UPDATE [dbo].[nouns]
+SET english = 'time (general)', italian = 'tempo', alternatives = ''
+WHERE id = 50;
+
+/*
+Update column
+*/
+UPDATE [dbo].[nouns]
+SET category = 'time'
+WHERE category = 'time (specific)';

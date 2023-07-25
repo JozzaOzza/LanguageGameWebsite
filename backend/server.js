@@ -71,7 +71,7 @@ app.get("/api/adverbs/:topic", async (req, res) => {
     res.json(data)
 })
 
-// get adverbs by topic
+// get adjectives by topic
 app.get("/api/adjectives/:topic", async (req, res) => {
     console.log(`Get request at ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()} - Adjectives with topic '${req.params.topic}'`)
     res.set({
