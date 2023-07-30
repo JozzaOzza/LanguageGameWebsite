@@ -58,4 +58,18 @@ jobs:
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  deploy:
+    needs: publish
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    
+    steps:
+      - name: 'Deploy backend to Azure web app'
+        uses: azure/webapps-deploy@v2
+        with:
+          app-name: apsvc-p1-lgw-backend
+          package: ./backend
         
