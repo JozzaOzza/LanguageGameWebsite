@@ -49,16 +49,41 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 18.5.0
-          cache: ${{ steps.detect-package-manager.outputs.manager }}
-          cache-dependency-path: frontend/package.json
           
       - name: Install dependencies
-        run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
+        run: npm ci
       - name: Build with Next.js
-        run: ${{ steps.detect-package-manager.outputs.runner }} next build
-      # - name: Static HTML export with Next.js
-      #   run: ${ steps.detect-package-manager.outputs.runner }} next export
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        run: npx next build
+
+  publish:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
         with:
-          path: ./out
+          node-version: 18.5.0
+          registry-url: https://npm.pkg.github.com/
+          scope: '@JozzaOzza'
+      
+      - name: Authenticate with GitHub
+        run:   
+          echo "//npm.pkg.github.com:_authToken=${{ secrets.GITHUB_TOKEN }}" >
+          ~/.npmrc
+
+      - name: Update version in package.json
+        shell: pwsh
+        env:
+          RunNumber: ${{ github.run_number }}
+        run: |
+          $packageJsonFile = Get-Content '.\package.json' -raw | ConvertFrom-Json -depth 99
+          $packageJsonFile.version = "1.0.$($env:RunNumber)"
+          $packageJsonFile | ConvertTo-Json -depth 99 | set-content '.\package.json'   
+
+      - run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
