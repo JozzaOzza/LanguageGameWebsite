@@ -67,7 +67,7 @@ jobs:
       packages: write
     
     steps:
-      - name: 'Deploy backend to Azure web app'
+      - name: 'Deploy Backend'
         uses: azure/webapps-deploy@v2
         with:
           app-name: apsvc-p1-lgw-backend
