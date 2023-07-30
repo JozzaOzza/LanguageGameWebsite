@@ -1,6 +1,14 @@
 {
     "name": "@JozzaOzza/language-game-website-frontend",
+    "version": "1.0.0",
     "proxy": "http://localhost:5000",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JozzaOzza/LanguageGameWebsite.git"
+      },
+      "publishConfig": { 
+        "registry": "https://npm.pkg.github.com/" 
+      },
     "scripts": {
         "dev": "next dev"
     },
