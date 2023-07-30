@@ -162,6 +162,15 @@ export default function VerbsSession(props) {
                 ></Input>
                 <br></br> <br></br>
                 <ButtonGroup>
+                    <Button onClick={() => setResponse(response + 'à')}>à</Button>
+                    <Button onClick={() => setResponse(response + 'è')}>è</Button>
+                    <Button onClick={() => setResponse(response + 'é')}>é</Button>
+                    <Button onClick={() => setResponse(response + 'ì')}>ì</Button>
+                    <Button onClick={() => setResponse(response + 'ò')}>ò</Button>
+                    <Button onClick={() => setResponse(response + 'ù')}>ù</Button>
+                </ButtonGroup>
+                <br></br> <br></br>
+                <ButtonGroup>
                     <Button onClick={() => nextQuestion()}>Submit</Button>
                     <Button onClick={() => endTest()}>End test</Button>
                 </ButtonGroup>

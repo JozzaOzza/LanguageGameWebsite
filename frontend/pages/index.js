@@ -16,8 +16,10 @@ export default function HomePage() {
     <div>
       <NavBar></NavBar>
       <br />
-      <div>Learn Italian by practicing specific types of words</div> <br />
-      <div>Currently the only format is a 10 question test, with words randomly selected from a given category</div> <br />
+      <div>A website for learning languages</div> <br />
+      <div>Currently, the only language you can practice here is Italian</div> <br />
+      <div>We hope to add more languages and more functionality in future</div> <br />
+      <div>:)</div> <br />
     </div>
 
   );
