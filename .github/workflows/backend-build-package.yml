@@ -71,5 +71,5 @@ jobs:
         uses: azure/webapps-deploy@v2
         with:
           app-name: apsvc-p1-lgw-backend
-          package: ./backend
+          publish-profile: '*.publishsettings'
         
