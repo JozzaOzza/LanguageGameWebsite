@@ -59,6 +59,12 @@ jobs:
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: language-game-website-backend
+          path: .
+
   deploy:
     needs: publish
     runs-on: ubuntu-latest
@@ -67,9 +73,15 @@ jobs:
       packages: write
     
     steps:
-      - name: 'Deploy Backend'
+      - name: Download artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: language-game-website-backend
+
+      - name: Deploy Backend
         uses: azure/webapps-deploy@v2
         with:
           app-name: apsvc-p1-lgw-backend
           publish-profile: ${{ secrets.AZURE_PUBLISH_PROFILE }}
+          package: .
         

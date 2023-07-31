@@ -15,6 +15,15 @@ resource backend 'Microsoft.Web/sites@2022-09-01' = {
   location: location
   properties: {
     serverFarmId: appServicePlan.id
+    siteConfig: {
+      nodeVersion: '18.5.0'
+      appSettings: [
+        {
+          name: 'WEBSITE_NODE_DEFAULT_VERSION'
+          value: '18.5.0'
+        }
+      ]
+    }
   }
 }
 
@@ -24,7 +33,13 @@ resource frontend 'Microsoft.Web/sites@2022-09-01' = {
   properties: {
     serverFarmId: appServicePlan.id
     siteConfig: {
-      linuxFxVersion: 'node|18.5.0'
+      nodeVersion: '18.5.0'
+      appSettings: [
+        {
+          name: 'WEBSITE_NODE_DEFAULT_VERSION'
+          value: '18.5.0'
+        }
+      ]
     }
   }
 }
