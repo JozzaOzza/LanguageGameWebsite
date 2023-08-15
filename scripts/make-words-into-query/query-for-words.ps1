@@ -17,7 +17,7 @@ function makeQueryFromLine {
     $english = $line.Substring(0, $indexOfEqualSign).Trim().ToLower()
     $italian =  If ($lastIndexOfComma -lt $indexOfEqualSign) {$line.Substring(($indexOfEqualSign + 1)).Trim().ToLower()} `
                 Else {$line.Substring(($indexOfEqualSign + 1), ($lastIndexOfComma - $indexOfEqualSign - 1)).Trim().ToLower()}
-    $topic = 'interjections'
+    $topic = 'Place'
     $alternatives = If ($lastIndexOfComma -lt $indexOfEqualSign) {''} `
                     Else {$line.Substring(($lastIndexOfComma + 1)).Trim().ToLower()}
     $examplePhrase = ''

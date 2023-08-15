@@ -13,6 +13,13 @@ app.listen(
 
 // comment and uncomment whenever I need to restart app
 
+// test endpoint
+app.get("/api/hello", (req, res) => {
+    console.log(`GET - hello - ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()}`)
+    res.status(200).send("Hello, you've reached the Language Game Website backend")
+    throw new Error('Your request to the /hello endpoint failed')
+})
+
 // database config
 const config = {
     user: `${process.env.SQL_SERVER_USERNAME}`, // better stored in an app setting such as process.env.DB_USER
@@ -37,7 +44,7 @@ async function runQuery(query) {
 
 // get verbs by ending
 app.get("/api/verbs/:ending", async (req, res) => {
-    console.log(`Get request at ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()} - Verbs with ending '${req.params.ending}'`)
+    console.log(`GET - Verbs with ending '${req.params.ending}' - ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()}`)
     res.set({
         "Access-Control-Allow-Origin" : "*", 
         "Access-Control-Allow-Credentials" : true 
@@ -49,7 +56,7 @@ app.get("/api/verbs/:ending", async (req, res) => {
 
 // get nouns by topic
 app.get("/api/nouns/:topic", async (req, res) => {
-    console.log(`Get request at ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()} - Nouns with topic '${req.params.topic}'`)
+    console.log(`GET - Nouns with topic '${req.params.topic}' - ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()}`)
     res.set({
         "Access-Control-Allow-Origin" : "*", 
         "Access-Control-Allow-Credentials" : true 
@@ -61,7 +68,7 @@ app.get("/api/nouns/:topic", async (req, res) => {
 
 // get adverbs by topic
 app.get("/api/adverbs/:topic", async (req, res) => {
-    console.log(`Get request at ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()} - Adverbs with topic '${req.params.topic}'`)
+    console.log(`GET - Adverbs with topic '${req.params.topic}' - ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()}`)
     res.set({
         "Access-Control-Allow-Origin" : "*", 
         "Access-Control-Allow-Credentials" : true 
@@ -73,12 +80,24 @@ app.get("/api/adverbs/:topic", async (req, res) => {
 
 // get adjectives by topic
 app.get("/api/adjectives/:topic", async (req, res) => {
-    console.log(`Get request at ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()} - Adjectives with topic '${req.params.topic}'`)
+    console.log(`GET - Adjectives with topic '${req.params.topic}' - ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()}`)
     res.set({
         "Access-Control-Allow-Origin" : "*", 
         "Access-Control-Allow-Credentials" : true 
     })
     data = await runQuery(`select top 10 * from [dbo].[adjectives] where category = '${req.params.topic}' order by newid()`)
+    //res.send({queryData: data})
+    res.json(data)
+})
+
+// get other by topic
+app.get("/api/other/:topic", async (req, res) => {
+    console.log(`GET - Other with topic '${req.params.topic}' - ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()}`)
+    res.set({
+        "Access-Control-Allow-Origin" : "*", 
+        "Access-Control-Allow-Credentials" : true 
+    })
+    data = await runQuery(`select top 10 * from [dbo].[other] where category = '${req.params.topic}' order by newid()`)
     //res.send({queryData: data})
     res.json(data)
 })

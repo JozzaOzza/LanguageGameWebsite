@@ -15,7 +15,6 @@ import { Card, CardHeader, CardBody, CardFooter } from '@chakra-ui/react'
 export default function Session(props) {
 
     const topics = props.topics;
-    const testLength = 10
 
     // ----------------------------------------------------------------------
     // states
@@ -26,6 +25,7 @@ export default function Session(props) {
     const [selectAreaDisplay, setSelectAreaDisplay] = useState('block') // area where user can pick a topic, is this hidden or not
 
     const [queryData, setQueryData] = useState(null) // data from database
+    const [testLength, setTestLength] = useState(0)
     const [wordNumber, setWordNumber] = useState(0) // the word from queryData that the user will translate
     const [response, setResponse] = useState('') // the user's answer
     const [score, setScore] = useState(0) // the user's correct answers
@@ -42,9 +42,6 @@ export default function Session(props) {
 
     useEffect(() => {
         console.log(`Current total is ${total}`)
-        if (total == 10) {
-            setMostRecentScore(`${100 * (score / total)}%`)
-        }
     }, [total])
 
     useEffect(() => {
@@ -52,6 +49,7 @@ export default function Session(props) {
             setIsPending(true)
         } else {
             setIsPending(false)
+            setTestLength(queryData.length)
         }
     }, [queryData])
 
@@ -108,11 +106,12 @@ export default function Session(props) {
     }
 
     async function nextQuestion() {
-        setScore(response.toLocaleLowerCase().trim() == queryData[wordNumber].italian ? score + 1 : score)
+        setScore(response.toLocaleLowerCase().trim() == queryData[wordNumber].italian || response.toLocaleLowerCase().trim() == queryData[wordNumber].alternatives ? score + 1 : score)
         setTotal(total + 1)
-        setResultString(response.toLocaleLowerCase().trim() == queryData[wordNumber].italian ? resultString + "/" : resultString + "X")
+        setResultString(response.toLocaleLowerCase().trim() == queryData[wordNumber].italian || response.toLocaleLowerCase().trim() == queryData[wordNumber].alternatives ? resultString + "/" : resultString + "X")
         if (wordNumber === testLength - 1) {
             endTest()
+            setMostRecentScore(`${100 * (score / total)}%`)
         } else {
             setResponse("")
             setWordNumber(wordNumber + 1)
@@ -169,7 +168,7 @@ export default function Session(props) {
                     <Button onClick={() => endTest()}>End test</Button>
                 </ButtonGroup>
                 <br></br> <br></br>
-                <FormHelperText >{`Question ${total + 1} out of 10`}</FormHelperText>
+                <FormHelperText >{`Question ${total + 1} out of ${testLength}`}</FormHelperText>
                 <br></br> <br></br>
                 <FormHelperText >{resultString}</FormHelperText>
             </FormControl>

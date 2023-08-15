@@ -3,9 +3,11 @@ import Session from "../components/session"
 
 function Adverbs() {
 
+    // take all ones in 'standard' and put into actual categories
+    // miscellaneous might better be used in 'other' page
     const topics = [[
-        { name: "manner", id: 1 }, { name: "miscellaneous", id: 2 }, { name: "place", id: 3 },
-        { name: "quantity", id: 4 }, { name: "standard", id: 5 }, { name: "time", id: 6 },
+        { name: "manner", id: 1 }, { name: "time", id: 2 }, { name: "place", id: 3 },
+        { name: "degree", id: 4 }
     ], "adverbs"]
 
     return (

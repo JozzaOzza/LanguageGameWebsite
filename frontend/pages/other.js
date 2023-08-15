@@ -9,8 +9,8 @@ function Other() {
         { name: "prepositions", id: 3 }, 
         { name: "question words", id: 4 }, 
         { name: "interjections", id: 5 }, 
-        { name: "articles", id: 6 }], 
-        5]
+        { name: "articles", id: 6 }
+    ], "other"]
 
     return (
         <div className="other" >

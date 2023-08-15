@@ -22,6 +22,22 @@ resource backend 'Microsoft.Web/sites@2022-09-01' = {
           name: 'WEBSITE_NODE_DEFAULT_VERSION'
           value: '18.5.0'
         }
+        {
+          name: 'SQL_SERVER_NAME'
+          value: 'italian-project-dev-server-1.database.windows.net'
+        }
+        {
+          name: 'SQL_SERVER_DB_NAME'
+          value: 'italian-project-dev-db-1'
+        }
+        {
+          name: 'SQL_SERVER_USERNAME'
+          value: 'jamieorr'
+        }
+        {
+          name: 'SQL_SERVER_PASSWORD'
+          value: 'Bugattiv4?!'
+        }
       ]
     }
   }
