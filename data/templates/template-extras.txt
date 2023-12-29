@@ -1,0 +1,22 @@
+(language) Italian
+(type) Extra
+
+(topic) 1
+word
+word
+
+(topic) 2
+word
+word
+
+(topic) 3
+word
+word
+
+(topic) 4
+word
+word
+
+(topic) 5
+word
+word
