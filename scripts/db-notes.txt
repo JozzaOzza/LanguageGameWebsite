@@ -7,8 +7,13 @@ tables
     adjectives
     pronouns, connectives, others
 
-verbs (separate tenses into tables)
-    english, italian infinitive, ending, i, you, he she, we, you (pl), they (pl), isRegular?
+verbs (separate tenses into tables) (also separate by category)
+    english, italian infinitive, ending, cateogry, i, you, he she, we, you (pl), they (pl), isRegular?
+    categories:
+        physical
+        mental
+        speech
+
 
 nouns
     english, italian, category, alternatives, example

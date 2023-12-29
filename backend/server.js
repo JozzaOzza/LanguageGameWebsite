@@ -55,49 +55,13 @@ app.get("/api/verbs/:ending", async (req, res) => {
 })
 
 // get nouns by topic
-app.get("/api/nouns/:topic", async (req, res) => {
-    console.log(`GET - Nouns with topic '${req.params.topic}' - ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()}`)
+app.get("/api/:type/:topic", async (req, res) => {
+    console.log(`GET - type '${req.params.type}' with topic '${req.params.topic}' - ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()}`)
     res.set({
         "Access-Control-Allow-Origin" : "*", 
         "Access-Control-Allow-Credentials" : true 
     })
-    data = await runQuery(`select top 10 * from [dbo].[nouns] where category = '${req.params.topic}' order by newid()`)
-    //res.send({queryData: data})
-    res.json(data)
-})
-
-// get adverbs by topic
-app.get("/api/adverbs/:topic", async (req, res) => {
-    console.log(`GET - Adverbs with topic '${req.params.topic}' - ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()}`)
-    res.set({
-        "Access-Control-Allow-Origin" : "*", 
-        "Access-Control-Allow-Credentials" : true 
-    })
-    data = await runQuery(`select top 10 * from [dbo].[adverbs] where category = '${req.params.topic}' order by newid()`)
-    //res.send({queryData: data})
-    res.json(data)
-})
-
-// get adjectives by topic
-app.get("/api/adjectives/:topic", async (req, res) => {
-    console.log(`GET - Adjectives with topic '${req.params.topic}' - ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()}`)
-    res.set({
-        "Access-Control-Allow-Origin" : "*", 
-        "Access-Control-Allow-Credentials" : true 
-    })
-    data = await runQuery(`select top 10 * from [dbo].[adjectives] where category = '${req.params.topic}' order by newid()`)
-    //res.send({queryData: data})
-    res.json(data)
-})
-
-// get other by topic
-app.get("/api/other/:topic", async (req, res) => {
-    console.log(`GET - Other with topic '${req.params.topic}' - ${new Date().getHours()}:${new Date().getMinutes()}:${new Date().getSeconds()}`)
-    res.set({
-        "Access-Control-Allow-Origin" : "*", 
-        "Access-Control-Allow-Credentials" : true 
-    })
-    data = await runQuery(`select top 10 * from [dbo].[other] where category = '${req.params.topic}' order by newid()`)
+    data = await runQuery(`select top 10 * from [dbo].[${req.params.type}] where category = '${req.params.topic}' order by newid()`)
     //res.send({queryData: data})
     res.json(data)
 })

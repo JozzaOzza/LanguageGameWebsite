@@ -1,0 +1,82 @@
+Manner
+well
+badly
+heavily
+slowly, quietly
+only, just
+together
+willingly
+better
+worse
+strongly
+simply
+frankly
+exactly
+sincerely
+deeply, profoundly
+certainly
+certainly
+suddenly
+clearly
+directly
+cordially
+
+Time
+then
+now
+always, forever
+never, never
+before
+immediately
+after
+during
+again, still, yet
+soon early, rapidly
+before, already
+rarely
+occasionally
+sometimes
+often
+recently
+quickly
+usually
+finally
+quickly
+
+Degree
+more
+less
+only
+Much, a lot
+almost
+little
+quite a lot, much
+quite, enough
+at least
+about, around
+at all
+especially
+particularly
+so much, to such an extent
+probably
+possibly
+truly, really, actually
+highly
+rather
+as well, also, too
+
+Place
+outside
+inside
+above
+under, below
+in front
+behind, back
+here (precise location)
+here (imprecise location)
+there (precise location)
+there (imprecise location)
+away
+far
+close
+around

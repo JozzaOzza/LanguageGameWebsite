@@ -42,6 +42,9 @@ export default function Session(props) {
 
     useEffect(() => {
         console.log(`Current total is ${total}`)
+        if (total >= testLength && testLength > 0) {
+            setMostRecentScore(`${Math.round(100 * (score / total))}%`)
+        }
     }, [total])
 
     useEffect(() => {
@@ -111,7 +114,6 @@ export default function Session(props) {
         setResultString(response.toLocaleLowerCase().trim() == queryData[wordNumber].italian || response.toLocaleLowerCase().trim() == queryData[wordNumber].alternatives ? resultString + "/" : resultString + "X")
         if (wordNumber === testLength - 1) {
             endTest()
-            setMostRecentScore(`${100 * (score / total)}%`)
         } else {
             setResponse("")
             setWordNumber(wordNumber + 1)
@@ -145,6 +147,8 @@ export default function Session(props) {
             <FormControl id='responseArea' style={{
                 display: responseAreaDisplay
             }} p="10">
+                <FormHelperText >{`${topics[1].charAt(0).toUpperCase() + topics[1].slice(1)} - ${queryType.charAt(0).toUpperCase() + queryType.slice(1)}`}</FormHelperText>
+                <br></br>
                 <FormLabel>{(!isPending && queryData) && `Translate '${queryData[wordNumber].english}'`}</FormLabel>
                 <br></br>
                 <Input

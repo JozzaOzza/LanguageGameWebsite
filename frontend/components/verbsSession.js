@@ -152,6 +152,8 @@ export default function VerbsSession(props) {
             <FormControl id='responseArea' style={{
                 display: responseAreaDisplay
             }} p="10">
+                <FormHelperText >{`${topics[1].charAt(0).toUpperCase() + topics[1].slice(1)} ending with - '${queryType.slice(1)}'`}</FormHelperText>
+                <br></br>
                 <FormLabel>{(!isPending && queryData) && `Translate '${queryData[wordNumber].english}' in the '${readableConjugates[conjugateNumber]}' form`}</FormLabel>
                 <br></br>
                 <Input

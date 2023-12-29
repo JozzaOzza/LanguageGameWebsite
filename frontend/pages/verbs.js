@@ -3,7 +3,7 @@ import VerbsSession from "../components/verbsSession"
 
 function Verbs() {
 
-    const topics = [[{ name: "-are", id: 1 }, { name: "-ere", id: 2 }, { name: "-ire", id: 3 }], 5]
+    const topics = [[{ name: "-are", id: 1 }, { name: "-ere", id: 2 }, { name: "-ire", id: 3 }], "verbs"]
 
     return (
         <div className="verbs" >
