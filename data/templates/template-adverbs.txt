@@ -1,0 +1,85 @@
+(Language) Template
+(Table) Adverbs
+
+
+(Category) Manner
+well
+badly
+heavily
+Slowly
+Loudly
+quietly
+together
+willingly
+better
+worse
+strongly
+simply
+frankly
+exactly
+sincerely
+deeply, profoundly
+certainly
+clearly
+directly
+Cordially
+
+
+(Category) Time
+then
+now
+always, forever
+never
+before
+immediately
+after
+during
+again
+Soon
+already
+rarely
+occasionally
+sometimes
+often
+recently
+quickly
+usually
+Finally
+Suddenly
+Just (e.g. I just did something)
+
+
+(Category) Degree/Extent
+more
+less
+only
+Much, a lot
+almost
+little
+quite a lot
+enough
+at least
+about, around
+at all
+especially
+particularly
+so much
+probably
+possibly
+
+
+(Category) Place
+outside
+inside
+above
+under, below
+in front
+behind, back
+here (precise location)
+here (imprecise location)
+there (precise location)
+there (imprecise location)
+away
+far
+close
+around

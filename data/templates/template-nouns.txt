@@ -1,0 +1,902 @@
+(Language) Template
+(Table) Nouns
+
+
+(Category) Time (general)
+Time
+moment
+second
+minute
+hour
+day
+week
+month
+quarter
+season
+Year
+Decade
+Century
+Millenium
+time (occasion)
+sunrise
+morning
+Afternoon
+sunset
+evening
+night
+period
+yesterday
+today
+Tomorrow
+
+
+(Category) Time (specific)
+Spring
+Summer
+Autumn
+Winter
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+Birthday
+Anniversary
+
+
+(Category) People 
+People
+person
+Man
+Woman
+Baby
+Child
+Boy
+Girl
+family
+Mother
+Father
+Son
+Daughter
+Uncle
+Aunt
+Grandfather
+Grandmother
+Cousin
+Nephew
+Niece
+Wife
+Husband
+Boyfriend
+Girlfriend
+Friend
+Enemy
+Colleague
+Boss
+
+
+(Category) Place (general)
+Place
+Area
+Continent
+Country
+Region
+Province
+State
+County
+City
+Town
+Village
+Suburb
+Border
+District
+Capital
+Motorway
+Road
+Street
+Path
+Alley
+
+
+(Category) Place (specific)
+England
+London
+Wales
+Scotland
+Northern Ireland
+United Kingdom
+France
+Spain
+Italy
+Germany
+Portugal
+United States of America
+China
+Japan
+Canada
+
+
+(Category) Place (urban)
+Line (train)
+Train station
+Airport
+Port
+Prison
+Parliament
+Palace
+Castle
+Skyscraper
+Church
+Cathedral
+University
+School
+Office
+Hospital
+Home
+House
+Suburb
+Stadium
+Club
+Canal
+Restaurant
+Bar
+Accommodation
+Apartment
+Mansion
+Bungalow
+Hotel
+Garden
+Park
+Cinema
+Library
+Pitch
+Court
+Courtyard
+Square
+
+
+(Category) Place (natural)
+World
+planet
+countryside
+Reserve
+land
+Desert
+Forest
+Jungle
+Hill
+Mountain
+Mountain range
+Beach
+Coast
+River
+Ocean
+Sea
+Lake
+Pond
+
+
+(Category) Place (indoors)
+Room
+Door
+Entrance
+Exit
+Kitchen
+Lounge
+Bedroom
+Toilet
+Study
+Dining room
+Annex
+Garage
+
+
+(Category) General
+Way
+Thing
+Life
+State (situation)
+Group
+problem
+Part
+Case
+System
+program
+Question
+Work
+Number
+Story
+Fact
+Issue
+Kind
+Power
+Line 
+End
+Idea
+Information
+Other
+Level
+Result
+Change
+Reason
+Force
+Cause
+Effect
+
+
+(Category) Body
+Body
+Head
+Face
+Eye
+Ear
+Nose
+Mouth
+Hair
+Neck
+Spine
+Shoulder
+Back
+Chest
+Arms
+Hand
+Finger
+Torso
+Abdomen
+Hip
+Leg
+Foot
+Toe
+Nail
+Muscle
+Bone
+Blood
+Vein
+Arterie
+Ligament
+Skin
+Brain
+Heart
+Lung
+Kidney
+Liver
+Stomach
+Intestine
+Nerves
+Cells
+DNA
+Bacteria
+
+
+(Category) Food (general)
+food
+drink
+Meat
+fish
+fruit
+Vegetables
+nuts
+meal
+breakfast
+lunch
+dinner
+Snack
+Starter
+Main course
+side (of a meal)
+Dessert
+Dish
+Platter
+
+
+(Category) Food (nutrition)
+Protein
+Fat
+Carbohydrate
+Sugar
+Salt
+Vitamin
+Mineral
+Antioxidant
+Electrolyte
+Sodium
+Magnesium
+Potassium
+Acid
+Alkali
+Caffeine
+
+
+(Category) Food (meat and fish)
+chicken 
+Beef
+Lamb
+Pork
+Salmon
+Trout
+Tuna
+Cod
+Mackerel
+Squid
+Prawn
+Shrimp
+Crab
+Lobster
+Sausage
+Bacon
+Ham
+Mince
+steak
+Breast
+Skewer
+Fillet
+Wing
+Thigh
+Cut
+Skin
+Bone
+Fillet (of steak)
+Sirloin
+Ribeye
+T-bone
+
+
+(Category) Food (fruit and vegetables)
+Apple
+Banana
+Orange
+Lemon
+Strawberry
+Raspberry
+Blueberry
+Beetroot
+Mango
+Pineapple
+Grape
+Peach
+Satsuma
+Pear
+Nectarine
+Tomato
+Potato
+Broccoli
+Peas
+Lettuce
+Onion
+Pepper
+Garlic
+Chilli
+Ginger
+Sweet potato
+Lettuce
+Spinach
+Kale
+Asparagus
+
+
+(Category) Food (common ingredients)
+Pasta
+Rice
+Noodles
+Milk
+Cheese
+Halloumi
+Cheddar
+Parmesan
+Nuts
+Almonds
+Walnuts
+Peanuts
+Cashews
+Chestnuts
+Corn
+Beans
+Bread
+Wheat
+Oats
+Olive oil
+Vinegar
+Soya sauce
+Crackers
+Herbs
+Spices
+Basil
+Thyme
+Bay leaves
+Oregano
+Parsley
+Rosemary
+Coriander
+Allspice
+Cinnamon
+Turmeric
+Paprika
+Cumin
+Saffron
+Cocoa
+Chocolate
+Coffee
+Vanilla
+
+
+(Category) Food (common dishes)
+Roast dinner
+Barbecue
+Pizza
+Pie
+Stir fry
+Soup
+Curry
+Burger
+Stew
+Sandwich
+Wrap
+Chips (french fries)
+
+
+(Category) Food (drinks)
+Coffee
+Tea
+green tea
+Black tea
+Hot chocolate
+Juice
+Apple juice
+Orange juice
+Lemonade
+Wine
+Beer
+Ale
+Rum
+Whisky
+Vodka
+Alcoholic drink
+Sparkling water
+Still water
+Ginger beer
+Shot (of alcohol)
+
+
+(Category) Food (equipment)
+Knife
+Fork
+Spoon
+Chopsticks
+Bottle
+Glass
+Cup
+Bowl
+Plate
+Pan
+Frying pan
+Saucepan
+Tray
+Oven
+Stove
+Barbecue
+Grill
+Microwave
+
+
+(Category) Clothing
+Hat
+Scarf
+Belt
+Shoes
+Shirt
+T-shirt
+Sweater
+Hoodie
+Trousers
+Shorts
+Skirt
+Dress
+Bra
+Socks
+Gloves
+Underpants
+Tracksuit bottoms
+Tights
+Suit
+Jacket
+Coat
+Thermal
+
+
+(Category) Society
+State (government)
+Company
+Government
+Right
+Job
+Law
+Community
+War
+Party (political)
+Right wing
+Left wing
+Libertarian
+Fascist
+Communist
+Socialist
+Capitalist
+Immigration
+Immigrant
+Tourism
+Tourist
+Population
+Citizen
+Social media
+News
+Election
+Doctor
+Nurse
+Lawyer
+Teacher
+
+
+(Category) Language (general)
+Book
+Page
+Paragraph
+Word
+Phrase
+Sentence
+Sound
+Expression
+Language
+Argument
+Explanation
+Description
+Name
+Summary
+Poem
+Essay
+Article
+Speech
+Grammar
+Vocabulary
+Dialect
+Slang
+
+
+(Category) Language (specific)
+English
+French
+Spanish
+Italian
+Portuguese
+German
+Japanese
+Mandarin
+Cantonese
+Latin
+Arabic
+Hindu
+Hebrew
+Farsi
+
+
+(Category) Transport
+Bicycle
+Scooter
+Skateboard
+Car
+Motorbike
+Bus
+Train
+Tram
+Tube
+Boat
+Plane
+Helicopter
+Submarine
+
+
+(Category) Academia
+School
+University
+Studies
+Subject
+Mathematics
+Science
+Biology
+Chemistry
+Physics
+Neuroscience
+Philosophy
+Economics
+Languages
+Engineering
+Law
+Geography
+History
+Computing
+Library
+Classroom
+Research
+Teacher
+Professor
+Education
+Student
+Graduate
+Test
+Exam
+Coursework
+Revision
+
+
+(Category) Sport
+Team
+Sport
+Individual
+Ball
+Racket
+Club
+Pitch
+Court
+Field
+Football
+Golf
+Tennis
+Rugby
+Basketball
+Goal
+Point
+Score
+Match
+Result
+Player
+Manager
+Captain
+Skill
+Talent
+Attack
+Defence
+Attacker
+midfielder
+Defender
+Goalkeeper
+Penalty
+Freekick
+Throw in
+Corner (e.g. in football)
+Corner (of pitch)
+Shot
+Pass
+Tackle
+Kick
+Foul
+Drive
+Putt
+Driver (golf)
+Putter
+Iron (golf)
+Wedge (golf)
+Trainers
+Boots (with studs)
+
+
+(Category) Exercise
+Exercise (in general)
+Exercise (specific)
+Gym
+Equipment
+Trainers
+Effort
+Speed
+Strength
+Agility
+Discipline
+Swimming pool
+Track
+Bar
+Weight
+Dumbbell
+Machine
+Workout
+Recovery
+Fitness
+
+
+(Category) Leisure
+Leisure
+Game
+Party (event)
+Relaxation
+Fun
+Holiday
+Break (time off)
+Wine
+Beer
+Spirits
+Alcohol
+Marijuana
+Drugs
+Spa
+Sauna
+Steam room
+Massage
+Song
+Music
+Film
+Series (TV)
+Television
+Bed
+Nap
+Gathering
+Festival
+Video games
+Console
+Remote
+Headphones
+
+
+(Category) Art
+Art
+Poetry
+Poem
+Novel
+Story
+Drawing
+Painting
+Sculpture
+Music
+Song
+Album
+Masterpiece
+Film
+Director
+Producer
+Script
+Gallery
+Artist
+Actor
+Singer
+Painter
+Sculptor
+Author
+Performance
+
+
+(Category) Finance
+Finance
+Money
+Business
+Service
+Loan
+Deposit
+Savings
+Investment
+Wealth
+Income
+Wage
+Revenue
+Loss (of money)
+Takeover
+Stocks
+Bonds
+Gold
+Currency
+Retail bank
+Investment bank
+Hedge fund
+Trade
+
+
+(Category) Nature
+Nature
+water
+Air
+Fire
+light 
+Darkness
+Life
+Death
+Species
+Cat
+Dog
+Bird
+Cow
+Pig
+Chicken
+Horse
+Mouse
+Rabbit
+Snake
+Spider
+Fish
+Whale
+Shark
+Crab
+Plant
+Tree
+Flower
+Tail
+Claw
+
+
+(Category) Measurements
+Measurement
+Weight
+Height
+Depth
+Density
+Volume
+Milligram
+Gram
+Kilogram
+Tonne
+Ounce
+Millimetre
+Centimetre
+Metre
+Kilometre
+Foot (distance)
+Yard (distance)
+Mile
+Light year
+Millilitre
+Litre
+Teaspoon
+Tablespoon
+Pint
+Gallon
+Cup 
+
+
+(Category) Common objects
+Object
+Pen
+Pencil
+Book
+Paper
+Bin
+Scissors
+Glasses
+Phone
+Computer
+Laptop
+Screen
+Bag
+Suitcase
+Wallet
+bed
+table
+Desk
+Ticket
+Passport
+License
+
+
+(Category) Substances
+Substance
+Material
+Chemical
+Water
+Metal
+Plastic
+Fabric
+Silk
+Cotton
+Wool
+Gold
+Silver
+Iron
+Copper
+Aluminium
+Diamond

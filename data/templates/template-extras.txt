@@ -1,22 +1,188 @@
-(language) Italian
-(type) Extra
+(Language) Template
+(Table) Extras
+(Category) Subject Pronouns
+I
+You (singular)
+He
+She
+It
+They (singular)
+You (formal)
+Us
+You (plural)
+They (plural)
 
-(topic) 1
-word
-word
 
-(topic) 2
-word
-word
+(Category) Reflexive Pronouns
+Myself
+Yourself
+Himself
+Herself
+Itself
+Ourselves
+Yourselves
+Themselves
 
-(topic) 3
-word
-word
 
-(topic) 4
-word
-word
+(Category) Connectives
+And
+As well, also
+So
+But
+Because
+While
+Against
+Or
+Instead of
+Therefore
+As long as
+Although
+Unless
+maybe
+Furthermore
+On the other hand
+For example
+Such as
+Overall
+In summary
 
-(topic) 5
-word
-word
+
+(Category) Prepositions
+In
+On
+At
+By
+Near
+Far
+Between
+Behind
+In front
+Above
+Below
+Inside
+Beside
+Before
+After
+During
+Until
+Since
+Throughout
+To
+From
+Into
+Through
+Along
+Across
+Onto 
+Off of
+Over
+Under
+
+
+(Category) Question Words
+Who
+What
+What
+Where
+When
+How
+Why
+Which
+
+
+(Category) Common Phrases
+Hello
+Goodbye
+Welcome (e.g. welcome to my home)
+Nice to meet you
+Please
+Thank you
+You’re welcome
+Yes
+No
+Of course
+How are you?
+How much does this cost?
+How do you say …?
+What is your name?
+My name is …?
+
+
+(Category) Articles (definite, indefinite, partitive)
+A
+The
+All
+Some
+Few
+Each
+Any
+Different (e.g. different foods)
+Too much
+Too many
+Almost all
+Not any
+None
+
+
+(Category) Cardinal Numbers
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+eleven
+twelve
+thirteen
+fourteen
+fifteen
+sixteen
+seventeen
+eighteen
+nineteen
+twenty
+thirty
+fourty
+fifty
+sixty
+seventy
+eighty
+ninety
+hundred
+thousand
+million
+billion
+
+
+(Category) Ordinal Numbers
+first
+second
+third
+fourth
+fifth
+sixth
+seventh
+eighth
+ninth
+tenth
+hundredth
+Thousandth
+
+
+(Category) Fractional Numbers
+One half
+One third
+Two thirds
+One quarter
+One fifth
+One sixth
+One seventh
+One eighth
+One ninth
+One tenth
+One hundredth
+One thousandth

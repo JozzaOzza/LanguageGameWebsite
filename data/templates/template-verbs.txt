@@ -1,0 +1,149 @@
+(Language) Template
+(Table) Verbs-Tense-1
+
+(Category) Common
+To be
+To have 
+To do
+To say
+To go 	
+To get (obtain) 		
+To make 
+To know 
+To think 	
+To take (e.g. medicine)
+To take (e.g. the train)
+To take (bring)
+To see 	
+To come 
+To want 
+To look (glance)
+To use 	
+To find 
+To give 
+To tell 
+To work 
+To call 
+To try 	
+To ask 	(a question)
+To ask (for something)
+To need 
+To feel
+To become
+
+
+(Category) Common (2)
+To leave (a place)
+To leave (an object)
+To put
+To mean 	
+To keep 	
+To let
+To begin 
+To seem 	
+To help 	
+To talk 	
+To turn 	
+To start 	
+To show 	
+To hear 	
+To play 	
+To run (move)
+To move	
+To like 	
+To live 	
+To believe 	
+To hold 	
+To bring 	
+To happen	
+To write 
+To provide
+To sit
+
+
+(Category) Common (3)
+To stand 
+To lose 	
+To pay
+To meet (e.g. people)	
+To include 	
+To continue 
+To set (e.g. an alarm)
+To learn 	  	
+To change 	
+To lead 	
+To understand
+To watch 	
+To follow 	
+To stop 	
+To create 	
+To speak 	
+To read 	
+To allow 	
+To add
+To spend 	
+To grow (become bigger)
+To grow (e.g. a plant)	
+To open 	
+To walk 	
+To win
+To offer 
+
+
+(Category) Common (4)
+To remember 	
+To love 	
+To consider 	
+To appear 	
+To buy
+To wait 	
+To serve 	
+To die
+To send 	
+To expect 	
+To build 	
+To stay 	
+To fall 	
+To cut (e.g. skin)
+To cut (reduce)
+To reach (for something)
+To reach (attain)
+To kill 	
+To remain 	
+To suggest 
+To raise (e.g. a glass)
+To raise (e.g. a child)	
+To pass (time)
+To pass (by something)
+To pass (an object)
+To sell 	
+To need
+To report 	
+To decide 	
+To pull 
+
+
+(Category) Common (5)
+To lack	
+To break
+To respond
+To prevent
+To finish (doing something)
+To hide
+To question
+To let go (of something)
+To remove
+To save (e.g. money)
+To save (rescue)
+To close (e.g. a door)
+To close (e.g. a deal)
+To refuse
+To forget
+To hate
+To disappear
+To receive
+To destroy
+To go out
+To climb
+To push
+To hope
