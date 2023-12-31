@@ -1,0 +1,190 @@
+(Language) spanish
+(Table) Extras
+
+
+(Category) Subject Pronouns
+i = 
+you (singular) = 
+he = 
+she = 
+it = 
+they (singular) = 
+you (formal) = 
+us = 
+you (plural) = 
+they (plural) = 
+
+
+(Category) Reflexive Pronouns
+myself = 
+yourself = 
+himself = 
+herself = 
+itself = 
+ourselves = 
+yourselves = 
+themselves = 
+
+
+(Category) Connectives
+and = 
+as well, also = 
+so = 
+but = 
+because = 
+while = 
+against = 
+or = 
+instead of = 
+therefore = 
+as long as = 
+although = 
+unless = 
+maybe = 
+furthermore = 
+on the other hand = 
+for example = 
+such as = 
+overall = 
+in summary = 
+
+
+(Category) Prepositions
+in = 
+on = 
+at = 
+by = 
+near = 
+far = 
+between = 
+behind = 
+in front = 
+above = 
+below = 
+inside = 
+beside = 
+before = 
+after = 
+during = 
+until = 
+since = 
+throughout = 
+to = 
+from = 
+into = 
+through = 
+along = 
+across = 
+onto = 
+off of = 
+over = 
+under = 
+
+
+(Category) Question Words
+who = 
+what = 
+what = 
+where = 
+when = 
+how = 
+why = 
+which = 
+
+
+(Category) Common Phrases
+hello = 
+goodbye = 
+welcome (e.g. welcome to my home) = 
+nice to meet you = 
+please = 
+thank you = 
+you’re welcome = 
+yes = 
+no = 
+of course = 
+how are you? = 
+how much does this cost? = 
+how do you say …? = 
+what is your name? = 
+my name is …? = 
+
+
+(Category) Articles (definite, indefinite, partitive)
+a = 
+the = 
+all = 
+some = 
+few = 
+each = 
+any = 
+different (e.g. different foods) = 
+too much = 
+too many = 
+almost all = 
+not any = 
+none = 
+
+
+(Category) Cardinal Numbers
+one = 
+two = 
+three = 
+four = 
+five = 
+six = 
+seven = 
+eight = 
+nine = 
+ten = 
+eleven = 
+twelve = 
+thirteen = 
+fourteen = 
+fifteen = 
+sixteen = 
+seventeen = 
+eighteen = 
+nineteen = 
+twenty = 
+thirty = 
+fourty = 
+fifty = 
+sixty = 
+seventy = 
+eighty = 
+ninety = 
+hundred = 
+thousand = 
+million = 
+billion = 
+
+
+(Category) Ordinal Numbers
+first = 
+second = 
+third = 
+fourth = 
+fifth = 
+sixth = 
+seventh = 
+eighth = 
+ninth = 
+tenth = 
+hundredth = 
+thousandth = 
+
+
+(Category) Fractional Numbers
+one half = 
+one third = 
+two thirds = 
+one quarter = 
+one fifth = 
+one sixth = 
+one seventh = 
+one eighth = 
+one ninth = 
+one tenth = 
+one hundredth = 
+one thousandth = 

@@ -1,0 +1,902 @@
+(Language) spanish
+(Table) Nouns
+
+
+(Category) Time (general)
+time = 
+moment = 
+second = 
+minute = 
+hour = 
+day = 
+week = 
+month = 
+quarter = 
+season = 
+year = 
+decade = 
+century = 
+millenium = 
+time (occasion) = 
+sunrise = 
+morning = 
+afternoon = 
+sunset = 
+evening = 
+night = 
+period = 
+yesterday = 
+today = 
+tomorrow = 
+
+
+(Category) Time (specific)
+spring = 
+summer = 
+autumn = 
+winter = 
+january = 
+february = 
+march = 
+april = 
+may = 
+june = 
+july = 
+august = 
+september = 
+october = 
+november = 
+december = 
+monday = 
+tuesday = 
+wednesday = 
+thursday = 
+friday = 
+saturday = 
+sunday = 
+birthday = 
+anniversary = 
+
+
+(Category) People 
+people = 
+person = 
+man = 
+woman = 
+baby = 
+child = 
+boy = 
+girl = 
+family = 
+mother = 
+father = 
+son = 
+daughter = 
+uncle = 
+aunt = 
+grandfather = 
+grandmother = 
+cousin = 
+nephew = 
+niece = 
+wife = 
+husband = 
+boyfriend = 
+girlfriend = 
+friend = 
+enemy = 
+colleague = 
+boss = 
+
+
+(Category) Place (general)
+place = 
+area = 
+continent = 
+country = 
+region = 
+province = 
+state = 
+county = 
+city = 
+town = 
+village = 
+suburb = 
+border = 
+district = 
+capital = 
+motorway = 
+road = 
+street = 
+path = 
+alley = 
+
+
+(Category) Place (specific)
+england = 
+london = 
+wales = 
+scotland = 
+northern ireland = 
+united kingdom = 
+france = 
+spain = 
+italy = 
+germany = 
+portugal = 
+united states of america = 
+china = 
+japan = 
+canada = 
+
+
+(Category) Place (urban)
+line (train) = 
+train station = 
+airport = 
+port = 
+prison = 
+parliament = 
+palace = 
+castle = 
+skyscraper = 
+church = 
+cathedral = 
+university = 
+school = 
+office = 
+hospital = 
+home = 
+house = 
+suburb = 
+stadium = 
+club = 
+canal = 
+restaurant = 
+bar = 
+accommodation = 
+apartment = 
+mansion = 
+bungalow = 
+hotel = 
+garden = 
+park = 
+cinema = 
+library = 
+pitch = 
+court = 
+courtyard = 
+square = 
+
+
+(Category) Place (natural)
+world = 
+planet = 
+countryside = 
+reserve = 
+land = 
+desert = 
+forest = 
+jungle = 
+hill = 
+mountain = 
+mountain range = 
+beach = 
+coast = 
+river = 
+ocean = 
+sea = 
+lake = 
+pond = 
+
+
+(Category) Place (indoors)
+room = 
+door = 
+entrance = 
+exit = 
+kitchen = 
+lounge = 
+bedroom = 
+toilet = 
+study = 
+dining room = 
+annex = 
+garage = 
+
+
+(Category) General
+way = 
+thing = 
+life = 
+state (situation) = 
+group = 
+problem = 
+part = 
+case = 
+system = 
+program = 
+question = 
+work = 
+number = 
+story = 
+fact = 
+issue = 
+kind = 
+power = 
+line = 
+end = 
+idea = 
+information = 
+other = 
+level = 
+result = 
+change = 
+reason = 
+force = 
+cause = 
+effect = 
+
+
+(Category) Body
+body = 
+head = 
+face = 
+eye = 
+ear = 
+nose = 
+mouth = 
+hair = 
+neck = 
+spine = 
+shoulder = 
+back = 
+chest = 
+arms = 
+hand = 
+finger = 
+torso = 
+abdomen = 
+hip = 
+leg = 
+foot = 
+toe = 
+nail = 
+muscle = 
+bone = 
+blood = 
+vein = 
+arterie = 
+ligament = 
+skin = 
+brain = 
+heart = 
+lung = 
+kidney = 
+liver = 
+stomach = 
+intestine = 
+nerves = 
+cells = 
+dna = 
+bacteria = 
+
+
+(Category) Food (general)
+food = 
+drink = 
+meat = 
+fish = 
+fruit = 
+vegetables = 
+nuts = 
+meal = 
+breakfast = 
+lunch = 
+dinner = 
+snack = 
+starter = 
+main course = 
+side (of a meal) = 
+dessert = 
+dish = 
+platter = 
+
+
+(Category) Food (nutrition)
+protein = 
+fat = 
+carbohydrate = 
+sugar = 
+salt = 
+vitamin = 
+mineral = 
+antioxidant = 
+electrolyte = 
+sodium = 
+magnesium = 
+potassium = 
+acid = 
+alkali = 
+caffeine = 
+
+
+(Category) Food (meat and fish)
+chicken = 
+beef = 
+lamb = 
+pork = 
+salmon = 
+trout = 
+tuna = 
+cod = 
+mackerel = 
+squid = 
+prawn = 
+shrimp = 
+crab = 
+lobster = 
+sausage = 
+bacon = 
+ham = 
+mince = 
+steak = 
+breast = 
+skewer = 
+fillet = 
+wing = 
+thigh = 
+cut = 
+skin = 
+bone = 
+fillet (of steak) = 
+sirloin = 
+ribeye = 
+t-bone = 
+
+
+(Category) Food (fruit and vegetables)
+apple = 
+banana = 
+orange = 
+lemon = 
+strawberry = 
+raspberry = 
+blueberry = 
+beetroot = 
+mango = 
+pineapple = 
+grape = 
+peach = 
+satsuma = 
+pear = 
+nectarine = 
+tomato = 
+potato = 
+broccoli = 
+peas = 
+lettuce = 
+onion = 
+pepper = 
+garlic = 
+chilli = 
+ginger = 
+sweet potato = 
+lettuce = 
+spinach = 
+kale = 
+asparagus = 
+
+
+(Category) Food (common ingredients)
+pasta = 
+rice = 
+noodles = 
+milk = 
+cheese = 
+halloumi = 
+cheddar = 
+parmesan = 
+nuts = 
+almonds = 
+walnuts = 
+peanuts = 
+cashews = 
+chestnuts = 
+corn = 
+beans = 
+bread = 
+wheat = 
+oats = 
+olive oil = 
+vinegar = 
+soya sauce = 
+crackers = 
+herbs = 
+spices = 
+basil = 
+thyme = 
+bay leaves = 
+oregano = 
+parsley = 
+rosemary = 
+coriander = 
+allspice = 
+cinnamon = 
+turmeric = 
+paprika = 
+cumin = 
+saffron = 
+cocoa = 
+chocolate = 
+coffee = 
+vanilla = 
+
+
+(Category) Food (common dishes)
+roast dinner = 
+barbecue = 
+pizza = 
+pie = 
+stir fry = 
+soup = 
+curry = 
+burger = 
+stew = 
+sandwich = 
+wrap = 
+chips (french fries) = 
+
+
+(Category) Food (drinks)
+coffee = 
+tea = 
+green tea = 
+black tea = 
+hot chocolate = 
+juice = 
+apple juice = 
+orange juice = 
+lemonade = 
+wine = 
+beer = 
+ale = 
+rum = 
+whisky = 
+vodka = 
+alcoholic drink = 
+sparkling water = 
+still water = 
+ginger beer = 
+shot (of alcohol) = 
+
+
+(Category) Food (equipment)
+knife = 
+fork = 
+spoon = 
+chopsticks = 
+bottle = 
+glass = 
+cup = 
+bowl = 
+plate = 
+pan = 
+frying pan = 
+saucepan = 
+tray = 
+oven = 
+stove = 
+barbecue = 
+grill = 
+microwave = 
+
+
+(Category) Clothing
+hat = 
+scarf = 
+belt = 
+shoes = 
+shirt = 
+t-shirt = 
+sweater = 
+hoodie = 
+trousers = 
+shorts = 
+skirt = 
+dress = 
+bra = 
+socks = 
+gloves = 
+underpants = 
+tracksuit bottoms = 
+tights = 
+suit = 
+jacket = 
+coat = 
+thermal = 
+
+
+(Category) Society
+state (government) = 
+company = 
+government = 
+right = 
+job = 
+law = 
+community = 
+war = 
+party (political) = 
+right wing = 
+left wing = 
+libertarian = 
+fascist = 
+communist = 
+socialist = 
+capitalist = 
+immigration = 
+immigrant = 
+tourism = 
+tourist = 
+population = 
+citizen = 
+social media = 
+news = 
+election = 
+doctor = 
+nurse = 
+lawyer = 
+teacher = 
+
+
+(Category) Language (general)
+book = 
+page = 
+paragraph = 
+word = 
+phrase = 
+sentence = 
+sound = 
+expression = 
+language = 
+argument = 
+explanation = 
+description = 
+name = 
+summary = 
+poem = 
+essay = 
+article = 
+speech = 
+grammar = 
+vocabulary = 
+dialect = 
+slang = 
+
+
+(Category) Language (specific)
+english = 
+french = 
+spanish = 
+italian = 
+portuguese = 
+german = 
+japanese = 
+mandarin = 
+cantonese = 
+latin = 
+arabic = 
+hindu = 
+hebrew = 
+farsi = 
+
+
+(Category) Transport
+bicycle = 
+scooter = 
+skateboard = 
+car = 
+motorbike = 
+bus = 
+train = 
+tram = 
+tube = 
+boat = 
+plane = 
+helicopter = 
+submarine = 
+
+
+(Category) Academia
+school = 
+university = 
+studies = 
+subject = 
+mathematics = 
+science = 
+biology = 
+chemistry = 
+physics = 
+neuroscience = 
+philosophy = 
+economics = 
+languages = 
+engineering = 
+law = 
+geography = 
+history = 
+computing = 
+library = 
+classroom = 
+research = 
+teacher = 
+professor = 
+education = 
+student = 
+graduate = 
+test = 
+exam = 
+coursework = 
+revision = 
+
+
+(Category) Sport
+team = 
+sport = 
+individual = 
+ball = 
+racket = 
+club = 
+pitch = 
+court = 
+field = 
+football = 
+golf = 
+tennis = 
+rugby = 
+basketball = 
+goal = 
+point = 
+score = 
+match = 
+result = 
+player = 
+manager = 
+captain = 
+skill = 
+talent = 
+attack = 
+defence = 
+attacker = 
+midfielder = 
+defender = 
+goalkeeper = 
+penalty = 
+freekick = 
+throw in = 
+corner (e.g. in football) = 
+corner (of pitch) = 
+shot = 
+pass = 
+tackle = 
+kick = 
+foul = 
+drive = 
+putt = 
+driver (golf) = 
+putter = 
+iron (golf) = 
+wedge (golf) = 
+trainers = 
+boots (with studs) = 
+
+
+(Category) Exercise
+exercise (in general) = 
+exercise (specific) = 
+gym = 
+equipment = 
+trainers = 
+effort = 
+speed = 
+strength = 
+agility = 
+discipline = 
+swimming pool = 
+track = 
+bar = 
+weight = 
+dumbbell = 
+machine = 
+workout = 
+recovery = 
+fitness = 
+
+
+(Category) Leisure
+leisure = 
+game = 
+party (event) = 
+relaxation = 
+fun = 
+holiday = 
+break (time off) = 
+wine = 
+beer = 
+spirits = 
+alcohol = 
+marijuana = 
+drugs = 
+spa = 
+sauna = 
+steam room = 
+massage = 
+song = 
+music = 
+film = 
+series (tv) = 
+television = 
+bed = 
+nap = 
+gathering = 
+festival = 
+video games = 
+console = 
+remote = 
+headphones = 
+
+
+(Category) Art
+art = 
+poetry = 
+poem = 
+novel = 
+story = 
+drawing = 
+painting = 
+sculpture = 
+music = 
+song = 
+album = 
+masterpiece = 
+film = 
+director = 
+producer = 
+script = 
+gallery = 
+artist = 
+actor = 
+singer = 
+painter = 
+sculptor = 
+author = 
+performance = 
+
+
+(Category) Finance
+finance = 
+money = 
+business = 
+service = 
+loan = 
+deposit = 
+savings = 
+investment = 
+wealth = 
+income = 
+wage = 
+revenue = 
+loss (of money) = 
+takeover = 
+stocks = 
+bonds = 
+gold = 
+currency = 
+retail bank = 
+investment bank = 
+hedge fund = 
+trade = 
+
+
+(Category) Nature
+nature = 
+water = 
+air = 
+fire = 
+light = 
+darkness = 
+life = 
+death = 
+species = 
+cat = 
+dog = 
+bird = 
+cow = 
+pig = 
+chicken = 
+horse = 
+mouse = 
+rabbit = 
+snake = 
+spider = 
+fish = 
+whale = 
+shark = 
+crab = 
+plant = 
+tree = 
+flower = 
+tail = 
+claw = 
+
+
+(Category) Measurements
+measurement = 
+weight = 
+height = 
+depth = 
+density = 
+volume = 
+milligram = 
+gram = 
+kilogram = 
+tonne = 
+ounce = 
+millimetre = 
+centimetre = 
+metre = 
+kilometre = 
+foot (distance) = 
+yard (distance) = 
+mile = 
+light year = 
+millilitre = 
+litre = 
+teaspoon = 
+tablespoon = 
+pint = 
+gallon = 
+cup = 
+
+
+(Category) Common objects
+object = 
+pen = 
+pencil = 
+book = 
+paper = 
+bin = 
+scissors = 
+glasses = 
+phone = 
+computer = 
+laptop = 
+screen = 
+bag = 
+suitcase = 
+wallet = 
+bed = 
+table = 
+desk = 
+ticket = 
+passport = 
+license = 
+
+
+(Category) Substances
+substance = 
+material = 
+chemical = 
+water = 
+metal = 
+plastic = 
+fabric = 
+silk = 
+cotton = 
+wool = 
+gold = 
+silver = 
+iron = 
+copper = 
+aluminium = 
+diamond = 
