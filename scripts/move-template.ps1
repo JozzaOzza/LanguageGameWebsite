@@ -2,7 +2,7 @@
 param (
         
 )
-# Want this to take each template text file, change the language (one line at the top of file), and add ' = ' to each non-header line
+# Move template files to the corresponding file for each language
 begin {
     $languages = @('french', 'spanish', 'italian', 'portuguese')
     $templates = @('adjectives', 'adverbs', 'extras', 'nouns', 'verbs')
