@@ -8,9 +8,8 @@ You (singular)
 He
 She
 It
-They (singular)
 You (formal)
-Us
+We
 You (plural)
 They (plural)
 
@@ -33,7 +32,6 @@ So
 But
 Because
 While
-Against
 Or
 Instead of
 Therefore
@@ -47,6 +45,7 @@ For example
 Such as
 Overall
 In summary
+However
 
 
 (Category) Prepositions
@@ -104,7 +103,7 @@ Yes
 No
 Of course
 How are you?
-How much does this cost?
+How much does it cost?
 How do you say …?
 What is your name?
 My name is …?
