@@ -152,6 +152,14 @@ too many = trop de
 almost all (masculine singular)= presque tout, quasiment tout
 not any (masculine singular) = aucun
 not any (feminine singular) = aucune
+this (masculine) = ce
+this (masculine) (followed by vowel) = cet
+this (feminine) = cette
+these = ces
+that (masculine) = ce
+that (masculine) (followed by vowel) = cet
+that (feminine) = cette
+those = ces
 
 
 (Category) Cardinal Numbers

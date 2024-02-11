@@ -140,6 +140,19 @@ too much = demais
 too many = demais
 almost all (masculine singular) = quase todo 
 not any = nenhum
+this (masculine) = este
+this (feminine) = esta
+these = estes
+that (masculine) (nearby) = esse
+that (masculine) (distant) = aquele
+that (feminine) (nearby) = essa
+that (feminine) (distant) = aquela
+that (neutral) (nearby) = isso
+that (neutral) (distant) = aquilo
+those (masculine) (nearby) = esses
+those (masculine) (distant) = aqueles
+those (feminine) (nearby) = essas
+those (feminine) (distant) = aquelas
 
 
 (Category) Cardinal Numbers

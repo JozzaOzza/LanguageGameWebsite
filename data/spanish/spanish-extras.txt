@@ -153,6 +153,18 @@ too much (masculine singular) = demasiado
 too many (masculine plural) = demasiados
 almost all (masculine singular) = casi todo 
 not any (masculine singular) = ninguno
+this (masculine) = esto
+this (feminine) = esta
+these (masculine) = estos
+these (feminine) = estas
+that (masculine) (nearby) = ese
+that (masculine) (distant) = aquel
+that (feminine) (nearby) = esa
+that (feminine) (distant) = aquella
+those (masculine) (nearby) = esos
+those (masculine) (distant) = aquellos
+those (feminine) (nearby) = esas
+those (feminine) (distant) = aquellas
 
 
 (Category) Cardinal Numbers

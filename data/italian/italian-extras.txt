@@ -157,6 +157,16 @@ not any (masculine singular) = alcuno, nessuno
 not any (feminine singular) = alcuna, nessuna
 not any (masculine plural) = alcuni, nessuni
 not any (feminine plural) = alcune, nessune
+this (masculine) = questo
+this (feminine) = questa
+these (masculine) = questi
+these (feminine) = queste
+that (masculine) (before consonant) = quel
+that (masculine) (before vowel, s impura, ps, x, z) = quello
+that (feminine) = quella
+those (masculine) (before consonant) = quei
+those (masculine) (before vowel, s impura, ps, x, z) = quegli
+those (feminine) = quelle
 
 
 (Category) Cardinal Numbers
