@@ -98,20 +98,31 @@ which = qual
 (Category) Common Phrases
 hello = olá, oi
 goodbye = adeus, tchau
+good morning = bom dia
+good afternoon = boa tarde
+good evening = boa noite
+good night (going to bed) = boa noite
+good night (farewell) = boa noite
 welcome (e.g. welcome to my home) = bem-vindo 
 nice to meet you = muito prazer
 please = por favor
 thank you = obrigado
 you’re welcome = não tem de quê, de nada
+Excuse me (interjection) = com licença, desculpe, perdão
+I'm sorry (apology) = desculpe, sinto muito
 yes = sim
 no = não
 of course = com certeza, claro
 how are you? = como vai?, como está
 how much does this cost? = quanto custa isso
-how do you say …? = como você diz
+how do you say 'thing'? = como você diz 'thing'
 what is your name? = qual o seu nome
-my name is …? = o meu nome é
-
+my name is = o meu nome é
+I would like a still water please = eu queria água por favor, queria água por favor
+Could I get a sparkling water please? = eu queria água com gás por favor, queria água com gás por favor
+Do you have a table for two? = tendes uma mesa para duas pessoas, tendes uma mesa para duas
+To take away (e.g. a pizza to take away) = para levar
+I cannot speak much Portuguese = não posso falar muito português
 
 (Category) Articles (definite, indefinite, partitive)
 a (masculine) = um

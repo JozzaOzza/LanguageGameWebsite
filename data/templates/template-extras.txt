@@ -94,20 +94,30 @@ Which
 (Category) Common Phrases
 Hello
 Goodbye
+Good morning
+Good afternoon
+Good evening
+Good night
 Welcome (e.g. welcome to my home)
 Nice to meet you
 Please
 Thank you
 You’re welcome
+Excuse me (interjection)
+I'm sorry (apology)
 Yes
 No
 Of course
 How are you?
-How much does it cost?
-How do you say …?
+How much does this cost?
+How do you say 'thing'?
 What is your name?
-My name is …?
-
+My name is 'Jamie'
+Could I get a still water please? / I would like  a still water please
+Could I get a sparkling water please? / I would like a sparkling water please
+Do you have a table for two?
+To take away (e.g. a pizza to take away)
+I cannot speak much <language> 
 
 (Category) Articles (definite, indefinite, partitive)
 A

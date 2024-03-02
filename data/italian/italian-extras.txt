@@ -105,21 +105,32 @@ hello (general) = salve, buongiorno
 hello (evening) = buonasera
 hello (informal) = ciao 
 goodbye (general) = arrivederci
-goodbye (informal) = ciao 
+goodbye (informal) = ciao
+good morning = buongiorno, buon giorno
+good afternoon = buon pomeriggio
+good evening = buonasera
+good night (going to bed) = buonanotte
+good night (farewell) = buona notte
 welcome (e.g. welcome to my home) = benvenuto
 nice to meet you = piacere
 please = per favore, per piacere, per cortesia
 thank you = grazie
 you’re welcome = prego, non c'è di che, di niente
+Excuse me (interjection) = scusa, scusami, scusi, mi scusi
+I'm sorry (apology) = scusa, scusami, scusi, mi scusi, mi dispiac
 yes = sì
 no = no
 of course = certo, certamente
 how are you? = come sta
-how much does it cost? = quanto costa 
-how do you say? = come si dice
+how much does this cost? = quanto costa 
+how do you say 'thing'? = come si dice 'thing'
 what is your name? = come ti chiami
 my name is = mi chiamo
-
+Could I get a still water? = Posso avere acqua naturale per favore
+Could I get a sparkling water please? = Posso avere acqua con gas per favore
+Do you have a table for two? = Ha un tavolo per due
+To take away (e.g. a pizza to take away) = portare via
+I cannot speak much Italian = Non posso parlare molto italiano
 
 (Category) Articles (definite, indefinite, partitive)
 a (masculine singular) = un, uno

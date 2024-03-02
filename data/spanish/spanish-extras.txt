@@ -111,11 +111,18 @@ which (singular) (within a question) = cuáles
 (Category) Common Phrases
 hello = hola
 goodbye = adiós
+good morning = buenos días, buen día
+good afternoon = buenas tardes
+good evening = buenas noches
+good night (going to bed) = buenas noches
+good night (farewell) = buenas noches
 welcome (e.g. welcome to my home) = bienvenido
 nice to meet you = encantado, mucho gusto, un placer
 please = por favor
 thank you = gracias
-you’re welcome = de nada, 
+you’re welcome = de nada
+Excuse me (interjection) = perdón, disculpe, perdone, disculpa, perdona, disculpá, perdoná
+I'm sorry (apology) = lo siento
 yes = sí
 no = no
 of course = claro, por supuesto
@@ -124,7 +131,11 @@ how much does this cost? = cuánto cuesta esto, cuánto cuesta esto
 how do you say this? = cómo se dice esto, cómo se dice
 what is your name? = cómo te llamas, cuál es tu nombre, cómo se llama, cuál es su nombre
 my name is = me llamo
-
+Could I get a still water please? = podría tomar agua sin gas por favor, me da agua sin gas por favor, agua sin gas por favor
+Could I get a sparkling water please? = podría tomar agua con gas por favor, me da agua con gas por favor, agua con gas por favor
+Do you have a table for two? = tienen una mesa para dos, tenéis una mesa para dos
+To take away (e.g. a pizza to take away) = para llevar
+I cannot speak much Spanish = no puedo hablar mucho español
 
 (Category) Articles (definite, indefinite, partitive)
 a (masculine) = uno

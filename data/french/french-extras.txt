@@ -111,22 +111,33 @@ how much = combien de
 (Category) Common Phrases
 hello (general, morning) = bonjour
 hello (familiar) = coucou, salut
-hello (evening) = bonsoir 
+hello (evening) = bonsoir
 goodbye = au revoir, adieu
+good morning = bonjour
+good afternoon = bonjour
+good evening = 
+good night (going to bed) = bonne nuit
+good night (farewell) = au revoir, bonsoir, bonne soirée 
 welcome (e.g. welcome to my home) = bienvenue
 nice to meet you = enchanté, ravi de te rencontrer, ravi de vous rencontrer, très heureux, très heureuse
 please (request) = s'il te plaît, s'il vous plaît
 thank you = merci
 you’re welcome = de rien, il n'y a pas de quoi, je t'en prie, je vous en prie
+Excuse me (interjection) = s'il vous plaît, s'il te plaît, pardon, excusez-moi, excuse-moi
+I'm sorry (apology) = je suis navré, je suis désolé, je regrette, je te demande pardon, je vous demande pardon
 yes = oui
 no = non
 of course = bien entendu, bien sûr
 how are you? = ça va, comment ça va
 how much does it cost? = combien coûte ça
-how do you say? = comment dit-on
+how do you say 'thing'? = comment dit-on 'thing'
 what is your name? = comment t'appelles tu
 my name is = je m'appelle
-
+I would like a still water = je voudrais de l'eau plate
+I would like a sparkling water = je voudrais de l'eau gazeuse, je voudrais de l'eau pétillante
+Do you have a table for two? = avez vous une table pour deux
+To take away (e.g. a pizza to take away) = à emporter
+I cannot speak much French = je ne peux pas parler beaucoup de français
 
 (Category) Articles (definite, indefinite, partitive)
 a (masculine singular) = un
