@@ -1,17 +1,28 @@
 [CmdletBinding()]
 param (
-        
+   [Parameter()]
+   [string]$Language,
+   [Parameter()]
+   [string]$Template
 )
-# Move template files to the corresponding file for each language
 begin {
     $languages = @('french', 'spanish', 'italian', 'portuguese')
     $templates = @('adjectives', 'adverbs', 'extras', 'nouns', 'verbs')
+    if ($null -ne $Language) {
+        $languages = $Language.Split(',')
+    }
+    if ($null -ne $Template) {
+        $templates = $Template.Split(',')
+    }
 }
     
 process {
     foreach ($language in $languages) {
         foreach ($template in $templates) {
+            $language = $language.Trim()
+            $template = $template.Trim()
             Clear-Content -Path "..\data\$language\$language-$template.txt"
+            
             Get-Content -Path "..\data\templates\template-$template.txt" | ForEach-Object {
                 if ($_.StartsWith('(Language)')) {
                     Add-Content -Path "..\data\$language\$language-$template.txt" -Value "(Language) $language"

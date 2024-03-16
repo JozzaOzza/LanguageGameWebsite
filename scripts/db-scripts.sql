@@ -4,9 +4,8 @@ Make table
 CREATE TABLE table_name (
     id int IDENTITY(1,1) PRIMARY KEY,
     english varchar(255) NOT NULL,
-    italian varchar(255) NOT NULL,
+    _language_ varchar(255) NOT NULL,
     category varchar(255) NOT NULL,
-    alternatives varchar(255) NOT NULL,
     examplePhrase varchar(255) NOT NULL
 );
 
