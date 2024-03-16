@@ -1,0 +1,149 @@
+(Language) spanish
+(Table) Verbs-Tense-1
+
+(Category) Common
+to be =
+to have =
+to do =
+to say =
+to go =
+to get (obtain) =
+to make =
+to know =
+to think =
+to take (e.g. medicine) =
+to take (e.g. the train) =
+to take (bring) =
+to see =
+to come =
+to want =
+to look (glance) =
+to use =
+to find =
+to give =
+to tell =
+to work =
+to call =
+to try =
+to ask (a question) =
+to ask (for something) =
+to need =
+to feel =
+to become =
+
+
+(Category) Common (2)
+to leave (a place) =
+to leave (an object) =
+to put =
+to mean =
+to keep =
+to let =
+to begin =
+to seem =
+to help =
+to talk =
+to turn =
+to start =
+to show =
+to hear =
+to play =
+to run (move) =
+to move =
+to like =
+to live =
+to believe =
+to hold =
+to bring =
+to happen =
+to write =
+to provide =
+to sit =
+
+
+(Category) Common (3)
+to stand =
+to lose =
+to pay =
+to meet (e.g. people) =
+to include =
+to continue =
+to set (e.g. an alarm) =
+to learn =
+to change =
+to lead =
+to understand =
+to watch =
+to follow =
+to stop =
+to create =
+to speak =
+to read =
+to allow =
+to add =
+to spend =
+to grow (become bigger) =
+to grow (e.g. a plant) =
+to open =
+to walk =
+to win =
+to offer =
+
+
+(Category) Common (4)
+to remember =
+to love =
+to consider =
+to appear =
+to buy =
+to wait =
+to serve =
+to die =
+to send =
+to expect =
+to build =
+to stay =
+to fall =
+to cut (e.g. skin) =
+to cut (reduce) =
+to reach (for something) =
+to reach (attain) =
+to kill =
+to remain =
+to suggest =
+to raise (e.g. a glass) =
+to raise (e.g. a child) =
+to pass (time) =
+to pass (by something) =
+to pass (an object) =
+to sell =
+to need =
+to report =
+to decide =
+to pull =
+
+
+(Category) Common (5)
+to lack =
+to break =
+to respond =
+to prevent =
+to finish (doing something) =
+to hide =
+to question =
+to let go (of something) =
+to remove =
+to save (e.g. money) =
+to save (rescue) =
+to close (e.g. a door) =
+to close (e.g. a deal) =
+to refuse =
+to forget =
+to hate =
+to disappear =
+to receive =
+to destroy =
+to go out =
+to climb =
+to push =
+to hope =

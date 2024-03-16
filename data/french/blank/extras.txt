@@ -1,0 +1,238 @@
+(Language) french
+(Table) Extras
+
+
+(Category) Subject Pronouns
+i =
+you (singular) =
+he =
+she =
+it (masculine) =
+it (feminine) =
+you (formal singular, general) =
+us =
+you (plural) =
+they (masculine plural) =
+they (feminine plural) =
+
+
+(Category) Reflexive Pronouns
+myself =
+yourself =
+himself =
+herself =
+itself =
+yourself (formal singular) =
+ourselves =
+yourselves =
+themselves =
+
+
+(Category) Connectives
+and =
+also (start of phrase) =
+also (end of phrase) =
+so (therefore) =
+but =
+because =
+while (as long as) =
+while (e.g. while this is good, this is better) =
+or (for alternatives) =
+instead of =
+therefore =
+as long as =
+although =
+unless =
+maybe =
+furthermore =
+on the other hand =
+for example =
+such as =
+overall =
+in summary =
+
+
+(Category) Prepositions
+in (continent, feminine country) =
+in (masculine country) =
+in (town, city) =
+in (specific place e.g. in the car) =
+on =
+at =
+by (action e.g. this was done by him) =
+by (close) =
+near to =
+far from =
+between =
+behind (position) =
+behind (less developed) =
+in front =
+above =
+below =
+inside =
+beside (location) =
+beside (comparison) =
+before =
+after =
+during =
+until =
+since (time) =
+since (because) =
+throughout (time) =
+throughout (space) =
+to (direction) =
+to (towards) =
+to (in order to) =
+from =
+into =
+through (e.g. the bullet went through his body) =
+along (next to, the length of)=
+across =
+onto =
+off of =
+over =
+under =
+
+
+(Category) Question Words
+who =
+what =
+where =
+when (at what time) =
+when (at which time) =
+how =
+why =
+which (masculine singular) =
+which (feminine singular) =
+which one (masculine singular) =
+which one (feminine singular) =
+how much =
+
+(Category) Common Phrases
+hello (general, morning) =
+hello (familiar) =
+hello (evening) =
+goodbye =
+good morning =
+good afternoon =
+good evening =
+good night (going to bed) =
+good night (farewell) =
+welcome (e.g. welcome to my home) =
+nice to meet you =
+please (request) =
+thank you =
+you’re welcome =
+Excuse me (interjection) =
+I'm sorry (apology) =
+yes =
+no =
+of course =
+how are you? =
+how much does it cost? =
+how do you say 'thing'? =
+what is your name? =
+my name is =
+I would like a still water =
+I would like a sparkling water =
+Do you have a table for two? =
+To take away (e.g. a pizza to take away) =
+I cannot speak much French =
+
+(Category) Articles (definite, indefinite, partitive)
+a (masculine singular) =
+a (feminine singular) =
+the (masculine singular) =
+the (feminine singular) =
+the (plural) =
+all (masculine singular) =
+all (feminine singular) =
+all (plural) =
+some (a few) =
+few =
+each =
+any (some) (for questions or negative statements) (masculine singular) =
+any (some) (for questions or negative statements) (feminine singular) =
+any (some) (for questions or negative statements) (plural) =
+any (some) (masculine singular) =
+any (some) (masculine singular) =
+any (some) (plural) =
+different (e.g. different foods) =
+too much =
+too many =
+almost all (masculine singular)=
+not any (masculine singular) =
+not any (feminine singular) =
+this (masculine) =
+this (masculine) (followed by vowel) =
+this (feminine) =
+these =
+that (masculine) =
+that (masculine) (followed by vowel) =
+that (feminine) =
+those =
+
+
+(Category) Cardinal Numbers
+zero =
+one =
+two =
+three =
+four =
+five =
+six =
+seven =
+eight =
+nine =
+ten =
+eleven =
+twelve =
+thirteen =
+fourteen =
+fifteen =
+sixteen =
+seventeen =
+eighteen =
+nineteen =
+twenty =
+thirty =
+fourty =
+fifty =
+sixty =
+seventy =
+eighty =
+ninety =
+hundred =
+thousand =
+million =
+billion =
+
+
+(Category) Ordinal Numbers
+first (masculine singular) =
+second (masculine singular) =
+third (masculine singular) =
+fourth (masculine singular) =
+fifth (masculine singular) =
+sixth (masculine singular) =
+seventh (masculine singular) =
+eighth (masculine singular) =
+ninth (masculine singular) =
+tenth (masculine singular) =
+hundredth (masculine singular) =
+thousandth (masculine singular) =
+
+
+(Category) Fractional Numbers
+one half =
+one third =
+two thirds =
+one quarter =
+one fifth =
+one sixth =
+one seventh =
+one eighth =
+one ninth =
+one tenth =
+one hundredth =
+one thousandth =

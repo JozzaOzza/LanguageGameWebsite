@@ -1,0 +1,199 @@
+(Language) french
+(Table) Adjectives
+
+
+(Category) Possessive Adjectives
+mine =
+your (singular) =
+his =
+her =
+its =
+their (singular) =
+our =
+your (plural) =
+their (plural) =
+their own =
+someone else’s =
+
+
+(Category) Colour
+black =
+white =
+grey =
+red =
+orange =
+yellow =
+green =
+blue =
+purple =
+pink =
+brown =
+
+
+(Category) Time
+new =
+old =
+young =
+early =
+late =
+first =
+last =
+fast =
+slow =
+gradual =
+sudden =
+punctual =
+recent =
+current =
+final =
+
+
+(Category) Physical
+high =
+low =
+big =
+small =
+large =
+long =
+short =
+hard =
+soft =
+strong =
+weak =
+rough =
+smooth =
+straight =
+round =
+wide =
+thin =
+hot =
+cold =
+cool =
+light =
+dark =
+full =
+empty =
+open =
+closed =
+dead =
+alive =
+central =
+outer =
+physical =
+entire =
+close =
+far =
+
+
+(Category) Society
+national =
+political =
+social =
+public =
+private =
+legal =
+illegal =
+conservative =
+liberal =
+progressive =
+federal =
+international =
+foreign =
+domestic =
+poor =
+rich =
+expensive =
+cheap =
+environmental =
+industrial =
+democratic =
+tyrannical =
+financial =
+popular =
+unpopular =
+traditional =
+modern =
+cultural =
+
+
+(Category) Personal
+sociable =
+unsociable =
+sure =
+unsure =
+talented =
+humane =
+inhumane =
+free =
+happy =
+sad =
+calm =
+angry =
+irritable =
+loud =
+quiet =
+focused =
+lazy =
+conscientious =
+friendly =
+unfriendly =
+funny =
+annoying =
+clever =
+dumb =
+active =
+tired =
+selfish =
+kind =
+personal =
+single =
+married =
+serious =
+unserious =
+childish =
+mature =
+
+
+(Category) Quality
+good =
+bad =
+great =
+terrible =
+different =
+similar =
+important =
+unimportant =
+real =
+fake =
+better =
+worse =
+right =
+wrong =
+capable =
+incapable =
+difficult =
+easy =
+major =
+minor =
+clean =
+dirty =
+special =
+normal =
+general =
+specific =
+clear =
+vague =
+certain =
+likely =
+unlikely =
+uncertain =
+impossible =
+possible =
+available =
+unavailable =
+common =
+rare =
+natural =
+unnatural =
+simple =
+complicated =

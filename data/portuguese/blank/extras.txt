@@ -1,0 +1,230 @@
+(Language) portuguese
+(Table) Extras
+
+
+(Category) Subject Pronouns
+i =
+you (singular) =
+he =
+she =
+it (masculine) =
+it (feminine) =
+we =
+you (plural) =
+they (masculine plural) =
+they (masculine plural) =
+
+
+(Category) Reflexive Pronouns
+myself =
+yourself =
+himself =
+herself =
+itself (masculine) =
+itself (feminine) =
+ourselves =
+yourselves =
+themselves (standard) (masculine) =
+themselves (standard) (feminine) =
+
+
+(Category) Connectives
+and =
+also =
+so (therefore) =
+but =
+because =
+while =
+or =
+instead of =
+therefore =
+as long as =
+although =
+unless =
+maybe =
+furthermore =
+on the other hand =
+for example =
+such as =
+overall =
+in summary =
+however =
+
+
+(Category) Prepositions
+in =
+on =
+at =
+by =
+near to =
+far from =
+between =
+behind =
+in front =
+above =
+below =
+inside =
+beside (position) =
+beside (comparison) =
+before =
+after =
+during =
+until =
+since =
+throughout =
+to =
+from =
+into (inside of) =
+into (contact with) =
+through =
+along =
+across =
+onto =
+off of =
+over =
+under =
+
+
+(Category) Question Words
+who =
+what =
+where =
+when =
+how =
+why =
+which =
+
+
+(Category) Common Phrases
+hello =
+goodbye =
+good morning =
+good afternoon =
+good evening =
+good night (going to bed) =
+good night (farewell) =
+welcome (e.g. welcome to my home) =
+nice to meet you =
+please =
+thank you =
+you’re welcome =
+Excuse me (interjection) =
+I'm sorry (apology) =
+yes =
+no =
+of course =
+how are you? =
+how much does this cost? =
+how do you say 'thing'? =
+what is your name? =
+my name is =
+I would like a still water please =
+Could I get a sparkling water please? =
+Do you have a table for two? =
+To take away (e.g. a pizza to take away) =
+I cannot speak much Portuguese =
+
+(Category) Articles (definite, indefinite, partitive)
+a (masculine) =
+a (feminine) =
+the (masculine singular) =
+the (feminine singular) =
+the (plural masculine) =
+the (plural feminine) =
+all (masculine singular) =
+all (feminine singular) =
+all (masculine plural) =
+all (feminine plural) =
+some (masculine singular) =
+some (feminine singular) =
+some (masculine plural) =
+some (feminine plural) =
+few (masculine singular) =
+few (feminine singular) =
+few (masculine plural) =
+few (feminine plural) =
+each =
+any (questions or negative statements) (masculine singular) =
+any (whichever) =
+different (e.g. different foods) =
+too much =
+too many =
+almost all (masculine singular) =
+not any =
+this (masculine) =
+this (feminine) =
+these =
+that (masculine) (nearby) =
+that (masculine) (distant) =
+that (feminine) (nearby) =
+that (feminine) (distant) =
+that (neutral) (nearby) =
+that (neutral) (distant) =
+those (masculine) (nearby) =
+those (masculine) (distant) =
+those (feminine) (nearby) =
+those (feminine) (distant) =
+
+
+(Category) Cardinal Numbers
+one =
+two =
+three =
+four =
+five =
+six =
+seven =
+eight =
+nine =
+ten =
+eleven =
+twelve =
+thirteen =
+fourteen =
+fifteen =
+sixteen =
+seventeen =
+eighteen =
+nineteen =
+twenty =
+thirty =
+fourty =
+fifty =
+sixty =
+seventy =
+eighty =
+ninety =
+hundred =
+thousand =
+million =
+billion =
+
+
+(Category) Ordinal Numbers
+first (masculine singular) =
+second (masculine singular) =
+third (masculine singular) =
+fourth (masculine singular) =
+fifth (masculine singular) =
+sixth (masculine singular) =
+seventh (masculine singular) =
+eighth (masculine singular) =
+ninth (masculine singular) =
+tenth (masculine singular) =
+hundredth (masculine singular) =
+thousandth (masculine singular) =
+
+
+(Category) Fractional Numbers
+one half =
+one third =
+two thirds =
+one quarter =
+one fifth =
+one sixth =
+one seventh =
+one eighth =
+one ninth =
+one tenth =
+one hundredth =
+one thousandth =
