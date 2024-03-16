@@ -2,11 +2,12 @@
 (Table) Verbs-Tense-1
 
 (Category) Common
-to be = 
-to have = 
-to do = 
-to say = 
-to go = 
+to be (nature e.g. the book is heavy) = (essere), (sono), (sei), (è), (siamo), (siete), (sono)
+to be (location e.g. the book is on the table) = (essere, stare), (sono, sto), (sei, stai), (è, sta), (siamo, stiamo), (siete, state), (sono, stanno) 
+to have = (avere), (ho), (hai), (ha), (abbiamo), (avete), (hanno)
+to do = (fare), (faccio), (fai), (fa), (facciamo), (fate), (fanno)
+to say = (dire), (dico), (dici), (dice), (diciamo), (dite), (dicono)
+to go = (andare), (vado), (vai), (va), (andiamo), (andate), (vanno)
 to get (obtain) = 
 to make = 
 to know = 

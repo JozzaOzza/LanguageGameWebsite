@@ -1,9 +1,18 @@
+Text:
+
+    Accents:
+        à, è, ì, ò, ù, á, é, í, ó, ú, ñ
+
+    Verbs brackets:
+        (), (), (), (), (), (), ()
+
 Powershell:
 
     Go to repo:
         cd ../../repos/LanguageGameWebsite/
 
-Verbs table:
+
+SQL:
 
     Get all:
         SELECT * FROM [dbo].[verbsPresent]

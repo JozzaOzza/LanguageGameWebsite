@@ -1,12 +1,13 @@
 (Language) french
-(Table) Verbs-Tense-1
+(Table) Present Tense
 
 (Category) Common
-to be = 
-to have = 
-to do = 
-to say = 
-to go = 
+to be (nature e.g. the book is heavy) = (être), (suis), (es), (est), (sommmes), (êtes), (sont)
+to be (location e.g. the book is on the table) = (être), (suis), (es), (est), (sommmes), (êtes), (sont)
+to have = (avoir), (ai), (as), (a), (avons), (avez), (ont)
+to do = (faire), (fais), (fais), (fait), (faisons), (faites), (font)
+to say = (dire), (dis), (dis), (dit), (disons), (dites), (disent)
+to go = (aller), (vais), (vas), (va), (allons), (allez), (vont)
 to get (obtain) = 
 to make = 
 to know = 

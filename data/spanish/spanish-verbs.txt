@@ -2,11 +2,12 @@
 (Table) Verbs-Tense-1
 
 (Category) Common
-to be = 
-to have = 
-to do = 
-to say = 
-to go = 
+to be (nature e.g. the book is heavy) = (ser), (soy), (eres), (es), (somos), (sois), (son)
+to be (location e.g. the book is on the table) = (estar), (estoy), (estás), (está), (estamos), (estais), (están)
+to have = (tener), (tengo), (tienes), (tiene), (tenemos), (tenéis), (tienen)
+to do = (hacer), (hago), (haces), (hace), (hacemos), (hacéis), (hacen)
+to say = (decir), (digo), (dices), (dice), (decimos), (decís), (dicen)
+to go = (ir), (voy), (vas), (va), (vamos), (vais), (van)
 to get (obtain) = 
 to make = 
 to know = 
