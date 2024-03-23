@@ -27,12 +27,13 @@ To call
 To try 	
 To ask 	(a question)
 To ask (for something)
-To need 
-To feel
-To become
+
 
 
 (Category) Common (2)
+To need 
+To feel
+To become
 To leave (a place)
 To leave (an object)
 To put
@@ -55,13 +56,14 @@ To live
 To believe 	
 To hold 	
 To bring 	
+
+
+
+(Category) Common (3)
 To happen	
 To write 
 To provide
 To sit
-
-
-(Category) Common (3)
 To stand 
 To lose 	
 To pay
@@ -83,14 +85,15 @@ To allow
 To add
 To spend 	
 To grow (become bigger)
+
+
+
+(Category) Common (4)
 To grow (e.g. a plant)	
 To open 	
 To walk 	
 To win
 To offer 
-
-
-(Category) Common (4)
 To remember 	
 To love 	
 To consider 	
@@ -111,19 +114,20 @@ To reach (attain)
 To kill 	
 To remain 	
 To suggest 
-To raise (e.g. a glass)
-To raise (e.g. a child)	
-To pass (time)
-To pass (by something)
-To pass (an object)
+
+
+
+(Category) Common (5)
+To raise (e.g. raise a glass)
+To raise (e.g. raise a child)	
+To pass (e.g. pass time)
+To pass (e.g. pass by something)
+To pass (e.g. pass an object to someone)
 To sell 	
 To need
 To report 	
 To decide 	
 To pull 
-
-
-(Category) Common (5)
 To lack	
 To break
 To respond
@@ -139,11 +143,4 @@ To close (e.g. a door)
 To close (e.g. a deal)
 To refuse
 To forget
-To hate
-To disappear
-To receive
-To destroy
-To go out
-To climb
-To push
-To hope
+
