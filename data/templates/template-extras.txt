@@ -4,7 +4,7 @@
 
 (Category) Subject Pronouns
 I
-You (singular)
+you (singular)
 He
 She
 It

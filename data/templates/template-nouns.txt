@@ -1,9 +1,9 @@
-(Language) Template
-(Table) Nouns
+(Language) template
+(Table) nouns
 
 
-(Category) Time (general)
-Time
+(Category) time (general)
+time
 moment
 second
 minute
@@ -13,7 +13,7 @@ week
 month
 quarter
 season
-Year
+year
 Decade
 Century
 Millenium
@@ -28,10 +28,12 @@ period
 yesterday
 today
 Tomorrow
+birthday
+anniversary
 
 
 (Category) Time (specific)
-Spring
+spring
 Summer
 Autumn
 Winter
@@ -54,8 +56,7 @@ Thursday
 Friday
 Saturday
 Sunday
-Birthday
-Anniversary
+
 
 
 (Category) People 
@@ -382,7 +383,6 @@ Garlic
 Chilli
 Ginger
 Sweet potato
-Lettuce
 Spinach
 Kale
 Asparagus

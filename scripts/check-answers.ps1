@@ -1,27 +1,25 @@
 [CmdletBinding()]
 param (
    [Parameter(Mandatory = $true)]
-   [string]$Language,
+   [string]$Languages,
    [Parameter(Mandatory = $true)]
-   [string]$Template,
+   [string]$Types,
    [Parameter(Mandatory = $true)]
-   [string]$Category
+   [string]$Categories
 )
 begin {
-    # $languages = @('french', 'spanish', 'italian', 'portuguese')
-    # $templates = @('adjectives', 'adverbs', 'extras', 'nouns', 'verbs')
-    # if ($null -ne $Language -or $Language -ne "") {
-    #     $languages = $Language.Split(',')
-    # }
-    # if ($null -ne $template -or $template -ne "") {
-    #     $categories = $template.Split(',')
-    # }
-    $language = $Language
-    $template = $Template
-    $category = $Category
+    $languages = ($Languages -eq "*") ? "french, italian, portuguese, spanish" : ($Languages.Split(",") | ForEach-Object {$_.Trim().ToLower()})
+    $types = ($Types -eq "*") ? "adjectives, adverbs, extras, nouns, verbs" : ($Types.Split(",") | ForEach-Object {$_.Trim().ToLower()})
+    $categories = ($Categories -eq "*") ? "." : ($Categories.Split(",") | ForEach-Object {$_.Trim()})
 }
     
 process {
+    foreach ($language in $languages) {
+        foreach ($type in $types) {
+            $correctAnswersPath = "..\data\$language\$language-$type.txt"
+            $myAnswersPath = "..\data\$language\blank\$type.txt"
+        }
+    }
     $correctAnswersPath =  "..\data\$language\$language-$template.txt"
     $myAnswersPath = "..\data\$language\blank\$template.txt"
     $category = "Connectives"
