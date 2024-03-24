@@ -1,10 +1,10 @@
 [CmdletBinding()]
 param (
-    [Parameter(Mandatory = $true)]
-    [string]$Languages
+    [Parameter()]
+    [string]$Languages = ""
 )
 begin {
-    $languages = ($Languages -eq "*") ? @("french", "italian", "portuguese", "spanish") : ($Languages.Split(",") | ForEach-Object { $_.Trim().ToLower() })
+    $languages = (($Languages -eq "*") -or ($Languages -eq "")) ? @("french", "italian", "portuguese", "spanish") : ($Languages.Split(",") | ForEach-Object { $_.Trim().ToLower() })
     # verbs kept separately due to structure
     $types = @("adjectives", "adverbs", "extras", "nouns")
 } 
@@ -16,16 +16,15 @@ process {
         )
         $splitLine = $Line.Split("=")
         $conjugations = $splitLine[1].Split(",") | ForEach-Object { $_.Trim("(", ")", " ") }
-        $conjugationsObject = @{"infinitive" = $conjugations[0]; "I" = $conjugations[1]; "you (singular)" = $conjugations[2]; "they (singular)" = $conjugations[3]; "we" = $conjugations[4]; "you (plural)" = $conjugations[5]; "they (plural)" = $conjugations[6] }
+        $conjugationsObject = [ordered]@{"infinitive" = $conjugations[0]; "I" = $conjugations[1]; "you (singular)" = $conjugations[2]; "they (singular)" = $conjugations[3]; "we" = $conjugations[4]; "you (plural)" = $conjugations[5]; "they (plural)" = $conjugations[6] }
         return $conjugationsObject
     }
 
     foreach ($language in $languages) {
-        $jsonRepresentation = @{"language" = $language }
         # loop through all non-verb types
         foreach ($type in $types) {
             $source = "..\data\$language\$language-$type.txt"
-            $jsonRepresentation[$type] = @{}
+            $jsonRepresentation = @{"language" = $language; $type = @{}}
             $category = ""
             $inCategory = $false
             Get-Content -Path $source | ForEach-Object {
@@ -49,10 +48,11 @@ process {
                     }
                 }
             }
+            $jsonRepresentation | ConvertTo-Json -depth 100 | Out-File "..\data\$language\$language-$type.json"
         }
         # loop through verbs
         $source = "..\data\$language\$language-verbs.txt"
-        $jsonRepresentation.Add("verbs", @{})
+        $jsonRepresentation = @{"language" = $language; "verbs" = @{}}
         $category = ""
         $inCategory = $false
         Get-Content -Path $source | ForEach-Object {
@@ -70,11 +70,10 @@ process {
                 }
                 elseif ($_.Trim() -ne "") {
                     $verb = $_.Split("=")[0].Trim().ToLower()
-                    $conjugations = New-VerbObject -Line $_.ToLower()
-                    $jsonRepresentation["verbs"][$category][$verb] = $conjugations
+                    $jsonRepresentation["verbs"][$category][$verb] = [ordered]@{"infinitive" = ""; "I" = ""; "you (singular)" = ""; "they (singular)" = ""; "we" = ""; "you (plural)" = ""; "they (plural)" = "" }
                 }
             }
         }
-        $jsonRepresentation | ConvertTo-Json -depth 100 | Out-File "..\data\$language\$language.json"
+        $jsonRepresentation | ConvertTo-Json -depth 100 | Out-File "..\data\$language\$language-verbs.json"
     }
 }
