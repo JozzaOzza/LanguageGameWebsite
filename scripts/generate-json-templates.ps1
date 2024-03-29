@@ -1,10 +1,7 @@
 [CmdletBinding()]
-param (
-    [Parameter()]
-    [string]$Languages = ""
-)
+param ()
 begin {
-    $languages = (($Languages -eq "*") -or ($Languages -eq "")) ? @("french", "italian", "portuguese", "spanish") : ($Languages.Split(",") | ForEach-Object { $_.Trim().ToLower() })
+    $languages = "template"
     # verbs kept separately due to structure
     $types = @("adjectives", "adverbs", "extras", "nouns")
 } 
