@@ -13,6 +13,7 @@ process {
             $destinationPath = "..\data\$language\$language-$type.json"
             $sourceJson = Get-Content -Raw $sourcePath | ConvertFrom-Json -AsHashTable -Depth 100
             $destinationJson = Get-Content -Raw $destinationPath | ConvertFrom-Json -AsHashTable -Depth 100
+            $blankPath = "..\data\$language\blank\$type.json"
 
             # new object to be added to
             $newJson = @{"language" = $language; $type = @{} }
@@ -39,12 +40,14 @@ process {
             }
 
             $newJson | ConvertTo-Json -depth 100 | Out-File $destinationPath
+            $newJson | ConvertTo-Json -depth 100 | Out-File $blankPath
         }
         # loop through verb type
         $sourcePath = "..\data\template\template-verbs.json"
         $destinationPath = "..\data\$language\$language-verbs.json"
         $sourceJson = Get-Content -Raw $sourcePath | ConvertFrom-Json -AsHashTable -Depth 100
         $destinationJson = Get-Content -Raw $destinationPath | ConvertFrom-Json -AsHashTable -Depth 100
+        $blankPath = "..\data\$language\blank\verbs.json"
 
         # new object to be added to
         $newJson = @{"language" = $language; "verbs" = @{} }
@@ -71,6 +74,7 @@ process {
         }
 
         $newJson | ConvertTo-Json -depth 100 | Out-File $destinationPath
+        $newJson | ConvertTo-Json -depth 100 | Out-File $blankPath
     }
     
     # for testing

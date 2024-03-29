@@ -1,10 +1,10 @@
 [CmdletBinding()]
 param (
-   [Parameter(Mandatory = $true)]
+   [Parameter()]
    [string]$Languages,
-   [Parameter(Mandatory = $true)]
+   [Parameter()]
    [string]$Types,
-   [Parameter(Mandatory = $true)]
+   [Parameter()]
    [string]$Categories
 )
 begin {
@@ -14,36 +14,26 @@ begin {
 }
     
 process {
-    foreach ($language in $languages) {
-        foreach ($type in $types) {
-            $correctAnswersPath = "..\data\$language\$language-$type.txt"
-            $myAnswersPath = "..\data\$language\blank\$type.txt"
-        }
-    }
-    $correctAnswersPath =  "..\data\$language\$language-$template.txt"
-    $myAnswersPath = "..\data\$language\blank\$template.txt"
-    $category = "Connectives"
-    $inCategory = $false
-    $iterator = 0
-    $questionCount = 0
-    $correctCount
+    $language = "spanish"
+    $type = "extras"
+    $category = "common phrases"
 
-    $correctAnswers = Get-Content -Path $correctAnswersPath
-    Get-Content -Path $myAnswersPath | ForEach-Object {
-        $currentLine = $correctAnswers[$iterator].Trim()
-        if ($currentLine -eq "" -and $inCategory -eq $true) {
-            break
+    $correctJson = Get-Content -Raw "..\data\$language\$language-$type.json" | ConvertFrom-Json -AsHashTable -Depth 100
+    $correctAnswers = $correctJson[$type]
+    $myJson = Get-Content -Raw "..\data\$language\blank\$type.json" | ConvertFrom-Json -AsHashTable -Depth 100
+    $myAnswers = $myJson[$type]
+
+    $correctCount = 0
+
+    foreach ($word in $correctAnswers[$category].Keys) {
+        $correctAnswer = $correctAnswers[$category][$word]
+        $myAnswer = $myAnswers[$category][$word]
+        if ($myAnswer -ne $correctAnswer) {
+            Write-Host ("Incorrect - Word: {0}, Translation: {1}, Your answer: {2}" -f $word, $correctAnswer, $myAnswer)
+        } else {
+            Write-Host ("Correct - Word: {0}, Translation: {1}, Your answer: {2}" -f $word, $correctAnswer, $myAnswer)
+            $correctCount ++
         }
-        if ($inCategory -eq $true) {
-            # extract characters in correctAnswer and myAnswer from after the '='
-            # split correctAnswer by comma
-            # check if correctAnswer contains myAnswer
-            Write-Host $currentLine
-        }
-        if ($currentLine -eq "(Category) $category") {
-            $inCategory = $true
-            Write-Host $currentLine
-        }
-        $iterator++
     }
+    Write-Host ("For {0} - {1} - {2}, you scored {3} / {4}" -f $language, $type, $category, $correctCount, $correctAnswers[$category].Keys.count)
 }
