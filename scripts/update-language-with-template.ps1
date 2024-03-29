@@ -18,7 +18,6 @@ process {
             $newJson = @{"language" = $language; $type = @{} }
 
             $sourceCategories = $sourceJson[$type].Keys
-            $destinationCategories = $destinationJson[$type].Keys
 
             # update destination's type with latest categories, if they do not already exist
             foreach ($key in $sourceCategories) {
@@ -51,11 +50,10 @@ process {
         $newJson = @{"language" = $language; "verbs" = @{} }
 
         $sourceCategories = $sourceJson["verbs"].Keys
-        $destinationCategories = $destinationJson["verbs"].Keys
 
         # update destination's type with latest categories, if they do not already exist
         foreach ($key in $sourceCategories) {
-            $newJson["verbs"].Add($key, $destinationJson["verbs"][$key])
+            $newJson["verbs"].Add($key, @{})
         }
 
         # update destination's categories with latest words, if they do not already exist
@@ -76,11 +74,11 @@ process {
     }
     
     # for testing
-    $sourcePath = "..\data\template\template-nouns.json"
-    $destinationPath = "..\data\spanish\spanish-nouns.json"
-    $sourceJson = Get-Content -Raw $sourcePath | ConvertFrom-Json -AsHashTable -Depth 100
-    $destinationJson = Get-Content -Raw $destinationPath | ConvertFrom-Json -AsHashTable -Depth 100
-    $destinationJson["nouns"]["food (common dishes)"].Keys
-    $destinationJson["nouns"]["food (common dishes)"].Keys -notcontains "sandwich"
-    $destinationJson["nouns"]["food (common dishes)"]["sandwich"]
+    # $sourcePath = "..\data\template\template-nouns.json"
+    # $destinationPath = "..\data\spanish\spanish-nouns.json"
+    # $sourceJson = Get-Content -Raw $sourcePath | ConvertFrom-Json -AsHashTable -Depth 100
+    # $destinationJson = Get-Content -Raw $destinationPath | ConvertFrom-Json -AsHashTable -Depth 100
+    # $destinationJson["nouns"]["food (common dishes)"].Keys
+    # $destinationJson["nouns"]["food (common dishes)"].Keys -notcontains "sandwich"
+    # $destinationJson["nouns"]["food (common dishes)"]["sandwich"]
 }

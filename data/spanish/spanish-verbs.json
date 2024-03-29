@@ -2,7 +2,7 @@
   "language": "spanish",
   "verbs": {
     "common (3)": {
-      "to spend": {
+      "to watch": {
         "infinitive": "pasar",
         "I": "",
         "you (singular)": "",
@@ -11,7 +11,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to learn": {
+      "to create": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -65,7 +65,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to sit": {
+      "to follow": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -74,7 +74,25 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to allow": {
+      "to spend": {
+        "infinitive": "pasar",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to include": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to lose": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -101,16 +119,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to create": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to watch": {
+      "to allow": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -146,6 +155,15 @@
         "you (plural)": "",
         "they (plural)": ""
       },
+      "to sit": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
       "to speak": {
         "infinitive": "",
         "I": "",
@@ -155,25 +173,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to set (e.g. an alarm)": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to lose": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to continue": {
+      "to learn": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -200,7 +200,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to include": {
+      "to set (e.g. an alarm)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -209,7 +209,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to follow": {
+      "to continue": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -256,7 +256,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to run (move)": {
+      "to move": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -275,15 +275,6 @@
         "they (plural)": ""
       },
       "to play": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to believe": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -319,6 +310,15 @@
         "you (plural)": "",
         "they (plural)": ""
       },
+      "to feel": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
       "to bring": {
         "infinitive": "",
         "I": "",
@@ -328,7 +328,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to feel": {
+      "to help": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -346,7 +346,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to help": {
+      "to run (move)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -445,7 +445,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to move": {
+      "to believe": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -456,6 +456,15 @@
       }
     },
     "common (4)": {
+      "to consider": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
       "to build": {
         "infinitive": "",
         "I": "",
@@ -465,25 +474,16 @@
         "you (plural)": "",
         "they (plural)": ""
       },
+      "to cut (reduce)": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
       "to serve": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to reach (for something)": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to cut (e.g. skin)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -537,24 +537,6 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to cut (reduce)": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to expect": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
       "to offer": {
         "infinitive": "",
         "I": "",
@@ -564,7 +546,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to send": {
+      "to reach (for something)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -600,7 +582,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to appear": {
+      "to cut (e.g. skin)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -609,7 +591,16 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to die": {
+      "to expect": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to send": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -627,6 +618,15 @@
         "you (plural)": "",
         "they (plural)": ""
       },
+      "to die": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
       "to love": {
         "infinitive": "",
         "I": "",
@@ -636,7 +636,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to remain": {
+      "to appear": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -663,7 +663,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to consider": {
+      "to remain": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -692,7 +692,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to take (bring)": {
+      "to come": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -701,7 +701,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to work": {
+      "to make": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -710,16 +710,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to try": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to give": {
+      "to think": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -755,6 +746,15 @@
         "you (plural)": "",
         "they (plural)": ""
       },
+      "to take (e.g. the train)": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
       "to find": {
         "infinitive": "",
         "I": "",
@@ -773,6 +773,15 @@
         "you (plural)": "",
         "they (plural)": ""
       },
+      "to take (bring)": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
       "to ask \t(a question)": {
         "infinitive": "",
         "I": "",
@@ -782,16 +791,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to come": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to say": {
+      "to work": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -854,7 +854,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to think": {
+      "to say": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -881,7 +881,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to make": {
+      "to give": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -890,7 +890,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to take (e.g. the train)": {
+      "to try": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -910,7 +910,16 @@
       }
     },
     "common (5)": {
-      "to close (e.g. a deal)": {
+      "to prevent": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to sell": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -929,15 +938,6 @@
         "they (plural)": ""
       },
       "to pass (e.g. pass by something)": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to remove": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -973,7 +973,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to question": {
+      "to forget": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -982,7 +982,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to forget": {
+      "to report": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -1018,7 +1018,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to close (e.g. a door)": {
+      "to pull": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -1028,15 +1028,6 @@
         "they (plural)": ""
       },
       "to decide": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to save (e.g. money)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -1090,6 +1081,24 @@
         "you (plural)": "",
         "they (plural)": ""
       },
+      "to close (e.g. a deal)": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to remove": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
       "to lack": {
         "infinitive": "",
         "I": "",
@@ -1099,7 +1108,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to pull": {
+      "to question": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -1108,7 +1117,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to report": {
+      "to close (e.g. a door)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -1117,16 +1126,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to prevent": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to sell": {
+      "to save (e.g. money)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
