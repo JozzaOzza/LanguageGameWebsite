@@ -6,9 +6,7 @@ param (
 begin {
     $languagesList = (($Languages -eq "*") -or ($Languages -eq "")) ? @("french", "italian", "portuguese", "spanish") : ($Languages.Split(",") | ForEach-Object {$_.Trim().ToLower()})
     $types = @("adjectives", "adverbs", "extras", "nouns")
-    Write-Host $languages
 }
-
 process {
     foreach ($language in $languagesList) {
         Write-Host $language
@@ -32,11 +30,14 @@ process {
                         $lineSplit = $_.Split("=")
                         $english = $lineSplit[0].Trim()
                         $translation = $lineSplit[1].Trim()
-                        $destinationJson[$type][$category].Add($english, $translation)
+                        if ($destinationJson[$type][$category].Keys -contains $english) {
+                            $destinationJson[$type][$category][$english] = $translation
+                        }
                     }
                 }
             }
+            $destinationJson | ConvertTo-Json -depth 100 | Out-File "..\data\$language\$language-$type.json"
         }
-        $destinationJson | ConvertTo-Json -depth 100 | Out-File "..\data\$language\$language-$type.json"
+        
     }
 }
