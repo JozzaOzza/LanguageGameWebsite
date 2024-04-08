@@ -20,11 +20,11 @@
       "themselves": "li"
     },
     "articles (definite, indefinite, partitive)": {
-      "a (singular e.g. a cake)": null,
-      "the (singular e.g. the cake)": null,
-      "the (plural e.g. the cakes)": null,
-      "this (singular e.g. this cake)": null,
-      "these (plural e.g. these cakes)": null,
+      "a (singular e.g. a cake)": "un, uno, una",
+      "the (singular e.g. the cake)": "il, lo, la",
+      "the (plural e.g. the cakes)": "i, gli, le",
+      "this (singular e.g. this cake)": "questo, questa, codesto, codesta",
+      "these (plural e.g. these cakes)": "questi",
       "that (singular e.g. that cake)": null,
       "those (plural e.g. those cakes)": null,
       "few (plural e.g. few cakes)": null,

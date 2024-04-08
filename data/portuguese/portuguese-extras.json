@@ -20,11 +20,11 @@
       "themselves": "se, si"
     },
     "articles (definite, indefinite, partitive)": {
-      "a (singular e.g. a cake)": null,
-      "the (singular e.g. the cake)": null,
-      "the (plural e.g. the cakes)": null,
-      "this (singular e.g. this cake)": null,
-      "these (plural e.g. these cakes)": null,
+      "a (singular e.g. a cake)": "um, uma",
+      "the (singular e.g. the cake)": "o, a",
+      "the (plural e.g. the cakes)": "os, as",
+      "this (singular e.g. this cake)": "este, esta",
+      "these (plural e.g. these cakes)": "estes",
       "that (singular e.g. that cake)": null,
       "those (plural e.g. those cakes)": null,
       "few (plural e.g. few cakes)": null,
