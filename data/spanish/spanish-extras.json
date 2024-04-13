@@ -36,19 +36,20 @@
       "all (plural e.g. all of the cakes)": "todos, todas",
       "any (singular e.g. any cake)": "algún, alguna, algo de, cualquier, cualquiera",
       "any (plural e.g. any cakes)": "algunos, algunas",
-      "too much (singular e.g. too much cake)": null,
-      "too many (plural e.g. too many cakes)": null,
-      "each (singular e.g. each cake)": null,
-      "different (plural e.g. different cakes)": null
+      "too much (singular e.g. too much cake)": "demasiado, demasiada, mucho, mucha",
+      "too many (plural e.g. too many cakes)": "demasiados, demasiadas, muchos, muchas",
+      "each (singular e.g. each cake)": "cada"
     },
     "question words": {
-      "who": null,
-      "what": null,
-      "where": null,
-      "when": null,
-      "how": null,
-      "why": null,
-      "which": null
+      "who": "quién, quiénes",
+      "what": "qué",
+      "where": "dónde",
+      "when": "cuándo",
+      "how": "cómo",
+      "why": "por qué",
+      "which": "qué, cuál, cuáles",
+      "how much (singular)": "cuánto, cuánta",
+      "how many (plural)": "cuántos, cuántas"
     },
     "cardinal numbers": {
       "one": null,

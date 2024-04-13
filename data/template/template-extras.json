@@ -38,8 +38,7 @@
       "any (plural e.g. any cakes)": null,
       "too much (singular e.g. too much cake)": null,
       "too many (plural e.g. too many cakes)": null,
-      "each (singular e.g. each cake)": null,
-      "different (plural e.g. different cakes)": null
+      "each (singular e.g. each cake)": null
     },
     "question words": {
       "who": null,
@@ -48,7 +47,9 @@
       "when": null,
       "how": null,
       "why": null,
-      "which": null
+      "which": null,
+      "how much (singular)": null,
+      "how many (plural)": null
     },
     "cardinal numbers": {
       "one": null,
