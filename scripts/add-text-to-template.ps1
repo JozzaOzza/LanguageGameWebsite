@@ -12,7 +12,7 @@ process {
         foreach ($type in $types) {
             $sourcePath = "..\data\$language\$language-$type.txt"
             $destinationPath = "..\data\$language\$language-$type.json"
-            $destinationJson = Get-Content -Raw $destinationPath | ConvertFrom-Json -AsHashTable -Depth 100
+            $destinationJson = @{"language" = "template"; $type = @{}}
 
             $category = ""
             $inCategory = $false
@@ -22,6 +22,7 @@ process {
                     if ($_ -match "(Category)") {
                         $category = $_.Substring(11).Trim().ToLower()
                         $inCategory = $true
+                        $destinationJson[$type][$category] = @{}
                     }
                 }
                 else {

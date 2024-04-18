@@ -52,6 +52,7 @@
       "how many (plural)": null
     },
     "cardinal numbers": {
+      "zero": null,
       "one": null,
       "two": null,
       "three": null,
@@ -85,18 +86,26 @@
       "billion": null
     },
     "ordinal numbers": {
-      "first": null,
-      "second": null,
-      "third": null,
-      "fourth": null,
-      "fifth": null,
-      "sixth": null,
-      "seventh": null,
-      "eighth": null,
-      "ninth": null,
-      "tenth": null,
-      "hundredth": null,
-      "thousandth": null
+      "first (1st)": null,
+      "second (2nd)": null,
+      "third (3rd)": null,
+      "fourth (4th)": null,
+      "fifth (5th)": null,
+      "sixth (6th)": null,
+      "seventh (7th)": null,
+      "eighth (8th)": null,
+      "ninth (9th)": null,
+      "tenth (10th)": null,
+      "twentieth (20th)": null,
+      "thirtieth (30th)": null,
+      "fourtieth (40th)": null,
+      "fiftieth (50th)": null,
+      "sixtieth (60th)": null,
+      "seventieth (70th)": null,
+      "eightieth (80th)": null,
+      "ninetieth (90th)": null,
+      "hundredth (100th)": null,
+      "thousandth (1000th)": null
     },
     "fractional numbers": {
       "two thirds": null,

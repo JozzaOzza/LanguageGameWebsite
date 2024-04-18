@@ -4,7 +4,6 @@ begin {
     $languages = @("french", "italian", "portuguese", "spanish")
     # verbs kept separately due to structure
     $types = @("adjectives", "adverbs", "extras", "nouns")
-    $types = @("extras")
 } 
 process {
     foreach ($language in $languages) {
@@ -35,27 +34,28 @@ process {
         }
     }
     # loop through verb type
-    # $sourcePath = "..\data\template\template-verbs.json"
-    # $destinationPath = "..\data\$language\$language-verbs.json"
-    # $sourceJson = Get-Content -Raw $sourcePath | ConvertFrom-Json -AsHashTable -Depth 100
-    # $destinationJson = Get-Content -Raw $destinationPath | ConvertFrom-Json -AsHashTable -Depth 100
-    # $blankPath = "..\data\$language\blank\verbs.json"
+    $sourcePath = "..\data\template\template-verbs.json"
+    $destinationPath = "..\data\$language\$language-verbs.json"
+    $sourceJson = Get-Content -Raw $sourcePath | ConvertFrom-Json -AsHashTable -Depth 100
+    $destinationJson = Get-Content -Raw $destinationPath | ConvertFrom-Json -AsHashTable -Depth 100
+    $blankPath = "..\data\$language\blank\verbs.json"
 
-    # # new object to be added to
-    # $newJson = @{"language" = $language; "verbs" = @{} }
+    # new object to be added to
+    $newJson = $sourceJson
 
-    # $sourceCategories = $sourceJson["verbs"].Keys
+    $newJson["language"] = $language
+    $sourceCategories = $sourceJson["verbs"].Keys
 
-    # # update destination's categories with latest words, if they do not already exist
-    # foreach ($key in $sourceCategories) {
-    #     $sourceCategoryWords = $sourceJson["verbs"][$key].Keys
-    #     foreach ($word in $sourceCategoryWords) {
-    #         $newJson["verbs"][$key][$word] = $destinationJson["verbs"][$key][$word]
-    #     }
-    # }
+    # update destination's categories with latest words, if they do not already exist
+    foreach ($key in $sourceCategories) {
+        $sourceJson["verbs"][$key].Keys.Clone() | ForEach-Object {
+            Write-Host ("{0} : {1}" -f $_, $destinationJson["verbs"][$key][$_])
+            $sourceJson["verbs"][$key][$_] = $destinationJson["verbs"][$key][$_]
+        }
+    }
 
-    # $newJson | ConvertTo-Json -depth 100 | Out-File $destinationPath
-    # $newJson | ConvertTo-Json -depth 100 | Out-File $blankPath
+    $newJson | ConvertTo-Json -depth 100 | Out-File $destinationPath
+    $newJson | ConvertTo-Json -depth 100 | Out-File $blankPath
 }
     
 # for testing
