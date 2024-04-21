@@ -196,27 +196,27 @@
       "welcome (e.g. welcome to my home)": "bienvenue",
       "excuse me (interjection)": "s'il vous plaît, s'il te plaît, pardon, excusez-moi, excuse-moi",
       "of course": "bien entendu, bien sûr",
-      "how do you say (e.g. how do you say this)": null,
-      "how much does this cost?": null,
-      "do you have a table for two?": "avez vous une table pour deux",
-      "I would like": null,
+      "how do you say (e.g. how do you say this)": "comment dit-on, comment dites-vous, comment dis-tu",
+      "how much does this cost?": "combien ça coûte",
+      "do you have a table for two?": "avez vous une table pour deux, as-tu un table pour deux",
+      "I would like (e.g. I would like a cake)": "je voudrais",
       "to take away (e.g. a pizza to take away)": "à emporter",
-      "I cannot speak much of this language": null
+      "I cannot speak much of this language": "je ne parle pas beaucoup de cette langue, je ne peux pas parler beaucoup de cette langue"
     },
     "tim ferriss practice": {
-      "it is John's apple": null,
-      "I give the apple to John": null,
-      "she gives it to him": null,
-      "is the apple red?": null,
-      "the apples are red": null,
-      "he gives it to John": null,
-      "I must give it to him": null,
-      "I have eaten the apple": null,
-      "we give him the apple": null,
-      "the apple is red": null,
-      "I want to give it to her": null,
-      "I can't eat the apple": null,
-      "I'm going to know tomorrow": null
+      "it is John's apple": "c'est la pomme de John",
+      "I give the apple to John": "je donne la pomme à John",
+      "she gives it to him": "elle le lui donne",
+      "is the apple red?": "est-ce que la pomme est rouge, la pomme est-elle rouge, la pomme est rouge",
+      "the apples are red": "les pommes sont rouges",
+      "he gives it to John": "il le donne à John",
+      "I must give it to him": "je dois le lui donner",
+      "I have eaten the apple": "j'ai mangé la pomme",
+      "we give him the apple": "nous lui donnons la pomme",
+      "the apple is red": "la pomme est rouge",
+      "I want to give it to her": "je veux lui donner, je veux le lui donner",
+      "I can't eat the apple": "je ne peux pas manger la pomme",
+      "I'm going to know tomorrow": "je le saurai demain, je saurai demain, je vais savoir demain"
     }
   }
 }

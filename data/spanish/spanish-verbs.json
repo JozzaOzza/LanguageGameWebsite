@@ -1,8 +1,8 @@
 {
   "language": "spanish",
   "verbs": {
-    "common (3)": {
-      "to spend": {
+    "common": {
+      "to be": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -11,7 +11,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to learn": {
+      "to have": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -20,7 +20,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to add": {
+      "to do": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -29,7 +29,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to change": {
+      "to say": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -38,7 +38,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to lead": {
+      "to go": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -47,7 +47,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to pay": {
+      "to get (obtain)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -56,7 +56,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to provide": {
+      "to make": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -65,7 +65,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to sit": {
+      "to know": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -74,7 +74,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to allow": {
+      "to think": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -83,7 +83,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to stand": {
+      "to take (e.g. medicine)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -92,7 +92,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to happen": {
+      "to take (e.g. the train)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -101,7 +101,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to create": {
+      "to take (bring)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -110,7 +110,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to watch": {
+      "to see": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -119,7 +119,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to write": {
+      "to come": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -128,7 +128,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to read": {
+      "to want": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -137,7 +137,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to stop": {
+      "to look": null,
+      "to use": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -146,7 +147,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to speak": {
+      "to find": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -155,7 +156,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to set (e.g. an alarm)": {
+      "to give": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -164,7 +165,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to lose": {
+      "to tell": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -173,7 +174,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to continue": {
+      "to work": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -182,7 +183,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to understand": {
+      "to call": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -191,7 +192,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to meet (e.g. people)": {
+      "to try": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -200,25 +201,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to include": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to follow": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to grow (become bigger)": {
+      "to ask (a question)": null,
+      "to ask (for something)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -455,6 +439,233 @@
         "they (plural)": ""
       }
     },
+    "common (3)": {
+      "to spend": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to learn": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to add": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to change": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to lead": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to pay": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to provide": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to sit": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to allow": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to stand": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to happen": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to create": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to watch": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to write": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to read": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to stop": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to speak": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to set (e.g. an alarm)": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to lose": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to continue": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to understand": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to meet (e.g. people)": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to include": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to follow": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to grow (become bigger)": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      }
+    },
     "common (4)": {
       "to build": {
         "infinitive": "",
@@ -673,233 +884,6 @@
         "they (plural)": ""
       },
       "to kill": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      }
-    },
-    "common": {
-      "to call": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to take (bring)": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to work": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to try": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to give": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to take (e.g. medicine)": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to do": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to see": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to find": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to look (glance)": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to ask \t(a question)": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to come": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to say": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to get (obtain)": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to be": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to want": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to have": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to go": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to use": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to think": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to tell": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to know": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to make": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to take (e.g. the train)": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to ask (for something)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
