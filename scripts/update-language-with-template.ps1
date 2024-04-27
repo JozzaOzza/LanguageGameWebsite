@@ -17,6 +17,7 @@ process {
 
             # new object to be added to
             $newJson = $sourceJson
+            $newJson | ConvertTo-Json -depth 100 | Out-File $blankPath
 
             $newJson["language"] = $language
             $sourceCategories = $sourceJson[$type].Keys
@@ -30,7 +31,6 @@ process {
             }
 
             $newJson | ConvertTo-Json -depth 100 | Out-File $destinationPath
-            $newJson | ConvertTo-Json -depth 100 | Out-File $blankPath
         }
         # loop through verb type
         $sourcePath = "..\data\template\template-verbs.json"
@@ -41,6 +41,7 @@ process {
 
         # new object to be added to
         $newJson = $sourceJson
+        $newJson | ConvertTo-Json -depth 100 | Out-File $blankPath
 
         $newJson["language"] = $language
         $sourceCategories = $sourceJson["verbs"].Keys
@@ -54,7 +55,6 @@ process {
         }
 
         $newJson | ConvertTo-Json -depth 100 | Out-File $destinationPath
-        $newJson | ConvertTo-Json -depth 100 | Out-File $blankPath
     }
     
 }
