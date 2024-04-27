@@ -137,7 +137,15 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to look": null,
+      "to look": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
       "to use": {
         "infinitive": "",
         "I": "",
@@ -201,7 +209,15 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to ask (a question)": null,
+      "to ask (a question)": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
       "to ask (for something)": {
         "infinitive": "",
         "I": "",

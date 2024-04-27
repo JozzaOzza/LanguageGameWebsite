@@ -25,7 +25,7 @@ process {
             foreach ($key in $sourceCategories) {
                 $sourceJson[$type][$key].Keys.Clone() | ForEach-Object {
                     Write-Host ("{0} : {1}" -f $_, $destinationJson[$type][$key][$_])
-                    $sourceJson[$type][$key][$_] = $destinationJson[$type][$key][$_]
+                    $sourceJson[$type][$key][$_] = ($null -eq $destinationJson[$type][$key][$_]) ? $sourceJson[$type][$key][$_] : $destinationJson[$type][$key][$_]
                 }
             }
 
@@ -49,7 +49,7 @@ process {
         foreach ($key in $sourceCategories) {
             $sourceJson["verbs"][$key].Keys.Clone() | ForEach-Object {
                 Write-Host ("{0} : {1}" -f $_, $destinationJson["verbs"][$key][$_])
-                $sourceJson["verbs"][$key][$_] = $destinationJson["verbs"][$key][$_]
+                $sourceJson["verbs"][$key][$_] = ($null -eq $destinationJson["verbs"][$key][$_]) ? $sourceJson["verbs"][$key][$_] : $destinationJson["verbs"][$key][$_]
             }
         }
 
