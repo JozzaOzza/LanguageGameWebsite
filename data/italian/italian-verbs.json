@@ -248,7 +248,7 @@
     },
     "common (2)": {
       "to put": {
-        "infinitive": "",
+        "infinitive": "mettere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -257,7 +257,7 @@
         "they (plural)": ""
       },
       "to show": {
-        "infinitive": "",
+        "infinitive": "mostrare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -265,8 +265,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to leave (an object)": {
-        "infinitive": "",
+      "to leave (e.g. they left some cake)": {
+        "infinitive": "lasciare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -275,7 +275,7 @@
         "they (plural)": ""
       },
       "to run (move)": {
-        "infinitive": "",
+        "infinitive": "correre",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -283,8 +283,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to need": {
-        "infinitive": "",
+      "to need (require)": {
+        "infinitive": "avere bisogno, necessitare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -292,8 +292,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to play": {
-        "infinitive": "",
+      "to play (a game)": {
+        "infinitive": "giocare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -302,7 +302,7 @@
         "they (plural)": ""
       },
       "to believe": {
-        "infinitive": "",
+        "infinitive": "credere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -311,7 +311,7 @@
         "they (plural)": ""
       },
       "to talk": {
-        "infinitive": "",
+        "infinitive": "parlare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -319,8 +319,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to turn": {
-        "infinitive": "",
+      "to turn (left or right)": {
+        "infinitive": "girare, svoltare, curvare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -328,8 +328,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to keep": {
-        "infinitive": "",
+      "to keep (hold)": {
+        "infinitive": "conservare, tenere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -338,7 +338,7 @@
         "they (plural)": ""
       },
       "to bring": {
-        "infinitive": "",
+        "infinitive": "portare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -346,8 +346,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to feel": {
-        "infinitive": "",
+      "to feel (be conscious of)": {
+        "infinitive": "sentire",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -356,7 +356,7 @@
         "they (plural)": ""
       },
       "to start": {
-        "infinitive": "",
+        "infinitive": "iniziare, cominciare, incominciare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -365,7 +365,7 @@
         "they (plural)": ""
       },
       "to help": {
-        "infinitive": "",
+        "infinitive": "aiutare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -374,7 +374,7 @@
         "they (plural)": ""
       },
       "to begin": {
-        "infinitive": "",
+        "infinitive": "iniziare, cominciare, incominciare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -382,7 +382,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to let": {
+      "to let (allow)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -392,7 +392,7 @@
         "they (plural)": ""
       },
       "to leave (a place)": {
-        "infinitive": "",
+        "infinitive": "permettere, consentire, lasciare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -401,7 +401,7 @@
         "they (plural)": ""
       },
       "to seem": {
-        "infinitive": "",
+        "infinitive": "sembrare, parere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -409,8 +409,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to mean": {
-        "infinitive": "",
+      "to mean (signify)": {
+        "infinitive": "significare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -418,8 +418,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to live": {
-        "infinitive": "",
+      "to live (be alive)": {
+        "infinitive": "essere vivo, vivere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -427,8 +427,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to hear": {
-        "infinitive": "",
+      "to hear (perceive sound)": {
+        "infinitive": "sentire, udire",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -437,7 +437,7 @@
         "they (plural)": ""
       },
       "to like": {
-        "infinitive": "",
+        "infinitive": "piacere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -446,7 +446,7 @@
         "they (plural)": ""
       },
       "to become": {
-        "infinitive": "",
+        "infinitive": "diventare, divenire",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -454,8 +454,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to hold": {
-        "infinitive": "",
+      "to hold (grasp)": {
+        "infinitive": "tenere, stringere, afferrare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -463,8 +463,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to move": {
-        "infinitive": "",
+      "to move (be in motion)": {
+        "infinitive": "muoversi",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
