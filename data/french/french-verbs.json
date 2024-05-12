@@ -2,7 +2,16 @@
   "language": "french",
   "verbs": {
     "common": {
-      "to be": {
+      "to be (location)": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to be (exist)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -65,7 +74,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to make": {
+      "to know (something)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -74,7 +83,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to know": {
+      "to know (someone)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -164,7 +173,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to find": {
+      "to find (encounter)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -191,7 +200,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to work": {
+      "to work (a job)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -200,7 +209,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to call": {
+      "to work (function)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -209,7 +218,16 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to try": {
+      "to call (shout for)": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to try (attempt)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",

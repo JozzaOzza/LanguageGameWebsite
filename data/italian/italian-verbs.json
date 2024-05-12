@@ -2,8 +2,17 @@
   "language": "italian",
   "verbs": {
     "common": {
-      "to be": {
-        "infinitive": "",
+      "to be (location)": {
+        "infinitive": "essere, stare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to be (exist)": {
+        "infinitive": "essere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -12,7 +21,7 @@
         "they (plural)": ""
       },
       "to have": {
-        "infinitive": "",
+        "infinitive": "avere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -21,7 +30,7 @@
         "they (plural)": ""
       },
       "to do": {
-        "infinitive": "",
+        "infinitive": "fare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -30,7 +39,7 @@
         "they (plural)": ""
       },
       "to say": {
-        "infinitive": "",
+        "infinitive": "dire",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -39,7 +48,7 @@
         "they (plural)": ""
       },
       "to go": {
-        "infinitive": "",
+        "infinitive": "andare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -48,7 +57,7 @@
         "they (plural)": ""
       },
       "to be able to": {
-        "infinitive": "",
+        "infinitive": "potere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -57,7 +66,7 @@
         "they (plural)": ""
       },
       "to get (obtain)": {
-        "infinitive": "",
+        "infinitive": "ottenere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -65,8 +74,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to make": {
-        "infinitive": "",
+      "to know (something)": {
+        "infinitive": "sapere, conoscere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -74,8 +83,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to know": {
-        "infinitive": "",
+      "to know (someone)": {
+        "infinitive": "conoscere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -84,7 +93,7 @@
         "they (plural)": ""
       },
       "to think": {
-        "infinitive": "",
+        "infinitive": "pensare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -93,7 +102,7 @@
         "they (plural)": ""
       },
       "to take (e.g. medicine)": {
-        "infinitive": "",
+        "infinitive": "prendere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -102,7 +111,7 @@
         "they (plural)": ""
       },
       "to take (e.g. the train)": {
-        "infinitive": "",
+        "infinitive": "prendere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -111,7 +120,7 @@
         "they (plural)": ""
       },
       "to take (bring)": {
-        "infinitive": "",
+        "infinitive": "portare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -120,7 +129,7 @@
         "they (plural)": ""
       },
       "to see": {
-        "infinitive": "",
+        "infinitive": "vedere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -129,7 +138,7 @@
         "they (plural)": ""
       },
       "to come": {
-        "infinitive": "",
+        "infinitive": "venire",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -138,7 +147,7 @@
         "they (plural)": ""
       },
       "to want": {
-        "infinitive": "",
+        "infinitive": "volere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -147,7 +156,7 @@
         "they (plural)": ""
       },
       "to look": {
-        "infinitive": "",
+        "infinitive": "guardare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -156,7 +165,7 @@
         "they (plural)": ""
       },
       "to use": {
-        "infinitive": "",
+        "infinitive": "usare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -164,8 +173,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to find": {
-        "infinitive": "",
+      "to find (encounter)": {
+        "infinitive": "trovare, incontrare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -174,7 +183,7 @@
         "they (plural)": ""
       },
       "to give": {
-        "infinitive": "",
+        "infinitive": "dare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -183,7 +192,7 @@
         "they (plural)": ""
       },
       "to tell": {
-        "infinitive": "",
+        "infinitive": "dire, raccontare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -191,8 +200,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to work": {
-        "infinitive": "",
+      "to work (a job)": {
+        "infinitive": "lavorare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -200,8 +209,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to call": {
-        "infinitive": "",
+      "to work (function)": {
+        "infinitive": "funzionare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -209,8 +218,17 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to try": {
-        "infinitive": "",
+      "to call (shout for)": {
+        "infinitive": "chiamare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to try (attempt)": {
+        "infinitive": "provare, tenatare, cercare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -219,7 +237,7 @@
         "they (plural)": ""
       },
       "to ask (a question)": {
-        "infinitive": "",
+        "infinitive": "chiedere, domandare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
