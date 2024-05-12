@@ -17,9 +17,9 @@ process {
 
             # new object to be added to
             $newJson = $sourceJson
-            $newJson | ConvertTo-Json -depth 100 | Out-File $blankPath
 
             $newJson["language"] = $language
+            $newJson | ConvertTo-Json -depth 100 | Out-File $blankPath
             $sourceCategories = $sourceJson[$type].Keys
 
             # update destination's categories with latest words, if they do not already exist
@@ -41,9 +41,9 @@ process {
 
         # new object to be added to
         $newJson = $sourceJson
-        $newJson | ConvertTo-Json -depth 100 | Out-File $blankPath
 
         $newJson["language"] = $language
+        $newJson | ConvertTo-Json -depth 100 | Out-File $blankPath
         $sourceCategories = $sourceJson["verbs"].Keys
 
         # update destination's categories with latest words, if they do not already exist
