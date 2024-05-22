@@ -1,0 +1,77 @@
+[
+    {
+        "tense": "indicativo presente",
+        "essere": {
+            "I": "sono",
+            "You (singular)": "sei",
+            "He/She": "è",
+            "We": "siamo",
+            "You (plural)": "siete",
+            "They (plural)": "sono"
+        },
+        "stare": {
+            "I": "sono",
+            "You (singular)": "sei",
+            "He/She": "è",
+            "We": "siamo",
+            "You (plural)": "siete",
+            "They (plural)": "sono"
+        },
+        "avere": {
+            "I": "sono",
+            "You (singular)": "sei",
+            "He/She": "è",
+            "We": "siamo",
+            "You (plural)": "siete",
+            "They (plural)": "sono"
+        },
+        "fare": {
+            "I": "sono",
+            "You (singular)": "sei",
+            "He/She": "è",
+            "We": "siamo",
+            "You (plural)": "siete",
+            "They (plural)": "sono"
+        },
+        "andare": {
+            "I": "sono",
+            "You (singular)": "sei",
+            "He/She": "è",
+            "We": "siamo",
+            "You (plural)": "siete",
+            "They (plural)": "sono"
+        },
+        "amare": {
+            "I": "sono",
+            "You (singular)": "sei",
+            "He/She": "è",
+            "We": "siamo",
+            "You (plural)": "siete",
+            "They (plural)": "sono"
+        },
+        "credere": {
+            "I": "sono",
+            "You (singular)": "sei",
+            "He/She": "è",
+            "We": "siamo",
+            "You (plural)": "siete",
+            "They (plural)": "sono"
+        },
+        "servire": {
+            "I": "sono",
+            "You (singular)": "sei",
+            "He/She": "è",
+            "We": "siamo",
+            "You (plural)": "siete",
+            "They (plural)": "sono"
+        },
+        "finire": {
+            "I": "sono",
+            "You (singular)": "sei",
+            "He/She": "è",
+            "We": "siamo",
+            "You (plural)": "siete",
+            "They (plural)": "sono"
+        }
+    }
+]
