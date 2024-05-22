@@ -474,7 +474,7 @@
       }
     },
     "common (3)": {
-      "to spend": {
+      "to spend (time)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -492,7 +492,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to add": {
+      "to add (mathematical operation)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -501,7 +501,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to change": {
+      "to add (say as well)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -510,7 +510,16 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to lead": {
+      "to change (alter)": {
+        "infinitive": "",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to lead (head, manage)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -546,16 +555,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to allow": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to stand": {
+      "to stand (rise)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -609,7 +609,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to stop": {
+      "to stop (halt)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -619,15 +619,6 @@
         "they (plural)": ""
       },
       "to speak": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to set (e.g. an alarm)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",

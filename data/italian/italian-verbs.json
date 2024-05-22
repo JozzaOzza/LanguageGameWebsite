@@ -383,7 +383,7 @@
         "they (plural)": ""
       },
       "to let (allow)": {
-        "infinitive": "",
+        "infinitive": "permettere, consentire, lasciare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -392,7 +392,7 @@
         "they (plural)": ""
       },
       "to leave (a place)": {
-        "infinitive": "permettere, consentire, lasciare",
+        "infinitive": "partire, lasciare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -474,8 +474,8 @@
       }
     },
     "common (3)": {
-      "to spend": {
-        "infinitive": "",
+      "to spend (time)": {
+        "infinitive": "passare, trascorrere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -484,7 +484,7 @@
         "they (plural)": ""
       },
       "to learn": {
-        "infinitive": "",
+        "infinitive": "imparare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -492,8 +492,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to add": {
-        "infinitive": "",
+      "to add (mathematical operation)": {
+        "infinitive": "sommare, addizionare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -501,8 +501,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to change": {
-        "infinitive": "",
+      "to add (say as well)": {
+        "infinitive": "aggiungere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -510,8 +510,17 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to lead": {
-        "infinitive": "",
+      "to change (alter)": {
+        "infinitive": "cambiare, modificare, variare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to lead (head, manage)": {
+        "infinitive": "condurre, dirigere, capeggiare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -520,7 +529,7 @@
         "they (plural)": ""
       },
       "to pay": {
-        "infinitive": "",
+        "infinitive": "pagare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -529,7 +538,7 @@
         "they (plural)": ""
       },
       "to provide": {
-        "infinitive": "",
+        "infinitive": "fornire, procurare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -538,7 +547,7 @@
         "they (plural)": ""
       },
       "to sit": {
-        "infinitive": "",
+        "infinitive": "essere seduto, sedersi",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -546,17 +555,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to allow": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to stand": {
-        "infinitive": "",
+      "to stand (rise)": {
+        "infinitive": "alzarsi",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -565,7 +565,7 @@
         "they (plural)": ""
       },
       "to happen": {
-        "infinitive": "",
+        "infinitive": "succedere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -574,7 +574,7 @@
         "they (plural)": ""
       },
       "to create": {
-        "infinitive": "",
+        "infinitive": "creare, produrre",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -583,7 +583,7 @@
         "they (plural)": ""
       },
       "to watch": {
-        "infinitive": "",
+        "infinitive": "guardare, osservare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -592,7 +592,7 @@
         "they (plural)": ""
       },
       "to write": {
-        "infinitive": "",
+        "infinitive": "scrivere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -601,7 +601,7 @@
         "they (plural)": ""
       },
       "to read": {
-        "infinitive": "",
+        "infinitive": "leggere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -609,8 +609,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to stop": {
-        "infinitive": "",
+      "to stop (halt)": {
+        "infinitive": "fermarsi, arrestarsi",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -619,16 +619,7 @@
         "they (plural)": ""
       },
       "to speak": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
-      "to set (e.g. an alarm)": {
-        "infinitive": "",
+        "infinitive": "parlare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -637,7 +628,7 @@
         "they (plural)": ""
       },
       "to lose": {
-        "infinitive": "",
+        "infinitive": "perdere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -646,7 +637,7 @@
         "they (plural)": ""
       },
       "to continue": {
-        "infinitive": "",
+        "infinitive": "continuare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -655,7 +646,7 @@
         "they (plural)": ""
       },
       "to understand": {
-        "infinitive": "",
+        "infinitive": "capire, comprendere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -664,7 +655,7 @@
         "they (plural)": ""
       },
       "to meet (e.g. people)": {
-        "infinitive": "",
+        "infinitive": "incontrare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -673,7 +664,7 @@
         "they (plural)": ""
       },
       "to include": {
-        "infinitive": "",
+        "infinitive": "includere, comprendere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -682,7 +673,7 @@
         "they (plural)": ""
       },
       "to follow": {
-        "infinitive": "",
+        "infinitive": "seguire",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -691,7 +682,7 @@
         "they (plural)": ""
       },
       "to grow (become bigger)": {
-        "infinitive": "",
+        "infinitive": "crescere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
