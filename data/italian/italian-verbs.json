@@ -693,7 +693,7 @@
     },
     "common (4)": {
       "to build": {
-        "infinitive": "",
+        "infinitive": "costruire, fabbricare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -702,7 +702,7 @@
         "they (plural)": ""
       },
       "to serve": {
-        "infinitive": "",
+        "infinitive": "servire",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -710,8 +710,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to reach (for something)": {
-        "infinitive": "",
+      "to reach (a destination)": {
+        "infinitive": "arrivare, giungere, raggiungere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -720,7 +720,7 @@
         "they (plural)": ""
       },
       "to cut (e.g. skin)": {
-        "infinitive": "",
+        "infinitive": "tagliare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -729,7 +729,7 @@
         "they (plural)": ""
       },
       "to open": {
-        "infinitive": "",
+        "infinitive": "aprire",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -738,7 +738,7 @@
         "they (plural)": ""
       },
       "to grow (e.g. a plant)": {
-        "infinitive": "",
+        "infinitive": "coltivare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -747,7 +747,7 @@
         "they (plural)": ""
       },
       "to remember": {
-        "infinitive": "",
+        "infinitive": "ricordare, ricordarsi",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -756,7 +756,7 @@
         "they (plural)": ""
       },
       "to wait": {
-        "infinitive": "",
+        "infinitive": "aspettare, attendere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -765,7 +765,7 @@
         "they (plural)": ""
       },
       "to walk": {
-        "infinitive": "",
+        "infinitive": "camminare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -774,7 +774,7 @@
         "they (plural)": ""
       },
       "to cut (reduce)": {
-        "infinitive": "",
+        "infinitive": "tagliare, accorciare, ridurre",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -783,7 +783,7 @@
         "they (plural)": ""
       },
       "to expect": {
-        "infinitive": "",
+        "infinitive": "aspettare, prevedere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -792,7 +792,7 @@
         "they (plural)": ""
       },
       "to offer": {
-        "infinitive": "",
+        "infinitive": "offrire",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -800,8 +800,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to send": {
-        "infinitive": "",
+      "to send (cause to go)": {
+        "infinitive": "mandare, inviare, spedire",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -810,7 +810,7 @@
         "they (plural)": ""
       },
       "to buy": {
-        "infinitive": "",
+        "infinitive": "comprare, acquistare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -818,8 +818,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to suggest": {
-        "infinitive": "",
+      "to suggest (propose something)": {
+        "infinitive": "suggerire, proporre",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -828,7 +828,7 @@
         "they (plural)": ""
       },
       "to win": {
-        "infinitive": "",
+        "infinitive": "vincere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -836,8 +836,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to appear": {
-        "infinitive": "",
+      "to appear (seem)": {
+        "infinitive": "sembrare, parere, apparire",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -846,7 +846,7 @@
         "they (plural)": ""
       },
       "to die": {
-        "infinitive": "",
+        "infinitive": "morire",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -855,7 +855,7 @@
         "they (plural)": ""
       },
       "to stay": {
-        "infinitive": "",
+        "infinitive": "restare, rimanere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -864,7 +864,7 @@
         "they (plural)": ""
       },
       "to love": {
-        "infinitive": "",
+        "infinitive": "amara, adorare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -873,7 +873,7 @@
         "they (plural)": ""
       },
       "to remain": {
-        "infinitive": "",
+        "infinitive": "restare, rimanere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -882,7 +882,7 @@
         "they (plural)": ""
       },
       "to reach (attain)": {
-        "infinitive": "",
+        "infinitive": "arrivare, raggiungere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -891,7 +891,7 @@
         "they (plural)": ""
       },
       "to fall": {
-        "infinitive": "",
+        "infinitive": "cadere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -899,8 +899,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to consider": {
-        "infinitive": "",
+      "to consider (take into account)": {
+        "infinitive": "considerare, tenere conto, tenere in conto",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -909,7 +909,7 @@
         "they (plural)": ""
       },
       "to kill": {
-        "infinitive": "",
+        "infinitive": "uccidere, ammazzare, assassinare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
