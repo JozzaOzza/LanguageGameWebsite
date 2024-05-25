@@ -1,77 +1,594 @@
-[
-    {
-        "tense": "indicativo presente",
-        "essere": {
-            "I": "sono",
-            "You (singular)": "sei",
-            "He/She": "è",
-            "We": "siamo",
-            "You (plural)": "siete",
-            "They (plural)": "sono"
-        },
-        "stare": {
-            "I": "sono",
-            "You (singular)": "sei",
-            "He/She": "è",
-            "We": "siamo",
-            "You (plural)": "siete",
-            "They (plural)": "sono"
-        },
-        "avere": {
-            "I": "sono",
-            "You (singular)": "sei",
-            "He/She": "è",
-            "We": "siamo",
-            "You (plural)": "siete",
-            "They (plural)": "sono"
-        },
-        "fare": {
-            "I": "sono",
-            "You (singular)": "sei",
-            "He/She": "è",
-            "We": "siamo",
-            "You (plural)": "siete",
-            "They (plural)": "sono"
-        },
-        "andare": {
-            "I": "sono",
-            "You (singular)": "sei",
-            "He/She": "è",
-            "We": "siamo",
-            "You (plural)": "siete",
-            "They (plural)": "sono"
-        },
-        "amare": {
-            "I": "sono",
-            "You (singular)": "sei",
-            "He/She": "è",
-            "We": "siamo",
-            "You (plural)": "siete",
-            "They (plural)": "sono"
-        },
-        "credere": {
-            "I": "sono",
-            "You (singular)": "sei",
-            "He/She": "è",
-            "We": "siamo",
-            "You (plural)": "siete",
-            "They (plural)": "sono"
-        },
-        "servire": {
-            "I": "sono",
-            "You (singular)": "sei",
-            "He/She": "è",
-            "We": "siamo",
-            "You (plural)": "siete",
-            "They (plural)": "sono"
-        },
-        "finire": {
-            "I": "sono",
-            "You (singular)": "sei",
-            "He/She": "è",
-            "We": "siamo",
-            "You (plural)": "siete",
-            "They (plural)": "sono"
-        }
+{
+  "indicativo presente": {
+    "essere": {
+      "I": "sono",
+      "You (singular)": "sei",
+      "He/She": "è",
+      "We": "siamo",
+      "You (plural)": "siete",
+      "They (plural)": "sono"
+    },
+    "stare": {
+      "I": "sto",
+      "You (singular)": "stai",
+      "He/She": "sta",
+      "We": "stiamo",
+      "You (plural)": "state",
+      "They (plural)": "stanno"
+    },
+    "avere": {
+      "I": "ho",
+      "You (singular)": "hai",
+      "He/She": "ha",
+      "We": "abbiamo",
+      "You (plural)": "avete",
+      "They (plural)": "hanno"
+    },
+    "fare": {
+      "I": "faccio",
+      "You (singular)": "fai",
+      "He/She": "fa",
+      "We": "facciamo",
+      "You (plural)": "fate",
+      "They (plural)": "fanno"
+    },
+    "andare": {
+      "I": "vado",
+      "You (singular)": "vai",
+      "He/She": "va",
+      "We": "andiamo",
+      "You (plural)": "andate",
+      "They (plural)": "vanno"
+    },
+    "amare": {
+      "I": "amo",
+      "You (singular)": "ami",
+      "He/She": "ama",
+      "We": "amiamo",
+      "You (plural)": "amate",
+      "They (plural)": "amano"
+    },
+    "credere": {
+      "I": "credo",
+      "You (singular)": "credi",
+      "He/She": "crede",
+      "We": "crediamo",
+      "You (plural)": "credete",
+      "They (plural)": "credono"
+    },
+    "servire": {
+      "I": "servo",
+      "You (singular)": "servi",
+      "He/She": "serve",
+      "We": "serviamo",
+      "You (plural)": "servite",
+      "They (plural)": "servono"
+    },
+    "finire": {
+      "I": "finisco",
+      "You (singular)": "finisci",
+      "He/She": "finisce",
+      "We": "finiamo",
+      "You (plural)": "finite",
+      "They (plural)": "finiscono"
     }
-]
+  },
+  "passato prossimo": {
+    "essere": {
+      "I": "sono stato",
+      "You (singular)": "sei stato",
+      "He/She": "è stato",
+      "We": "siamo stati",
+      "You (plural)": "siete stati",
+      "They (plural)": "sono stati"
+    },
+    "stare": {
+      "I": "sono stato",
+      "You (singular)": "sei stato",
+      "He/She": "è stato",
+      "We": "siamo stati",
+      "You (plural)": "siete stati",
+      "They (plural)": "sono stati"
+    },
+    "avere": {
+      "I": "ho avuto",
+      "You (singular)": "hai avuto",
+      "He/She": "ha avuto",
+      "We": "abbiamo avuto",
+      "You (plural)": "avete avuto",
+      "They (plural)": "hanno avuto"
+    },
+    "fare": {
+      "I": "ho fatto",
+      "You (singular)": "hai fatto",
+      "He/She": "ha fatto",
+      "We": "abbiamo fatto",
+      "You (plural)": "avete fatto",
+      "They (plural)": "hanno fatto"
+    },
+    "andare": {
+      "I": "sono andato",
+      "You (singular)": "sei andato",
+      "He/She": "è andato",
+      "We": "siamo andati",
+      "You (plural)": "siete andati",
+      "They (plural)": "sono andati"
+    },
+    "amare": {
+      "I": "ho amato",
+      "You (singular)": "hai amato",
+      "He/She": "ha amato",
+      "We": "abbiamo amato",
+      "You (plural)": "avete amato",
+      "They (plural)": "hanno amato"
+    },
+    "credere": {
+      "I": "ho creduto",
+      "You (singular)": "hai creduto",
+      "He/She": "ha creduto",
+      "We": "abbiamo creduto",
+      "You (plural)": "avete creduto",
+      "They (plural)": "hanno creduto"
+    },
+    "servire": {
+      "I": "ho servito",
+      "You (singular)": "hai servito",
+      "He/She": "ha servito",
+      "We": "abbiamo servito",
+      "You (plural)": "avete servito",
+      "They (plural)": "hanno servito"
+    },
+    "finire": {
+      "I": "ho finito",
+      "You (singular)": "hai finito",
+      "He/She": "ha finito",
+      "We": "abbiamo finito",
+      "You (plural)": "avete finito",
+      "They (plural)": "hanno finito"
+    }
+  },
+  "indicativo imperfetto": {
+    "essere": {
+      "I": "ero",
+      "You (singular)": "eri",
+      "He/She": "era",
+      "We": "eravamo",
+      "You (plural)": "eravate",
+      "They (plural)": "erano"
+    },
+    "stare": {
+      "I": "stavo",
+      "You (singular)": "stavi",
+      "He/She": "stava",
+      "We": "stavamo",
+      "You (plural)": "stavate",
+      "They (plural)": "stavano"
+    },
+    "avere": {
+      "I": "avevo",
+      "You (singular)": "avevi",
+      "He/She": "aveva",
+      "We": "avevamo",
+      "You (plural)": "avevate",
+      "They (plural)": "avevano"
+    },
+    "fare": {
+      "I": "facevo",
+      "You (singular)": "facevi",
+      "He/She": "faceva",
+      "We": "facevamo",
+      "You (plural)": "facevate",
+      "They (plural)": "facevano"
+    },
+    "andare": {
+      "I": "andavo",
+      "You (singular)": "andavi",
+      "He/She": "andava",
+      "We": "andavamo",
+      "You (plural)": "andavate",
+      "They (plural)": "andavano"
+    },
+    "amare": {
+      "I": "amavo",
+      "You (singular)": "amavi",
+      "He/She": "amava",
+      "We": "amavamo",
+      "You (plural)": "amavate",
+      "They (plural)": "amavano"
+    },
+    "credere": {
+      "I": "credevo",
+      "You (singular)": "credevi",
+      "He/She": "credeve",
+      "We": "credevamo",
+      "You (plural)": "credevate",
+      "They (plural)": "credevano"
+    },
+    "servire": {
+      "I": "servivo",
+      "You (singular)": "servivi",
+      "He/She": "serviva",
+      "We": "servivamo",
+      "You (plural)": "servivate",
+      "They (plural)": "servivano"
+    },
+    "finire": {
+      "I": "finivo",
+      "You (singular)": "finivi",
+      "He/She": "finiva",
+      "We": "finivamo",
+      "You (plural)": "finivate",
+      "They (plural)": "finivano"
+    }
+  },
+  "passato remoto": {
+    "essere": {
+      "I": "fui",
+      "You (singular)": "fosti",
+      "He/She": "fu",
+      "We": "fummo",
+      "You (plural)": "foste",
+      "They (plural)": "furono"
+    },
+    "stare": {
+      "I": "stetti",
+      "You (singular)": "stesti",
+      "He/She": "stette",
+      "We": "stemmo",
+      "You (plural)": "steste",
+      "They (plural)": "stettero"
+    },
+    "avere": {
+      "I": "ebbi",
+      "You (singular)": "avesti",
+      "He/She": "ebbe",
+      "We": "avemmo",
+      "You (plural)": "aveste",
+      "They (plural)": "ebbero"
+    },
+    "fare": {
+      "I": "feci",
+      "You (singular)": "facesti",
+      "He/She": "fece",
+      "We": "facemmo",
+      "You (plural)": "faceste",
+      "They (plural)": "fecero"
+    },
+    "andare": {
+      "I": "andai",
+      "You (singular)": "andasti",
+      "He/She": "andò",
+      "We": "andammo",
+      "You (plural)": "andaste",
+      "They (plural)": "andarono"
+    },
+    "amare": {
+      "I": "amai",
+      "You (singular)": "amasti",
+      "He/She": "amò",
+      "We": "amammo",
+      "You (plural)": "amaste",
+      "They (plural)": "amarono"
+    },
+    "credere": {
+      "I": "credei, credetti",
+      "You (singular)": "credesti",
+      "He/She": "credé, credette",
+      "We": "credemmo",
+      "You (plural)": "credeste",
+      "They (plural)": "crederono, credettero"
+    },
+    "servire": {
+      "I": "servii",
+      "You (singular)": "servisti",
+      "He/She": "servì",
+      "We": "servimmo",
+      "You (plural)": "serviste",
+      "They (plural)": "servirono"
+    },
+    "finire": {
+      "I": "finii",
+      "You (singular)": "finisci",
+      "He/She": "finì",
+      "We": "finimmo",
+      "You (plural)": "finiste",
+      "They (plural)": "finirono"
+    }
+  },
+  "futuro semplice": {
+    "essere": {
+      "I": "sarò",
+      "You (singular)": "sarai",
+      "He/She": "sarà",
+      "We": "saremo",
+      "You (plural)": "sarete",
+      "They (plural)": "saranno"
+    },
+    "stare": {
+      "I": "starò",
+      "You (singular)": "starai",
+      "He/She": "starà",
+      "We": "staremo",
+      "You (plural)": "starete",
+      "They (plural)": "staranno"
+    },
+    "avere": {
+      "I": "avrò",
+      "You (singular)": "avrai",
+      "He/She": "avrà",
+      "We": "avremo",
+      "You (plural)": "avrete",
+      "They (plural)": "avranno"
+    },
+    "fare": {
+      "I": "farò",
+      "You (singular)": "farai",
+      "He/She": "farà",
+      "We": "faremo",
+      "You (plural)": "farete",
+      "They (plural)": "faranno"
+    },
+    "andare": {
+      "I": "andrò",
+      "You (singular)": "andrai",
+      "He/She": "andrà",
+      "We": "andremo",
+      "You (plural)": "andrete",
+      "They (plural)": "andranno"
+    },
+    "amare": {
+      "I": "amerò",
+      "You (singular)": "amerai",
+      "He/She": "amerà",
+      "We": "ameremo",
+      "You (plural)": "amerete",
+      "They (plural)": "ameranno"
+    },
+    "credere": {
+      "I": "crederò",
+      "You (singular)": "crederai",
+      "He/She": "crederà",
+      "We": "crederemo",
+      "You (plural)": "crederete",
+      "They (plural)": "crederanno"
+    },
+    "servire": {
+      "I": "servirò",
+      "You (singular)": "servirai",
+      "He/She": "servirà",
+      "We": "serviremo",
+      "You (plural)": "servirete",
+      "They (plural)": "serviranno"
+    },
+    "finire": {
+      "I": "finirò",
+      "You (singular)": "finirai",
+      "He/She": "finirà",
+      "We": "finiremo",
+      "You (plural)": "finirete",
+      "They (plural)": "finiranno"
+    }
+  },
+  "condizionale presente": {
+    "essere": {
+      "I": "sarei",
+      "You (singular)": "saresti",
+      "He/She": "sarebbe",
+      "We": "saremmo",
+      "You (plural)": "sareste",
+      "They (plural)": "sarebbero"
+    },
+    "stare": {
+      "I": "starei",
+      "You (singular)": "staresti",
+      "He/She": "starebbe",
+      "We": "staremmo",
+      "You (plural)": "stareste",
+      "They (plural)": "starebbero"
+    },
+    "avere": {
+      "I": "avrei",
+      "You (singular)": "avresti",
+      "He/She": "avrebbe",
+      "We": "avremmo",
+      "You (plural)": "avreste",
+      "They (plural)": "avrebbero"
+    },
+    "fare": {
+      "I": "farei",
+      "You (singular)": "faresti",
+      "He/She": "farebbe",
+      "We": "faremmo",
+      "You (plural)": "fareste",
+      "They (plural)": "farebbero"
+    },
+    "andare": {
+      "I": "andrei",
+      "You (singular)": "andresti",
+      "He/She": "andrebbe",
+      "We": "andremmo",
+      "You (plural)": "andreste",
+      "They (plural)": "andrebbero"
+    },
+    "amare": {
+      "I": "amerei",
+      "You (singular)": "ameresti",
+      "He/She": "amerebbe",
+      "We": "ameremmo",
+      "You (plural)": "amereste",
+      "They (plural)": "amerebbero"
+    },
+    "credere": {
+      "I": "crederei",
+      "You (singular)": "crederesti",
+      "He/She": "crederebbe",
+      "We": "crederemmo",
+      "You (plural)": "credereste",
+      "They (plural)": "crederebbero"
+    },
+    "servire": {
+      "I": "servirei",
+      "You (singular)": "serviresti",
+      "He/She": "servirebbe",
+      "We": "serviremmo",
+      "You (plural)": "servireste",
+      "They (plural)": "servirebbero"
+    },
+    "finire": {
+      "I": "finirei",
+      "You (singular)": "finiresti",
+      "He/She": "finirebbe",
+      "We": "finiremmo",
+      "You (plural)": "finireste",
+      "They (plural)": "finirebbero"
+    }
+  },
+  "congiuntivo presente": {
+    "essere": {
+      "I": "sia",
+      "You (singular)": "sia",
+      "He/She": "sia",
+      "We": "siamo",
+      "You (plural)": "siate",
+      "They (plural)": "siano"
+    },
+    "stare": {
+      "I": "stia",
+      "You (singular)": "stia",
+      "He/She": "stia",
+      "We": "stiamo",
+      "You (plural)": "stiate",
+      "They (plural)": "stiano"
+    },
+    "avere": {
+      "I": "abbia",
+      "You (singular)": "abbia",
+      "He/She": "abbia",
+      "We": "abbiamo",
+      "You (plural)": "abbiate",
+      "They (plural)": "abbiano"
+    },
+    "fare": {
+      "I": "faccia",
+      "You (singular)": "faccia",
+      "He/She": "faccia",
+      "We": "facciamo",
+      "You (plural)": "facciate",
+      "They (plural)": "facciano"
+    },
+    "andare": {
+      "I": "vada",
+      "You (singular)": "vada",
+      "He/She": "vada",
+      "We": "andiamo",
+      "You (plural)": "andiate",
+      "They (plural)": "vadano"
+    },
+    "amare": {
+      "I": "ami",
+      "You (singular)": "ami",
+      "He/She": "ami",
+      "We": "amiamo",
+      "You (plural)": "amiate",
+      "They (plural)": "amino"
+    },
+    "credere": {
+      "I": "credi",
+      "You (singular)": "credi",
+      "He/She": "credi",
+      "We": "crediamo",
+      "You (plural)": "crediate",
+      "They (plural)": "credano"
+    },
+    "servire": {
+      "I": "servi",
+      "You (singular)": "servi",
+      "He/She": "servi",
+      "We": "serviamo",
+      "You (plural)": "serviate",
+      "They (plural)": "servano"
+    },
+    "finire": {
+      "I": "finisca",
+      "You (singular)": "finisca",
+      "He/She": "finisca",
+      "We": "finiamo",
+      "You (plural)": "finite",
+      "They (plural)": "finiscano"
+    }
+  },
+  "congiuntivo imperfetto": {
+    "essere": {
+      "I": "fossi",
+      "You (singular)": "fossi",
+      "He/She": "fosse",
+      "We": "fossimo",
+      "You (plural)": "foste",
+      "They (plural)": "fossero"
+    },
+    "stare": {
+      "I": "stessi",
+      "You (singular)": "stessi",
+      "He/She": "stesse",
+      "We": "stessimo",
+      "You (plural)": "steste",
+      "They (plural)": "stessero"
+    },
+    "avere": {
+      "I": "avessi",
+      "You (singular)": "avessi",
+      "He/She": "avesse",
+      "We": "avessimo",
+      "You (plural)": "aveste",
+      "They (plural)": "avessero"
+    },
+    "fare": {
+      "I": "facessi",
+      "You (singular)": "facessi",
+      "He/She": "facesse",
+      "We": "facessimo",
+      "You (plural)": "faceste",
+      "They (plural)": "facessero"
+    },
+    "andare": {
+      "I": "andassi",
+      "You (singular)": "andassi",
+      "He/She": "andasse",
+      "We": "andassimo",
+      "You (plural)": "andaste",
+      "They (plural)": "andassero"
+    },
+    "amare": {
+      "I": "amassi",
+      "You (singular)": "amassi",
+      "He/She": "amasse",
+      "We": "amassimo",
+      "You (plural)": "amaste",
+      "They (plural)": "amassero"
+    },
+    "credere": {
+      "I": "credessi",
+      "You (singular)": "credessi",
+      "He/She": "credesse",
+      "We": "credessimo",
+      "You (plural)": "credeste",
+      "They (plural)": "credessero"
+    },
+    "servire": {
+      "I": "servissi",
+      "You (singular)": "servissi",
+      "He/She": "servisse",
+      "We": "servissimo",
+      "You (plural)": "serviste",
+      "They (plural)": "servissero"
+    },
+    "finire": {
+      "I": "finissi",
+      "You (singular)": "finissi",
+      "He/She": "finisse",
+      "We": "finissimo",
+      "You (plural)": "finiste",
+      "They (plural)": "finissero"
+    }
+  }
+}
