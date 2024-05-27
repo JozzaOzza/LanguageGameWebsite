@@ -919,17 +919,8 @@
       }
     },
     "common (5)": {
-      "to close (e.g. a deal)": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
       "to save (rescue)": {
-        "infinitive": "",
+        "infinitive": "salvare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -937,8 +928,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to pass (e.g. pass by something)": {
-        "infinitive": "",
+      "to pass (e.g. an exam)": {
+        "infinitive": "passare, superare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -946,8 +937,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to remove": {
-        "infinitive": "",
+      "to remove (take out, take away)": {
+        "infinitive": "rimuovere, togliere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -956,7 +947,7 @@
         "they (plural)": ""
       },
       "to pass (e.g. pass an object to someone)": {
-        "infinitive": "",
+        "infinitive": "passare, dare, porgere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -965,7 +956,7 @@
         "they (plural)": ""
       },
       "to need": {
-        "infinitive": "",
+        "infinitive": "avere bisogno, necessitare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -974,7 +965,7 @@
         "they (plural)": ""
       },
       "to raise (e.g. raise a child)": {
-        "infinitive": "",
+        "infinitive": "crescere, allevare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -982,8 +973,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to question": {
-        "infinitive": "",
+      "to question (doubt)": {
+        "infinitive": "contestare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -992,7 +983,7 @@
         "they (plural)": ""
       },
       "to forget": {
-        "infinitive": "",
+        "infinitive": "dimenticarsi, scordarsi",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -1001,7 +992,7 @@
         "they (plural)": ""
       },
       "to hide": {
-        "infinitive": "",
+        "infinitive": "nascondersi",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -1009,8 +1000,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to break": {
-        "infinitive": "",
+      "to break (an object)": {
+        "infinitive": "rompere, sfasciare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -1019,7 +1010,7 @@
         "they (plural)": ""
       },
       "to let go (of something)": {
-        "infinitive": "",
+        "infinitive": "lasciare andare, mollare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -1028,7 +1019,7 @@
         "they (plural)": ""
       },
       "to close (e.g. a door)": {
-        "infinitive": "",
+        "infinitive": "chiudere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -1037,7 +1028,7 @@
         "they (plural)": ""
       },
       "to decide": {
-        "infinitive": "",
+        "infinitive": "decidere, decidersi",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -1045,8 +1036,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to save (e.g. money)": {
-        "infinitive": "",
+      "to save (money)": {
+        "infinitive": "risparmiare, mettere da parte",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -1055,7 +1046,7 @@
         "they (plural)": ""
       },
       "to refuse": {
-        "infinitive": "",
+        "infinitive": "rifiutare, rifiutarsi",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -1064,7 +1055,7 @@
         "they (plural)": ""
       },
       "to raise (e.g. raise a glass)": {
-        "infinitive": "",
+        "infinitive": "alzare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -1072,8 +1063,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to pass (e.g. pass time)": {
-        "infinitive": "",
+      "to pass (e.g. spend time)": {
+        "infinitive": "passare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -1082,7 +1073,7 @@
         "they (plural)": ""
       },
       "to finish (doing something)": {
-        "infinitive": "",
+        "infinitive": "finire, terminare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -1090,8 +1081,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to respond": {
-        "infinitive": "",
+      "to respond (reply)": {
+        "infinitive": "rispondere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -1100,7 +1091,7 @@
         "they (plural)": ""
       },
       "to lack": {
-        "infinitive": "",
+        "infinitive": "mancare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -1109,7 +1100,7 @@
         "they (plural)": ""
       },
       "to pull": {
-        "infinitive": "",
+        "infinitive": "tirare, strattonare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -1117,8 +1108,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to report": {
-        "infinitive": "",
+      "to report (make public)": {
+        "infinitive": "riferire, riportare",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -1126,8 +1117,8 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to prevent": {
-        "infinitive": "",
+      "to prevent (someone from doing something)": {
+        "infinitive": "impedire",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",
@@ -1136,7 +1127,7 @@
         "they (plural)": ""
       },
       "to sell": {
-        "infinitive": "",
+        "infinitive": "vendere",
         "I": "",
         "you (singular)": "",
         "they (singular)": "",

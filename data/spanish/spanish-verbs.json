@@ -919,15 +919,6 @@
       }
     },
     "common (5)": {
-      "to close (e.g. a deal)": {
-        "infinitive": "",
-        "I": "",
-        "you (singular)": "",
-        "they (singular)": "",
-        "we": "",
-        "you (plural)": "",
-        "they (plural)": ""
-      },
       "to save (rescue)": {
         "infinitive": "",
         "I": "",
@@ -937,7 +928,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to pass (e.g. pass by something)": {
+      "to pass (e.g. an exam)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -946,7 +937,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to remove": {
+      "to remove (take out, take away)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -982,7 +973,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to question": {
+      "to question (doubt)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -1009,7 +1000,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to break": {
+      "to break (an object)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -1045,7 +1036,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to save (e.g. money)": {
+      "to save (money)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -1072,7 +1063,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to pass (e.g. pass time)": {
+      "to pass (e.g. spend time)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -1090,7 +1081,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to respond": {
+      "to respond (reply)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -1117,7 +1108,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to report": {
+      "to report (make public)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
@@ -1126,7 +1117,7 @@
         "you (plural)": "",
         "they (plural)": ""
       },
-      "to prevent": {
+      "to prevent (someone from doing something)": {
         "infinitive": "",
         "I": "",
         "you (singular)": "",
