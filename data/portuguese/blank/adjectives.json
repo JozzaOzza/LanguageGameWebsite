@@ -3,20 +3,20 @@
   "adjectives": {
     "time": {
       "fast": null,
-      "old": null,
       "slow": null,
-      "new": null,
+      "old": null,
       "young": null,
+      "new": null,
       "gradual": null,
-      "first": null,
-      "current": null,
-      "final": null,
-      "early": null,
-      "recent": null,
-      "late": null,
       "sudden": null,
-      "punctual": null,
-      "last": null
+      "first": null,
+      "last": null,
+      "final": null,
+      "current": null,
+      "recent": null,
+      "early (soon, in the first part of)": null,
+      "late (after scheduled time)": null,
+      "punctual": null
     },
     "possessive adjectives": {
       "his": null,
