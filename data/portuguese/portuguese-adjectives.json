@@ -19,17 +19,15 @@
       "punctual": null
     },
     "possessive adjectives": {
-      "his": null,
-      "its": null,
-      "their (plural)": null,
-      "their own": null,
-      "someone else’s": null,
-      "their (singular)": null,
-      "her": null,
-      "our": null,
+      "my": null,
       "your (singular)": null,
-      "mine": null,
-      "your (plural)": null
+      "his": null,
+      "her": null,
+      "its": null,
+      "their (unspecified)": null,
+      "our": null,
+      "your (plural)": null,
+      "their (plural)": null
     },
     "colour": {
       "green": null,

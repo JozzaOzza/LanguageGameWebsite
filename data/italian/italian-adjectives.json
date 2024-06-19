@@ -2,7 +2,7 @@
   "language": "italian",
   "adjectives": {
     "time": {
-      "fast": "veloce, rapido,celere",
+      "fast": "veloce, rapido, celere",
       "slow": "lento",
       "old": "vecchio",
       "young": "giovane",
@@ -19,17 +19,15 @@
       "punctual": "puntuale, immediato, pronto"
     },
     "possessive adjectives": {
-      "his": null,
-      "its": null,
-      "their (plural)": null,
-      "their own": null,
-      "someone else’s": null,
-      "their (singular)": null,
-      "her": null,
-      "our": null,
-      "your (singular)": null,
-      "mine": null,
-      "your (plural)": null
+      "my": "mio, mia, miei, mie",
+      "your (singular)": "tuo, tua, tuoi, tue",
+      "his": "suo, sua, suoi, sue",
+      "her": "suo, sua, suoi, sue",
+      "its": "suo, sua, suoi, sue",
+      "their (unspecified)": "suo, sua, suoi, sue, proprio, propria, propri, proprie",
+      "our": "nostro, nostra, nostri, nostre",
+      "your (plural)": "vostro, vostra, vostri, vostre",
+      "their (plural)": "loro"
     },
     "colour": {
       "green": null,
