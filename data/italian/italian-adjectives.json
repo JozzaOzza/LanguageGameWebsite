@@ -175,12 +175,12 @@
       "popular": "popolare, famoso, benvoluto",
       "unpopular (person)": "malvisto, inviso",
       "unpopular (thing)": "impopolare, malaccetto",
-      "cheap": "",
-      "expensive": "",
-      "poor": "",
-      "rich": "",
-      "tyrannical": "",
-      "democratic": ""
+      "cheap (price)": "economico, conveniente",
+      "expensive": "costoso, caro, dispendioso",
+      "poor (wealth)": "povero, indigente",
+      "rich (wealth)": "ricco, abbiente, facoltoso",
+      "tyrannical": "tirannico, da tiranno",
+      "democratic": "democratico"
     }
   }
 }

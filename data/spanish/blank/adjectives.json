@@ -175,10 +175,10 @@
       "popular": null,
       "unpopular (person)": null,
       "unpopular (thing)": null,
-      "cheap": null,
+      "cheap (price)": null,
       "expensive": null,
-      "poor": null,
-      "rich": null,
+      "poor (wealth)": null,
+      "rich (wealth)": null,
       "tyrannical": null,
       "democratic": null
     }
