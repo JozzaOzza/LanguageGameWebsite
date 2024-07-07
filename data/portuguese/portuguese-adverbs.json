@@ -13,6 +13,7 @@
       "immediately": null,
       "quickly": null,
       "gradually": null,
+      "initially": null,
       "already": null,
       "before": null,
       "recently": null,
@@ -26,19 +27,18 @@
       "finally": null
     },
     "place": {
-      "under, below": null,
+      "under (below)": null,
+      "above": null,
+      "behind": null,
+      "in front (ahead)": null,
       "here (imprecise location)": null,
-      "behind, back": null,
+      "here (precise location)": null,
       "there (imprecise location)": null,
       "there (precise location)": null,
-      "here (precise location)": null,
-      "above": null,
       "around": null,
       "inside": null,
-      "away": null,
-      "in front": null,
-      "far": null,
       "outside": null,
+      "far (a long way)": null,
       "close": null
     },
     "degree/extent": {
