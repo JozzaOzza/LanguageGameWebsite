@@ -1,3 +1,5 @@
+using namespace System.Collections.Generic
+
 [CmdletBinding()]
 param ()  
 process {
@@ -21,16 +23,29 @@ process {
 
     $totalQuestions = 0
     $correctAnswers = 0
+
+    # Generate list of 'coordinates' which we can use to randomly search for verb conjugations
+    $verbAndConjugateNumberList = [System.Collections.Generic.List[List[int]]]@()
+    for ($verbNumber = 0; $verbNumber -lt 9; $verbNumber++) {
+        for ($conjugateNumber = 0; $conjugateNumber -lt 6; $conjugateNumber++) {
+            $verbAndConjugateNumberList.Add(@($verbNumber, $conjugateNumber))
+        }   
+    }
+    $coordinatesCount = $verbAndConjugateNumberList.Count
     
     while ($totalQuestions -lt 25) {
         $totalQuestions++
 
-        # There are 9 verbs to choose from, pick one randomly
-        $currentVerbNumber = Get-Random -Maximum 9
+        # Select randomly from coordinates list, and remove that coordinate
+        $currentCoordinateIndex = (Get-Random -Maximum $coordinatesCount)
+        $currentCoordinate = $verbAndConjugateNumberList[$currentCoordinateIndex]
+        [void]$verbAndConjugateNumberList.remove($currentCoordinate)
+        $coordinatesCount--
+
+        # Use coordinates to retrive current verb and conjugation
+        $currentVerbNumber = $currentCoordinate[0]
+        $currentConjugationNumber = $currentCoordinate[1]
         $currentVerb = $tenseObject[$verbsList[$currentVerbNumber]]
-        
-        # There are 6 conjugations to choose from, pick one randomly
-        $currentConjugationNumber = Get-Random -Maximum 6
         $currentConjugationAnswer = $currentVerb[$conjugateList[$currentConjugationNumber]]
         
         # Ask question and collect response
