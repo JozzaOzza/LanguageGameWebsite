@@ -1,0 +1,531 @@
+{
+    "presente": {
+      "ser": {
+        "I": "sou",
+        "You (singular)": "és",
+        "He/She": "é",
+        "We": "somos",
+        "You (plural)": "sois",
+        "They (plural)": "são"
+      },
+      "estar": {
+        "I": "estou",
+        "You (singular)": "estás",
+        "He/She": "está",
+        "We": "estamos",
+        "You (plural)": "estais",
+        "They (plural)": "estão"
+      },
+      "ter": {
+        "I": "tenho",
+        "You (singular)": "tens",
+        "He/She": "tem",
+        "We": "temos",
+        "You (plural)": "tendes",
+        "They (plural)": "têm"
+      },
+      "fazer": {
+        "I": "faço",
+        "You (singular)": "fazes",
+        "He/She": "faz",
+        "We": "fazemos",
+        "You (plural)": "fazeis",
+        "They (plural)": "fazem"
+      },
+      "ir": {
+        "I": "vou",
+        "You (singular)": "vais",
+        "He/She": "vai",
+        "We": "vamos",
+        "You (plural)": "ides",
+        "They (plural)": "vão"
+      },
+      "falar": {
+        "I": "falo",
+        "You (singular)": "falas",
+        "He/She": "fala",
+        "We": "falamos",
+        "You (plural)": "falais",
+        "They (plural)": "falam"
+      },
+      "comer": {
+        "I": "como",
+        "You (singular)": "comes",
+        "He/She": "come",
+        "We": "comemos",
+        "You (plural)": "comeis",
+        "They (plural)": "comem"
+      },
+      "abrir": {
+        "I": "abro",
+        "You (singular)": "abres",
+        "He/She": "abre",
+        "We": "abrimos",
+        "You (plural)": "abris",
+        "They (plural)": "abrem"
+      }
+    },
+    "pretérito perfeito": {
+      "ser": {
+        "I": "sono",
+        "You (singular)": "sei",
+        "He/She": "è",
+        "We": "siamo",
+        "You (plural)": "siete",
+        "They (plural)": "sono"
+      },
+      "estar": {
+        "I": "sto",
+        "You (singular)": "stai",
+        "He/She": "sta",
+        "We": "stiamo",
+        "You (plural)": "state",
+        "They (plural)": "stanno"
+      },
+      "ter": {
+        "I": "ho",
+        "You (singular)": "hai",
+        "He/She": "ha",
+        "We": "abbiamo",
+        "You (plural)": "avete",
+        "They (plural)": "hanno"
+      },
+      "fazer": {
+        "I": "faccio",
+        "You (singular)": "fai",
+        "He/She": "fa",
+        "We": "facciamo",
+        "You (plural)": "fate",
+        "They (plural)": "fanno"
+      },
+      "ir": {
+        "I": "vado",
+        "You (singular)": "vai",
+        "He/She": "va",
+        "We": "andiamo",
+        "You (plural)": "andate",
+        "They (plural)": "vanno"
+      },
+      "falar": {
+        "I": "amo",
+        "You (singular)": "ami",
+        "He/She": "ama",
+        "We": "amiamo",
+        "You (plural)": "amate",
+        "They (plural)": "amano"
+      },
+      "comer": {
+        "I": "credo",
+        "You (singular)": "credi",
+        "He/She": "crede",
+        "We": "crediamo",
+        "You (plural)": "credete",
+        "They (plural)": "credono"
+      },
+      "abrir": {
+        "I": "servo",
+        "You (singular)": "servi",
+        "He/She": "serve",
+        "We": "serviamo",
+        "You (plural)": "servite",
+        "They (plural)": "servono"
+      }
+    },
+    "pretérito perfeito composto": {
+      "ser": {
+        "I": "sono",
+        "You (singular)": "sei",
+        "He/She": "è",
+        "We": "siamo",
+        "You (plural)": "siete",
+        "They (plural)": "sono"
+      },
+      "estar": {
+        "I": "sto",
+        "You (singular)": "stai",
+        "He/She": "sta",
+        "We": "stiamo",
+        "You (plural)": "state",
+        "They (plural)": "stanno"
+      },
+      "ter": {
+        "I": "ho",
+        "You (singular)": "hai",
+        "He/She": "ha",
+        "We": "abbiamo",
+        "You (plural)": "avete",
+        "They (plural)": "hanno"
+      },
+      "fazer": {
+        "I": "faccio",
+        "You (singular)": "fai",
+        "He/She": "fa",
+        "We": "facciamo",
+        "You (plural)": "fate",
+        "They (plural)": "fanno"
+      },
+      "ir": {
+        "I": "vado",
+        "You (singular)": "vai",
+        "He/She": "va",
+        "We": "andiamo",
+        "You (plural)": "andate",
+        "They (plural)": "vanno"
+      },
+      "falar": {
+        "I": "amo",
+        "You (singular)": "ami",
+        "He/She": "ama",
+        "We": "amiamo",
+        "You (plural)": "amate",
+        "They (plural)": "amano"
+      },
+      "comer": {
+        "I": "credo",
+        "You (singular)": "credi",
+        "He/She": "crede",
+        "We": "crediamo",
+        "You (plural)": "credete",
+        "They (plural)": "credono"
+      },
+      "abrir": {
+        "I": "servo",
+        "You (singular)": "servi",
+        "He/She": "serve",
+        "We": "serviamo",
+        "You (plural)": "servite",
+        "They (plural)": "servono"
+      }
+    },
+    "pretérito imperfeito": {
+      "ser": {
+        "I": "sono",
+        "You (singular)": "sei",
+        "He/She": "è",
+        "We": "siamo",
+        "You (plural)": "siete",
+        "They (plural)": "sono"
+      },
+      "estar": {
+        "I": "sto",
+        "You (singular)": "stai",
+        "He/She": "sta",
+        "We": "stiamo",
+        "You (plural)": "state",
+        "They (plural)": "stanno"
+      },
+      "ter": {
+        "I": "ho",
+        "You (singular)": "hai",
+        "He/She": "ha",
+        "We": "abbiamo",
+        "You (plural)": "avete",
+        "They (plural)": "hanno"
+      },
+      "fazer": {
+        "I": "faccio",
+        "You (singular)": "fai",
+        "He/She": "fa",
+        "We": "facciamo",
+        "You (plural)": "fate",
+        "They (plural)": "fanno"
+      },
+      "ir": {
+        "I": "vado",
+        "You (singular)": "vai",
+        "He/She": "va",
+        "We": "andiamo",
+        "You (plural)": "andate",
+        "They (plural)": "vanno"
+      },
+      "falar": {
+        "I": "amo",
+        "You (singular)": "ami",
+        "He/She": "ama",
+        "We": "amiamo",
+        "You (plural)": "amate",
+        "They (plural)": "amano"
+      },
+      "comer": {
+        "I": "credo",
+        "You (singular)": "credi",
+        "He/She": "crede",
+        "We": "crediamo",
+        "You (plural)": "credete",
+        "They (plural)": "credono"
+      },
+      "abrir": {
+        "I": "servo",
+        "You (singular)": "servi",
+        "He/She": "serve",
+        "We": "serviamo",
+        "You (plural)": "servite",
+        "They (plural)": "servono"
+      }
+    },
+    "futuro simples": {
+      "ser": {
+        "I": "sono",
+        "You (singular)": "sei",
+        "He/She": "è",
+        "We": "siamo",
+        "You (plural)": "siete",
+        "They (plural)": "sono"
+      },
+      "estar": {
+        "I": "sto",
+        "You (singular)": "stai",
+        "He/She": "sta",
+        "We": "stiamo",
+        "You (plural)": "state",
+        "They (plural)": "stanno"
+      },
+      "ter": {
+        "I": "ho",
+        "You (singular)": "hai",
+        "He/She": "ha",
+        "We": "abbiamo",
+        "You (plural)": "avete",
+        "They (plural)": "hanno"
+      },
+      "fazer": {
+        "I": "faccio",
+        "You (singular)": "fai",
+        "He/She": "fa",
+        "We": "facciamo",
+        "You (plural)": "fate",
+        "They (plural)": "fanno"
+      },
+      "ir": {
+        "I": "vado",
+        "You (singular)": "vai",
+        "He/She": "va",
+        "We": "andiamo",
+        "You (plural)": "andate",
+        "They (plural)": "vanno"
+      },
+      "falar": {
+        "I": "amo",
+        "You (singular)": "ami",
+        "He/She": "ama",
+        "We": "amiamo",
+        "You (plural)": "amate",
+        "They (plural)": "amano"
+      },
+      "comer": {
+        "I": "credo",
+        "You (singular)": "credi",
+        "He/She": "crede",
+        "We": "crediamo",
+        "You (plural)": "credete",
+        "They (plural)": "credono"
+      },
+      "abrir": {
+        "I": "servo",
+        "You (singular)": "servi",
+        "He/She": "serve",
+        "We": "serviamo",
+        "You (plural)": "servite",
+        "They (plural)": "servono"
+      }
+    },
+    "condicional simples": {
+      "ser": {
+        "I": "sono",
+        "You (singular)": "sei",
+        "He/She": "è",
+        "We": "siamo",
+        "You (plural)": "siete",
+        "They (plural)": "sono"
+      },
+      "estar": {
+        "I": "sto",
+        "You (singular)": "stai",
+        "He/She": "sta",
+        "We": "stiamo",
+        "You (plural)": "state",
+        "They (plural)": "stanno"
+      },
+      "ter": {
+        "I": "ho",
+        "You (singular)": "hai",
+        "He/She": "ha",
+        "We": "abbiamo",
+        "You (plural)": "avete",
+        "They (plural)": "hanno"
+      },
+      "fazer": {
+        "I": "faccio",
+        "You (singular)": "fai",
+        "He/She": "fa",
+        "We": "facciamo",
+        "You (plural)": "fate",
+        "They (plural)": "fanno"
+      },
+      "ir": {
+        "I": "vado",
+        "You (singular)": "vai",
+        "He/She": "va",
+        "We": "andiamo",
+        "You (plural)": "andate",
+        "They (plural)": "vanno"
+      },
+      "falar": {
+        "I": "amo",
+        "You (singular)": "ami",
+        "He/She": "ama",
+        "We": "amiamo",
+        "You (plural)": "amate",
+        "They (plural)": "amano"
+      },
+      "comer": {
+        "I": "credo",
+        "You (singular)": "credi",
+        "He/She": "crede",
+        "We": "crediamo",
+        "You (plural)": "credete",
+        "They (plural)": "credono"
+      },
+      "abrir": {
+        "I": "servo",
+        "You (singular)": "servi",
+        "He/She": "serve",
+        "We": "serviamo",
+        "You (plural)": "servite",
+        "They (plural)": "servono"
+      }
+    },
+    "presente conjuntivo/subjuntivo": {
+      "ser": {
+        "I": "sono",
+        "You (singular)": "sei",
+        "He/She": "è",
+        "We": "siamo",
+        "You (plural)": "siete",
+        "They (plural)": "sono"
+      },
+      "estar": {
+        "I": "sto",
+        "You (singular)": "stai",
+        "He/She": "sta",
+        "We": "stiamo",
+        "You (plural)": "state",
+        "They (plural)": "stanno"
+      },
+      "ter": {
+        "I": "ho",
+        "You (singular)": "hai",
+        "He/She": "ha",
+        "We": "abbiamo",
+        "You (plural)": "avete",
+        "They (plural)": "hanno"
+      },
+      "fazer": {
+        "I": "faccio",
+        "You (singular)": "fai",
+        "He/She": "fa",
+        "We": "facciamo",
+        "You (plural)": "fate",
+        "They (plural)": "fanno"
+      },
+      "ir": {
+        "I": "vado",
+        "You (singular)": "vai",
+        "He/She": "va",
+        "We": "andiamo",
+        "You (plural)": "andate",
+        "They (plural)": "vanno"
+      },
+      "falar": {
+        "I": "amo",
+        "You (singular)": "ami",
+        "He/She": "ama",
+        "We": "amiamo",
+        "You (plural)": "amate",
+        "They (plural)": "amano"
+      },
+      "comer": {
+        "I": "credo",
+        "You (singular)": "credi",
+        "He/She": "crede",
+        "We": "crediamo",
+        "You (plural)": "credete",
+        "They (plural)": "credono"
+      },
+      "abrir": {
+        "I": "servo",
+        "You (singular)": "servi",
+        "He/She": "serve",
+        "We": "serviamo",
+        "You (plural)": "servite",
+        "They (plural)": "servono"
+      }
+    },
+    "pretérito imperfeito conjuntivo/subjuntivo": {
+      "ser": {
+        "I": "sono",
+        "You (singular)": "sei",
+        "He/She": "è",
+        "We": "siamo",
+        "You (plural)": "siete",
+        "They (plural)": "sono"
+      },
+      "estar": {
+        "I": "sto",
+        "You (singular)": "stai",
+        "He/She": "sta",
+        "We": "stiamo",
+        "You (plural)": "state",
+        "They (plural)": "stanno"
+      },
+      "ter": {
+        "I": "ho",
+        "You (singular)": "hai",
+        "He/She": "ha",
+        "We": "abbiamo",
+        "You (plural)": "avete",
+        "They (plural)": "hanno"
+      },
+      "fazer": {
+        "I": "faccio",
+        "You (singular)": "fai",
+        "He/She": "fa",
+        "We": "facciamo",
+        "You (plural)": "fate",
+        "They (plural)": "fanno"
+      },
+      "ir": {
+        "I": "vado",
+        "You (singular)": "vai",
+        "He/She": "va",
+        "We": "andiamo",
+        "You (plural)": "andate",
+        "They (plural)": "vanno"
+      },
+      "falar": {
+        "I": "amo",
+        "You (singular)": "ami",
+        "He/She": "ama",
+        "We": "amiamo",
+        "You (plural)": "amate",
+        "They (plural)": "amano"
+      },
+      "comer": {
+        "I": "credo",
+        "You (singular)": "credi",
+        "He/She": "crede",
+        "We": "crediamo",
+        "You (plural)": "credete",
+        "They (plural)": "credono"
+      },
+      "abrir": {
+        "I": "servo",
+        "You (singular)": "servi",
+        "He/She": "serve",
+        "We": "serviamo",
+        "You (plural)": "servite",
+        "They (plural)": "servono"
+      }
+    }
+  }
+  

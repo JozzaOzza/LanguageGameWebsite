@@ -3,7 +3,7 @@ using namespace System.Collections.Generic
 [CmdletBinding()]
 param ()  
 process {
-    $destinationPath = ".\regular-verb-answers.json" 
+    $destinationPath = ".\italian-verb-practice.json" 
     $destinationJson = Get-Content -Raw $destinationPath | ConvertFrom-Json -AsHashTable -Depth 100
     
     $tensesList = $destinationJson.Keys
