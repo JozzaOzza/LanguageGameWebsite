@@ -1,3 +1,5 @@
+using namespace System.Collections.Generic
+
 [CmdletBinding()]
 param ()  
 process {
@@ -9,22 +11,36 @@ process {
     
     $section = $destinationJson["verbs"][$sectionString]
     $sectionKeys = $section.Keys
+    $coordinates = [System.Collections.Generic.List[int]]@()
+    for ($verb = 0; $verb -lt $sectionKeys.Count; $verb++) {
+        $coordinates.Add($verb)
+    }
+    $initialCount = $sectionKeys.Count
+    $initialCount
 
     $totalQuestions = 0
     $correctAnswers = 0
     
-    foreach ($verb in $sectionKeys) {
+    while ($totalQuestions -lt $sectionKeys.Count) {
         ++$totalQuestions
-        $testResponse = Read-Host ("What is the infinitive form of the verb '$verb'")
-        $testCorrectAnswer = $section[$verb]["infinitive"]
-        $testCorrectAnswerList = $testCorrectAnswer.Split(", ")
+
+        # Select randomly from coordinates list, and remove that coordinate
+        $currentIndex = $coordinates[(Get-Random -Maximum ($initialCount))]
+        $currentVerb = $sectionKeys[$currentIndex]
+        $currentInfinitive = $section[$currentVerb]["infinitive"]
+        [void]$coordinates.Remove($currentIndex)
+        $initialCount--
+
+        $currentResponse = Read-Host ("What is the infinitive form of the verb '$currentVerb'")
+        $currentCorrectAnswers = $currentInfinitive.Split(", ")
         
-        if ($testResponse.Trim().ToLower() -in $testCorrectAnswerList) {
-            $testOutput, $testOutputColour, $correctAnswers = ("Correct - {0}" -f $testCorrectAnswer), "green", ($correctAnswers + 1)
+        # Check response against correct answer, and generate output
+        if ($currentResponse.Trim().ToLower() -in $currentCorrectAnswers) {
+            $currentOutput, $currentOutputColour, $correctAnswers = ("Correct - {0}" -f $currentInfinitive), "green", ($correctAnswers + 1)
         } else {
-            $testOutput, $testOutputColour = ("Wrong - {0}" -f $testCorrectAnswer), "red"
+            $currentOutput, $currentOutputColour = ("Wrong - {0}" -f $currentInfinitive), "red"
         }
 
-        Write-Host ("{0} - {1}/{2}" -f $testOutput, $correctAnswers, $totalQuestions) -ForegroundColor $testOutputColour
+        Write-Host ("{0} - {1}/{2}" -f $currentOutput, $correctAnswers, $totalQuestions) -ForegroundColor $currentOutputColour
     }
 }

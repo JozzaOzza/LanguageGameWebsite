@@ -15,7 +15,7 @@ process {
         $tensesIterator++
     }
     
-    $tenseResponse = Read-Host ("Pick a tense. The options are:{0}" -f $tensesNumberedList)
+    $tenseResponse = Read-Host ("Pick a tense. The options are:{0}`n" -f $tensesNumberedList)
     $tenseResponseNumber = ([int]$tenseResponse) - 1
     $tenseObject = $destinationJson[$tensesList[$tenseResponseNumber]]
     $verbsList = $tenseObject.Keys
