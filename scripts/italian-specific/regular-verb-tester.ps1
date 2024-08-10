@@ -3,9 +3,22 @@ using namespace System.Collections.Generic
 [CmdletBinding()]
 param ()  
 process {
-    $destinationPath = ".\italian-verb-practice.json" 
+    # Get languages
+    $languageList = Get-ChildItem -Path .\* -Name -Include "*-verb-practice.json"
+    $languageIterator = 1
+    $languageNumberedList = ""
+    foreach ($language in $languageList) {
+        $languageNumberedList += ("`n({0}) {1}" -f $languageIterator, $language.Split("-")[0])
+        $languageIterator++
+    }
+
+    # Get chosen language from user
+    $languageResponse = Read-Host ("Pick a language. The options are:{0}`n" -f $languageNumberedList)
+    $languageResponseNumber = ([int]$languageResponse) - 1
+    $destinationPath = ".\{0}" -f $languageList[$languageResponseNumber]
     $destinationJson = Get-Content -Raw $destinationPath | ConvertFrom-Json -AsHashTable -Depth 100
     
+    # Get tenses
     $tensesList = $destinationJson.Keys
     $tensesIterator = 1
     $tensesNumberedList = ""
@@ -15,6 +28,7 @@ process {
         $tensesIterator++
     }
     
+    # Get chosen tense from user
     $tenseResponse = Read-Host ("Pick a tense. The options are:{0}`n" -f $tensesNumberedList)
     $tenseResponseNumber = ([int]$tenseResponse) - 1
     $tenseObject = $destinationJson[$tensesList[$tenseResponseNumber]]
@@ -26,14 +40,14 @@ process {
 
     # Generate list of 'coordinates' which we can use to randomly search for verb conjugations
     $verbAndConjugateNumberList = [System.Collections.Generic.List[List[int]]]@()
-    for ($verbNumber = 0; $verbNumber -lt 9; $verbNumber++) {
-        for ($conjugateNumber = 0; $conjugateNumber -lt 6; $conjugateNumber++) {
+    for ($verbNumber = 0; $verbNumber -lt $verbsList.Count; $verbNumber++) {
+        for ($conjugateNumber = 0; $conjugateNumber -lt $conjugateList.Count; $conjugateNumber++) {
             $verbAndConjugateNumberList.Add(@($verbNumber, $conjugateNumber))
         }   
     }
     $coordinatesCount = $verbAndConjugateNumberList.Count
     
-    while ($totalQuestions -lt 25) {
+    while ($totalQuestions -lt ($verbsList.Count * $conjugateList.Count) / 2) {
         $totalQuestions++
 
         # Select randomly from coordinates list, and remove that coordinate
