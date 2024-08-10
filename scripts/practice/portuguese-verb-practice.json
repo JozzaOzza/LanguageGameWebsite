@@ -67,68 +67,68 @@
     },
     "pretérito perfeito": {
       "ser": {
-        "I": "sono",
-        "You (singular)": "sei",
-        "He/She": "è",
-        "We": "siamo",
-        "You (plural)": "siete",
-        "They (plural)": "sono"
+        "I": "fui",
+        "You (singular)": "foste",
+        "He/She": "foi",
+        "We": "fomos",
+        "You (plural)": "fostes",
+        "They (plural)": "foram"
       },
       "estar": {
-        "I": "sto",
-        "You (singular)": "stai",
-        "He/She": "sta",
-        "We": "stiamo",
-        "You (plural)": "state",
-        "They (plural)": "stanno"
+        "I": "estive",
+        "You (singular)": "estiveste",
+        "He/She": "esteve",
+        "We": "estivemos",
+        "You (plural)": "estivestes",
+        "They (plural)": "estiveram"
       },
       "ter": {
-        "I": "ho",
-        "You (singular)": "hai",
-        "He/She": "ha",
-        "We": "abbiamo",
-        "You (plural)": "avete",
-        "They (plural)": "hanno"
+        "I": "tive",
+        "You (singular)": "tiveste",
+        "He/She": "teve",
+        "We": "tivemos",
+        "You (plural)": "tivestes",
+        "They (plural)": "tiveram"
       },
       "fazer": {
-        "I": "faccio",
-        "You (singular)": "fai",
-        "He/She": "fa",
-        "We": "facciamo",
-        "You (plural)": "fate",
-        "They (plural)": "fanno"
+        "I": "fiz",
+        "You (singular)": "fizeste",
+        "He/She": "fez",
+        "We": "fizemos",
+        "You (plural)": "fizestes",
+        "They (plural)": "fizeram"
       },
       "ir": {
-        "I": "vado",
-        "You (singular)": "vai",
-        "He/She": "va",
-        "We": "andiamo",
-        "You (plural)": "andate",
-        "They (plural)": "vanno"
+        "I": "fui",
+        "You (singular)": "foste",
+        "He/She": "foi",
+        "We": "fomos",
+        "You (plural)": "fostes",
+        "They (plural)": "foram"
       },
       "falar": {
-        "I": "amo",
-        "You (singular)": "ami",
-        "He/She": "ama",
-        "We": "amiamo",
-        "You (plural)": "amate",
-        "They (plural)": "amano"
+        "I": "falei",
+        "You (singular)": "falaste",
+        "He/She": "falou",
+        "We": "falámos",
+        "You (plural)": "falastes",
+        "They (plural)": "falaram"
       },
       "comer": {
-        "I": "credo",
-        "You (singular)": "credi",
-        "He/She": "crede",
-        "We": "crediamo",
-        "You (plural)": "credete",
-        "They (plural)": "credono"
+        "I": "comi",
+        "You (singular)": "comeste",
+        "He/She": "comeu",
+        "We": "comemos",
+        "You (plural)": "comestes",
+        "They (plural)": "comeram"
       },
       "abrir": {
-        "I": "servo",
-        "You (singular)": "servi",
-        "He/She": "serve",
-        "We": "serviamo",
-        "You (plural)": "servite",
-        "They (plural)": "servono"
+        "I": "abri",
+        "You (singular)": "abriste",
+        "He/She": "abriu",
+        "We": "abrimos",
+        "You (plural)": "abristes",
+        "They (plural)": "abriram"
       }
     },
     "pretérito perfeito composto": {
