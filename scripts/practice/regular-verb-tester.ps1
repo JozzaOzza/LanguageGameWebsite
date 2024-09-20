@@ -8,6 +8,7 @@ process {
     $languageIterator = 1
     $languageNumberedList = ""
     foreach ($language in $languageList) {
+        # Each file name will have the format '<language name>-verb-practice.json'. We want the first part
         $languageNumberedList += ("`n({0}) {1}" -f $languageIterator, $language.Split("-")[0])
         $languageIterator++
     }
@@ -35,6 +36,10 @@ process {
     $verbsList = $tenseObject.Keys
     $conjugateList = $tenseObject[$verbsList[0]].Keys
 
+    # Make length of test equal to 25, or lower depending on amount of possible conjugations
+    $totalPermutations = ($tenseObject.Keys.Count * $tenseObject[$verbsList[0]].Keys.Count)
+    $testLength = ($totalPermutations -lt 25) ? $totalPermutations : 25
+
     $totalQuestions = 0
     $correctAnswers = 0
 
@@ -47,7 +52,7 @@ process {
     }
     $coordinatesCount = $verbAndConjugateNumberList.Count
     
-    while ($totalQuestions -lt ($verbsList.Count * $conjugateList.Count) / 2) {
+    while ($totalQuestions -lt $testLength) {
         $totalQuestions++
 
         # Select randomly from coordinates list, and remove that coordinate
