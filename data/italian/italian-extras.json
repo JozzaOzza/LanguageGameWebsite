@@ -51,6 +51,14 @@
       "how much (singular)": "quanto, quanta",
       "how many (plural)": "quanti, quante"
     },
+    "negatives": {
+      "nothing": null,
+      "not any (not one)": null,
+      "neither (nor)": null,
+      "never": null,
+      "nobody (no one)": null,
+      "nowhere": null
+    },
     "cardinal numbers": {
       "zero": "zero",
       "one": "uno",
