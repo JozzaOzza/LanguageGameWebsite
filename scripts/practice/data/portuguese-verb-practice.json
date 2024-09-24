@@ -67,12 +67,12 @@
     },
     "pretérito perfeito": {
       "ser": {
-        "I": "fui",
-        "You (singular)": "foste",
-        "He/She": "foi",
-        "We": "fomos",
-        "You (plural)": "fostes",
-        "They (plural)": "foram"
+        "I": "estive",
+        "You (singular)": "estiveste",
+        "He/She": "esteve",
+        "We": "estivemos",
+        "You (plural)": "estivestes",
+        "They (plural)": "estiveram"
       },
       "estar": {
         "I": "estive",
@@ -133,28 +133,28 @@
     },
     "pretérito perfeito composto": {
       "ser": {
-        "I": "sono",
-        "You (singular)": "sei",
-        "He/She": "è",
-        "We": "siamo",
-        "You (plural)": "siete",
-        "They (plural)": "sono"
+        "I": "tenho sido",
+        "You (singular)": "tens sido",
+        "He/She": "tem sido",
+        "We": "temos sido",
+        "You (plural)": "tendes sido",
+        "They (plural)": "têm sido"
       },
       "estar": {
-        "I": "sto",
-        "You (singular)": "stai",
-        "He/She": "sta",
-        "We": "stiamo",
-        "You (plural)": "state",
-        "They (plural)": "stanno"
+        "I": "tenho estado",
+        "You (singular)": "tens estado",
+        "He/She": "tem estado",
+        "We": "temos estado",
+        "You (plural)": "tendes estado",
+        "They (plural)": "têm estado"
       },
       "ter": {
-        "I": "ho",
-        "You (singular)": "hai",
-        "He/She": "ha",
-        "We": "abbiamo",
-        "You (plural)": "avete",
-        "They (plural)": "hanno"
+        "I": "tenho tido",
+        "You (singular)": "tens tido",
+        "He/She": "tem tido",
+        "We": "temos tido",
+        "You (plural)": "tendes tido",
+        "They (plural)": "têm tido"
       },
       "fazer": {
         "I": "faccio",
@@ -199,28 +199,28 @@
     },
     "pretérito imperfeito": {
       "ser": {
-        "I": "sono",
-        "You (singular)": "sei",
-        "He/She": "è",
-        "We": "siamo",
-        "You (plural)": "siete",
-        "They (plural)": "sono"
+        "I": "era",
+        "You (singular)": "eras",
+        "He/She": "era",
+        "We": "éramos",
+        "You (plural)": "éreis",
+        "They (plural)": "eram"
       },
       "estar": {
-        "I": "sto",
-        "You (singular)": "stai",
-        "He/She": "sta",
-        "We": "stiamo",
-        "You (plural)": "state",
-        "They (plural)": "stanno"
+        "I": "estava",
+        "You (singular)": "estavas",
+        "He/She": "estava",
+        "We": "estávamos",
+        "You (plural)": "estáveis",
+        "They (plural)": "estavam"
       },
       "ter": {
-        "I": "ho",
-        "You (singular)": "hai",
-        "He/She": "ha",
-        "We": "abbiamo",
-        "You (plural)": "avete",
-        "They (plural)": "hanno"
+        "I": "tinha",
+        "You (singular)": "tinhas",
+        "He/She": "tinha",
+        "We": "tínhamos",
+        "You (plural)": "tínheis",
+        "They (plural)": "tinham"
       },
       "fazer": {
         "I": "faccio",
@@ -265,28 +265,28 @@
     },
     "futuro simples": {
       "ser": {
-        "I": "sono",
-        "You (singular)": "sei",
-        "He/She": "è",
-        "We": "siamo",
-        "You (plural)": "siete",
-        "They (plural)": "sono"
+        "I": "serei",
+        "You (singular)": "serás",
+        "He/She": "será",
+        "We": "seremos",
+        "You (plural)": "sereis",
+        "They (plural)": "serão"
       },
       "estar": {
-        "I": "sto",
-        "You (singular)": "stai",
-        "He/She": "sta",
-        "We": "stiamo",
-        "You (plural)": "state",
-        "They (plural)": "stanno"
+        "I": "estarei",
+        "You (singular)": "estarás",
+        "He/She": "estará",
+        "We": "estaremos",
+        "You (plural)": "estareis",
+        "They (plural)": "estarão"
       },
       "ter": {
-        "I": "ho",
-        "You (singular)": "hai",
-        "He/She": "ha",
-        "We": "abbiamo",
-        "You (plural)": "avete",
-        "They (plural)": "hanno"
+        "I": "terei",
+        "You (singular)": "terás",
+        "He/She": "terá",
+        "We": "teremos",
+        "You (plural)": "tereis",
+        "They (plural)": "terão"
       },
       "fazer": {
         "I": "faccio",
@@ -331,28 +331,28 @@
     },
     "condicional simples": {
       "ser": {
-        "I": "sono",
-        "You (singular)": "sei",
-        "He/She": "è",
-        "We": "siamo",
-        "You (plural)": "siete",
-        "They (plural)": "sono"
+        "I": "seria",
+        "You (singular)": "serias",
+        "He/She": "seria",
+        "We": "seríamos",
+        "You (plural)": "seríeis",
+        "They (plural)": "seriam"
       },
       "estar": {
-        "I": "sto",
-        "You (singular)": "stai",
-        "He/She": "sta",
-        "We": "stiamo",
-        "You (plural)": "state",
-        "They (plural)": "stanno"
+        "I": "estaria",
+        "You (singular)": "estarias",
+        "He/She": "estaria",
+        "We": "estaríamos",
+        "You (plural)": "estaríeis",
+        "They (plural)": "estariam"
       },
       "ter": {
-        "I": "ho",
-        "You (singular)": "hai",
-        "He/She": "ha",
-        "We": "abbiamo",
-        "You (plural)": "avete",
-        "They (plural)": "hanno"
+        "I": "teria",
+        "You (singular)": "terias",
+        "He/She": "teria",
+        "We": "teríamos",
+        "You (plural)": "teríeis",
+        "They (plural)": "teriam"
       },
       "fazer": {
         "I": "faccio",
@@ -397,28 +397,28 @@
     },
     "presente conjuntivo/subjuntivo": {
       "ser": {
-        "I": "sono",
-        "You (singular)": "sei",
-        "He/She": "è",
-        "We": "siamo",
-        "You (plural)": "siete",
-        "They (plural)": "sono"
+        "I": "seja",
+        "You (singular)": "sejas",
+        "He/She": "seja",
+        "We": "sejamos",
+        "You (plural)": "sejais",
+        "They (plural)": "sejam"
       },
       "estar": {
-        "I": "sto",
-        "You (singular)": "stai",
-        "He/She": "sta",
-        "We": "stiamo",
-        "You (plural)": "state",
-        "They (plural)": "stanno"
+        "I": "esteja",
+        "You (singular)": "estejas",
+        "He/She": "esteja",
+        "We": "estejamos",
+        "You (plural)": "estejais",
+        "They (plural)": "estejam"
       },
       "ter": {
-        "I": "ho",
-        "You (singular)": "hai",
-        "He/She": "ha",
-        "We": "abbiamo",
-        "You (plural)": "avete",
-        "They (plural)": "hanno"
+        "I": "tenha",
+        "You (singular)": "tenhas",
+        "He/She": "tenha",
+        "We": "tenhamos",
+        "You (plural)": "tenhais",
+        "They (plural)": "tenham"
       },
       "fazer": {
         "I": "faccio",
@@ -463,28 +463,28 @@
     },
     "pretérito imperfeito conjuntivo/subjuntivo": {
       "ser": {
-        "I": "sono",
-        "You (singular)": "sei",
-        "He/She": "è",
-        "We": "siamo",
-        "You (plural)": "siete",
-        "They (plural)": "sono"
+        "I": "fosse",
+        "You (singular)": "fosses",
+        "He/She": "fosse",
+        "We": "fôssemos",
+        "You (plural)": "fôsseis",
+        "They (plural)": "fossem"
       },
       "estar": {
-        "I": "sto",
-        "You (singular)": "stai",
-        "He/She": "sta",
-        "We": "stiamo",
-        "You (plural)": "state",
-        "They (plural)": "stanno"
+        "I": "estivesse",
+        "You (singular)": "estivesses",
+        "He/She": "estivesse",
+        "We": "estivéssemos",
+        "You (plural)": "estivésseis",
+        "They (plural)": "estivessem"
       },
       "ter": {
-        "I": "ho",
-        "You (singular)": "hai",
-        "He/She": "ha",
-        "We": "abbiamo",
-        "You (plural)": "avete",
-        "They (plural)": "hanno"
+        "I": "tivesse",
+        "You (singular)": "tivesses",
+        "He/She": "tivesse",
+        "We": "tivéssemos",
+        "You (plural)": "tivésseis",
+        "They (plural)": "tivessem"
       },
       "fazer": {
         "I": "faccio",

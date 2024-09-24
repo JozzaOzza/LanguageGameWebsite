@@ -3,8 +3,11 @@ using namespace System.Collections.Generic
 [CmdletBinding()]
 param ()  
 process {
+    # Set path to target files
+    $dataPath = ".\data"
+
     # Get languages
-    $languageList = Get-ChildItem -Path .\* -Name -Include "*-verb-practice.json"
+    $languageList = Get-ChildItem -Path ("{0}\*" -f $dataPath) -Name -Include "*-verb-practice.json"
     $languageIterator = 1
     $languageNumberedList = ""
     foreach ($language in $languageList) {
@@ -16,7 +19,7 @@ process {
     # Get chosen language from user
     $languageResponse = Read-Host ("Pick a language. The options are:{0}`n" -f $languageNumberedList)
     $languageResponseNumber = ([int]$languageResponse) - 1
-    $destinationPath = ".\{0}" -f $languageList[$languageResponseNumber]
+    $destinationPath = ("{0}\{1}" -f $dataPath, $languageList[$languageResponseNumber])
     $destinationJson = Get-Content -Raw $destinationPath | ConvertFrom-Json -AsHashTable -Depth 100
     
     # Get tenses
