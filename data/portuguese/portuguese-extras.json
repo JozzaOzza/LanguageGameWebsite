@@ -19,6 +19,24 @@
       "yourselves": "vocês",
       "themselves": "se, si"
     },
+    "direct object pronouns": {
+      "me": "me",
+      "you (singular)": "te",
+      "him": "o, lo, no",
+      "her": "a, la, na",
+      "us": "nos",
+      "you (plural)": "vos",
+      "them (plural)": "os, as, los, las, nos, nas"
+    },
+    "indirect object pronouns": {
+      "me": "me",
+      "you (singular)": "te",
+      "him": "lhe",
+      "her": "lhe",
+      "us": "nos",
+      "you (plural)": "vos",
+      "them (plural)": "lhe"
+    },
     "articles (definite, indefinite, partitive)": {
       "a (singular e.g. a cake)": "um, uma",
       "the (singular e.g. the cake)": "o, a",

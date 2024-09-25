@@ -19,6 +19,24 @@
       "yourselves": null,
       "themselves": null
     },
+    "direct object pronouns": {
+      "me": null,
+      "you (singular)": null,
+      "him": null,
+      "her": null,
+      "us": null,
+      "you (plural)": null,
+      "them (plural)": null
+    },
+    "indirect object pronouns": {
+      "me": null,
+      "you (singular)": null,
+      "him": null,
+      "her": null,
+      "us": null,
+      "you (plural)": null,
+      "them (plural)": null
+    },
     "articles (definite, indefinite, partitive)": {
       "a (singular e.g. a cake)": null,
       "the (singular e.g. the cake)": null,
