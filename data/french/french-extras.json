@@ -37,6 +37,22 @@
       "you (plural)": null,
       "them (plural)": null
     },
+    "possessive pronouns": {
+      "my (mine) (singular)": null,
+      "my (mine) (plural)": null,
+      "your (yours, singular) (singular)": null,
+      "your (yours, singular) (plural)": null,
+      "his (singular)": null,
+      "his (plural)": null,
+      "her (hers) (singular)": null,
+      "her (hers) (plural)": null,
+      "our (ours) (singular)": null,
+      "our (ours) (plural)": null,
+      "your (yours, plural) (singular)": null,
+      "your (yours, plural) (plural)": null,
+      "their (theirs) (singular)": null,
+      "their (theirs) (plural)": null
+    },
     "articles (definite, indefinite, partitive)": {
       "a (singular e.g. a cake)": "un, une",
       "the (singular e.g. the cake)": "le, la, l'",
@@ -313,6 +329,8 @@
       "bad (quality)": null,
       "bad (harmful)": null,
       "bad (evil)": null,
+      "true (correct)": null,
+      "false (incorrect)": null,
       "possible": null,
       "necessary (essential)": null,
       "important": null,

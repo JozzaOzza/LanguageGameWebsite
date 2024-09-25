@@ -1,5 +1,6 @@
 using namespace System.Collections.Generic
 
+# & ".\regular-verb-tester.ps1"
 [CmdletBinding()]
 param ()  
 process {
