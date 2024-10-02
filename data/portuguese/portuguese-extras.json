@@ -8,7 +8,8 @@
       "she": "ela",
       "we": "nós",
       "you (plural": "vós, vocês",
-      "they (plural)": "eles, elas"
+      "them (masculine) (plural)": "eles",
+      "them (feminine) (plural)": "elas"
     },
     "reflexive pronouns": {
       "myself": "me",
@@ -17,7 +18,8 @@
       "herself": "a",
       "ourselves": "nos",
       "yourselves": "vocês",
-      "themselves": "se, si"
+      "themselves (masculine) (plural)": "se, si",
+      "themselves (feminine) (plural)": "se, si"
     },
     "direct object pronouns": {
       "me": "me",
@@ -26,16 +28,18 @@
       "her": "a, la, na",
       "us": "nos",
       "you (plural)": "vos",
-      "them (plural)": "os, as, los, las, nos, nas"
+      "them (masculine) (plural)": "os, los",
+      "them (feminine) (plural)": "as, las"
     },
     "indirect object pronouns": {
-      "me": "me",
-      "you (singular)": "te",
+      "me": "me, mim",
+      "you (singular)": "te, lhe",
       "him": "lhe",
       "her": "lhe",
       "us": "nos",
       "you (plural)": "vos",
-      "them (plural)": "lhe"
+      "them (masculine) (plural)": "lhes",
+      "them (feminine) (plural)": "lhes"
     },
     "possessive pronouns": {
       "my (mine) (singular)": "o meu, a minha",
@@ -329,6 +333,8 @@
       "bad (quality)": "mau, ruim, sofrível",
       "bad (harmful)": "mau",
       "bad (evil)": "mau, vilão",
+      "better": "melhor",
+      "worse": "pior",
       "true (correct)": "verdadeiro, verídico",
       "false (incorrect)": "falso, inverídico",
       "possible": "possível",
@@ -408,6 +414,7 @@
       "excuse me (interjection)": "com licença, desculpe, perdão",
       "of course": "com certeza, claro",
       "there is (e.g. there is a restaurant in the town)": "há, tem",
+      "there are (e.g. there are restaurants in the town)": "há, tem",
       "on the left": "à esquerda",
       "on the right": "à direita",
       "how do you say (e.g. how do you say this)": "como você diz, como é que se diz",

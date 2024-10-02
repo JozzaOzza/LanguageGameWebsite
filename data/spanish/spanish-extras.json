@@ -8,7 +8,8 @@
       "she": "ella",
       "we": "nosotros",
       "you (plural": "vosotros",
-      "they (plural)": "ellos, ellas"
+      "them (masculine) (plural)": null,
+      "them (feminine) (plural)": null
     },
     "reflexive pronouns": {
       "myself": "me",
@@ -17,7 +18,8 @@
       "herself": "se",
       "ourselves": "nos",
       "yourselves": "vos",
-      "themselves": "se"
+      "themselves (masculine) (plural)": null,
+      "themselves (feminine) (plural)": null
     },
     "direct object pronouns": {
       "me": null,
@@ -26,7 +28,8 @@
       "her": null,
       "us": null,
       "you (plural)": null,
-      "them (plural)": null
+      "them (masculine) (plural)": null,
+      "them (feminine) (plural)": null
     },
     "indirect object pronouns": {
       "me": null,
@@ -35,7 +38,8 @@
       "her": null,
       "us": null,
       "you (plural)": null,
-      "them (plural)": null
+      "them (masculine) (plural)": null,
+      "them (feminine) (plural)": null
     },
     "possessive pronouns": {
       "my (mine) (singular)": null,
@@ -329,6 +333,8 @@
       "bad (quality)": null,
       "bad (harmful)": null,
       "bad (evil)": null,
+      "better": null,
+      "worse": null,
       "true (correct)": null,
       "false (incorrect)": null,
       "possible": null,
@@ -408,6 +414,7 @@
       "excuse me (interjection)": "perdón, disculpe, perdone, disculpa, perdona, disculpá, perdoná",
       "of course": "claro, por supuesto",
       "there is (e.g. there is a restaurant in the town)": null,
+      "there are (e.g. there are restaurants in the town)": null,
       "on the left": null,
       "on the right": null,
       "how do you say (e.g. how do you say this)": "cómo se dice",
