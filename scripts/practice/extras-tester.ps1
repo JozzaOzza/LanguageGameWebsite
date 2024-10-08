@@ -1,3 +1,6 @@
+# Add parameter which tells script to test user on all words from a given category
+# Add option to categories called 'any' which chooses from all categories randomly
+
 using namespace System.Collections.Generic
 
 # & ".\extras-tester.ps1"
