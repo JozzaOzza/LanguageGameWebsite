@@ -1,9 +1,6 @@
-# Add parameter which tells script to test user on all words from a given category
-# Add option to categories called 'any' which chooses from all categories randomly
-
 using namespace System.Collections.Generic
 
-# & ".\extras-tester.ps1"
+# & ".\extras-tester-choice.ps1"
 [CmdletBinding()]
 param ()  
 process {
@@ -48,9 +45,9 @@ process {
     $categoryObject = $destinationJson[$categoriesList[$categoryResponseNumber]]
     $wordsList = $categoryObject.Keys
 
-    # Make length of test equal to 25, or lower depending on amount of words
+    # Make length of test equal to the amount of words in the chosen category
     $totalPermutations = ($categoryObject.Keys.Count)
-    $testLength = ($totalPermutations -lt 25) ? $totalPermutations : 25
+    $testLength = $totalPermutations
 
     $totalQuestions = 0
     $correctAnswers = 0

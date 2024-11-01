@@ -7,7 +7,7 @@
       "he": "ele",
       "she": "ela",
       "we": "nós",
-      "you (plural": "vós, vocês",
+      "you (plural)": "vós, vocês",
       "them (masculine) (plural)": "eles",
       "them (feminine) (plural)": "elas"
     },
@@ -45,7 +45,7 @@
       "my (mine) (singular)": "o meu, a minha",
       "my (mine) (plural)": "os meus, as minhas",
       "your (yours, singular) (singular)": "o teu, a tua",
-      "your (yours, singular) (plural)": "os teus, a tuas",
+      "your (yours, singular) (plural)": "os teus, as tuas",
       "his (singular)": "o seu, a sua",
       "his (plural)": "os seus, as suas",
       "her (hers) (singular)": "o seu, a sua",
