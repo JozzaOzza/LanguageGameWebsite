@@ -1,3 +1,5 @@
+# & ".\update-language-with-template.ps1"
+
 [CmdletBinding()]
 param ()
 begin {
