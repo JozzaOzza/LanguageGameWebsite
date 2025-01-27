@@ -1,0 +1,466 @@
+{
+    "present (présent)": {
+        "être": {
+            "I": "sono",
+            "You (singular)": "sei",
+            "He/She": "è",
+            "We": "siamo",
+            "You (plural)": "siete",
+            "They (plural)": "sono"
+        },
+        "avoir": {
+            "I": "ho",
+            "You (singular)": "hai",
+            "He/She": "ha",
+            "We": "abbiamo",
+            "You (plural)": "avete",
+            "They (plural)": "hanno"
+        },
+        "faire": {
+            "I": "faccio",
+            "You (singular)": "fai",
+            "He/She": "fa",
+            "We": "facciamo",
+            "You (plural)": "fate",
+            "They (plural)": "fanno"
+        },
+        "aller": {
+            "I": "vado",
+            "You (singular)": "vai",
+            "He/She": "va",
+            "We": "andiamo",
+            "You (plural)": "andate",
+            "They (plural)": "vanno"
+        },
+        "aimer": {
+            "I": "amo",
+            "You (singular)": "ami",
+            "He/She": "ama",
+            "We": "amiamo",
+            "You (plural)": "amate",
+            "They (plural)": "amano"
+        },
+        "choisir": {
+            "I": "credo",
+            "You (singular)": "credi",
+            "He/She": "crede",
+            "We": "crediamo",
+            "You (plural)": "credete",
+            "They (plural)": "credono"
+        },
+        "attendre": {
+            "I": "servo",
+            "You (singular)": "servi",
+            "He/She": "serve",
+            "We": "serviamo",
+            "You (plural)": "servite",
+            "They (plural)": "servono"
+        }
+    },
+    "perfect (passé composé)": {
+        "être": {
+            "I": "sono",
+            "You (singular)": "sei",
+            "He/She": "è",
+            "We": "siamo",
+            "You (plural)": "siete",
+            "They (plural)": "sono"
+        },
+        "avoir": {
+            "I": "ho",
+            "You (singular)": "hai",
+            "He/She": "ha",
+            "We": "abbiamo",
+            "You (plural)": "avete",
+            "They (plural)": "hanno"
+        },
+        "faire": {
+            "I": "faccio",
+            "You (singular)": "fai",
+            "He/She": "fa",
+            "We": "facciamo",
+            "You (plural)": "fate",
+            "They (plural)": "fanno"
+        },
+        "aller": {
+            "I": "vado",
+            "You (singular)": "vai",
+            "He/She": "va",
+            "We": "andiamo",
+            "You (plural)": "andate",
+            "They (plural)": "vanno"
+        },
+        "aimer": {
+            "I": "amo",
+            "You (singular)": "ami",
+            "He/She": "ama",
+            "We": "amiamo",
+            "You (plural)": "amate",
+            "They (plural)": "amano"
+        },
+        "choisir": {
+            "I": "credo",
+            "You (singular)": "credi",
+            "He/She": "crede",
+            "We": "crediamo",
+            "You (plural)": "credete",
+            "They (plural)": "credono"
+        },
+        "attendre": {
+            "I": "servo",
+            "You (singular)": "servi",
+            "He/She": "serve",
+            "We": "serviamo",
+            "You (plural)": "servite",
+            "They (plural)": "servono"
+        }
+    },
+    "imperfect (imparfait)": {
+        "être": {
+            "I": "sono",
+            "You (singular)": "sei",
+            "He/She": "è",
+            "We": "siamo",
+            "You (plural)": "siete",
+            "They (plural)": "sono"
+        },
+        "avoir": {
+            "I": "ho",
+            "You (singular)": "hai",
+            "He/She": "ha",
+            "We": "abbiamo",
+            "You (plural)": "avete",
+            "They (plural)": "hanno"
+        },
+        "faire": {
+            "I": "faccio",
+            "You (singular)": "fai",
+            "He/She": "fa",
+            "We": "facciamo",
+            "You (plural)": "fate",
+            "They (plural)": "fanno"
+        },
+        "aller": {
+            "I": "vado",
+            "You (singular)": "vai",
+            "He/She": "va",
+            "We": "andiamo",
+            "You (plural)": "andate",
+            "They (plural)": "vanno"
+        },
+        "aimer": {
+            "I": "amo",
+            "You (singular)": "ami",
+            "He/She": "ama",
+            "We": "amiamo",
+            "You (plural)": "amate",
+            "They (plural)": "amano"
+        },
+        "choisir": {
+            "I": "credo",
+            "You (singular)": "credi",
+            "He/She": "crede",
+            "We": "crediamo",
+            "You (plural)": "credete",
+            "They (plural)": "credono"
+        },
+        "attendre": {
+            "I": "servo",
+            "You (singular)": "servi",
+            "He/She": "serve",
+            "We": "serviamo",
+            "You (plural)": "servite",
+            "They (plural)": "servono"
+        }
+    },
+    "preterite (passé simple)": {
+        "être": {
+            "I": "sono",
+            "You (singular)": "sei",
+            "He/She": "è",
+            "We": "siamo",
+            "You (plural)": "siete",
+            "They (plural)": "sono"
+        },
+        "avoir": {
+            "I": "ho",
+            "You (singular)": "hai",
+            "He/She": "ha",
+            "We": "abbiamo",
+            "You (plural)": "avete",
+            "They (plural)": "hanno"
+        },
+        "faire": {
+            "I": "faccio",
+            "You (singular)": "fai",
+            "He/She": "fa",
+            "We": "facciamo",
+            "You (plural)": "fate",
+            "They (plural)": "fanno"
+        },
+        "aller": {
+            "I": "vado",
+            "You (singular)": "vai",
+            "He/She": "va",
+            "We": "andiamo",
+            "You (plural)": "andate",
+            "They (plural)": "vanno"
+        },
+        "aimer": {
+            "I": "amo",
+            "You (singular)": "ami",
+            "He/She": "ama",
+            "We": "amiamo",
+            "You (plural)": "amate",
+            "They (plural)": "amano"
+        },
+        "choisir": {
+            "I": "credo",
+            "You (singular)": "credi",
+            "He/She": "crede",
+            "We": "crediamo",
+            "You (plural)": "credete",
+            "They (plural)": "credono"
+        },
+        "attendre": {
+            "I": "servo",
+            "You (singular)": "servi",
+            "He/She": "serve",
+            "We": "serviamo",
+            "You (plural)": "servite",
+            "They (plural)": "servono"
+        }
+    },
+    "future (futur simple)": {
+        "être": {
+            "I": "sono",
+            "You (singular)": "sei",
+            "He/She": "è",
+            "We": "siamo",
+            "You (plural)": "siete",
+            "They (plural)": "sono"
+        },
+        "avoir": {
+            "I": "ho",
+            "You (singular)": "hai",
+            "He/She": "ha",
+            "We": "abbiamo",
+            "You (plural)": "avete",
+            "They (plural)": "hanno"
+        },
+        "faire": {
+            "I": "faccio",
+            "You (singular)": "fai",
+            "He/She": "fa",
+            "We": "facciamo",
+            "You (plural)": "fate",
+            "They (plural)": "fanno"
+        },
+        "aller": {
+            "I": "vado",
+            "You (singular)": "vai",
+            "He/She": "va",
+            "We": "andiamo",
+            "You (plural)": "andate",
+            "They (plural)": "vanno"
+        },
+        "aimer": {
+            "I": "amo",
+            "You (singular)": "ami",
+            "He/She": "ama",
+            "We": "amiamo",
+            "You (plural)": "amate",
+            "They (plural)": "amano"
+        },
+        "choisir": {
+            "I": "credo",
+            "You (singular)": "credi",
+            "He/She": "crede",
+            "We": "crediamo",
+            "You (plural)": "credete",
+            "They (plural)": "credono"
+        },
+        "attendre": {
+            "I": "servo",
+            "You (singular)": "servi",
+            "He/She": "serve",
+            "We": "serviamo",
+            "You (plural)": "servite",
+            "They (plural)": "servono"
+        }
+    },
+    "conditional (conditionnel présent)": {
+        "être": {
+            "I": "sono",
+            "You (singular)": "sei",
+            "He/She": "è",
+            "We": "siamo",
+            "You (plural)": "siete",
+            "They (plural)": "sono"
+        },
+        "avoir": {
+            "I": "ho",
+            "You (singular)": "hai",
+            "He/She": "ha",
+            "We": "abbiamo",
+            "You (plural)": "avete",
+            "They (plural)": "hanno"
+        },
+        "faire": {
+            "I": "faccio",
+            "You (singular)": "fai",
+            "He/She": "fa",
+            "We": "facciamo",
+            "You (plural)": "fate",
+            "They (plural)": "fanno"
+        },
+        "aller": {
+            "I": "vado",
+            "You (singular)": "vai",
+            "He/She": "va",
+            "We": "andiamo",
+            "You (plural)": "andate",
+            "They (plural)": "vanno"
+        },
+        "aimer": {
+            "I": "amo",
+            "You (singular)": "ami",
+            "He/She": "ama",
+            "We": "amiamo",
+            "You (plural)": "amate",
+            "They (plural)": "amano"
+        },
+        "choisir": {
+            "I": "credo",
+            "You (singular)": "credi",
+            "He/She": "crede",
+            "We": "crediamo",
+            "You (plural)": "credete",
+            "They (plural)": "credono"
+        },
+        "attendre": {
+            "I": "servo",
+            "You (singular)": "servi",
+            "He/She": "serve",
+            "We": "serviamo",
+            "You (plural)": "servite",
+            "They (plural)": "servono"
+        }
+    },
+    "subjunctive present (subjonctif présent)": {
+        "être": {
+            "I": "sono",
+            "You (singular)": "sei",
+            "He/She": "è",
+            "We": "siamo",
+            "You (plural)": "siete",
+            "They (plural)": "sono"
+        },
+        "avoir": {
+            "I": "ho",
+            "You (singular)": "hai",
+            "He/She": "ha",
+            "We": "abbiamo",
+            "You (plural)": "avete",
+            "They (plural)": "hanno"
+        },
+        "faire": {
+            "I": "faccio",
+            "You (singular)": "fai",
+            "He/She": "fa",
+            "We": "facciamo",
+            "You (plural)": "fate",
+            "They (plural)": "fanno"
+        },
+        "aller": {
+            "I": "vado",
+            "You (singular)": "vai",
+            "He/She": "va",
+            "We": "andiamo",
+            "You (plural)": "andate",
+            "They (plural)": "vanno"
+        },
+        "aimer": {
+            "I": "amo",
+            "You (singular)": "ami",
+            "He/She": "ama",
+            "We": "amiamo",
+            "You (plural)": "amate",
+            "They (plural)": "amano"
+        },
+        "choisir": {
+            "I": "credo",
+            "You (singular)": "credi",
+            "He/She": "crede",
+            "We": "crediamo",
+            "You (plural)": "credete",
+            "They (plural)": "credono"
+        },
+        "attendre": {
+            "I": "servo",
+            "You (singular)": "servi",
+            "He/She": "serve",
+            "We": "serviamo",
+            "You (plural)": "servite",
+            "They (plural)": "servono"
+        }
+    },
+    "subjunctive imperfect (subjonctif imparfait)": {
+        "être": {
+            "I": "sono",
+            "You (singular)": "sei",
+            "He/She": "è",
+            "We": "siamo",
+            "You (plural)": "siete",
+            "They (plural)": "sono"
+        },
+        "avoir": {
+            "I": "ho",
+            "You (singular)": "hai",
+            "He/She": "ha",
+            "We": "abbiamo",
+            "You (plural)": "avete",
+            "They (plural)": "hanno"
+        },
+        "faire": {
+            "I": "faccio",
+            "You (singular)": "fai",
+            "He/She": "fa",
+            "We": "facciamo",
+            "You (plural)": "fate",
+            "They (plural)": "fanno"
+        },
+        "aller": {
+            "I": "vado",
+            "You (singular)": "vai",
+            "He/She": "va",
+            "We": "andiamo",
+            "You (plural)": "andate",
+            "They (plural)": "vanno"
+        },
+        "aimer": {
+            "I": "amo",
+            "You (singular)": "ami",
+            "He/She": "ama",
+            "We": "amiamo",
+            "You (plural)": "amate",
+            "They (plural)": "amano"
+        },
+        "choisir": {
+            "I": "credo",
+            "You (singular)": "credi",
+            "He/She": "crede",
+            "We": "crediamo",
+            "You (plural)": "credete",
+            "They (plural)": "credono"
+        },
+        "attendre": {
+            "I": "servo",
+            "You (singular)": "servi",
+            "He/She": "serve",
+            "We": "serviamo",
+            "You (plural)": "servite",
+            "They (plural)": "servono"
+        }
+    }
+}

@@ -1,5 +1,5 @@
 {
-  "indicativo presente": {
+  "present (presente)": {
     "essere": {
       "I": "sono",
       "You (singular)": "sei",
@@ -73,7 +73,7 @@
       "They (plural)": "finiscono"
     }
   },
-  "passato prossimo": {
+  "perfect (passato prossimo)": {
     "essere": {
       "I": "sono stato",
       "You (singular)": "sei stato",
@@ -147,7 +147,7 @@
       "They (plural)": "hanno finito"
     }
   },
-  "indicativo imperfetto": {
+  "imperfect (imperfetto)": {
     "essere": {
       "I": "ero",
       "You (singular)": "eri",
@@ -221,7 +221,7 @@
       "They (plural)": "finivano"
     }
   },
-  "passato remoto": {
+  "preterite (passato remoto)": {
     "essere": {
       "I": "fui",
       "You (singular)": "fosti",
@@ -295,7 +295,7 @@
       "They (plural)": "finirono"
     }
   },
-  "futuro semplice": {
+  "future (futuro semplice)": {
     "essere": {
       "I": "sarò",
       "You (singular)": "sarai",
@@ -369,7 +369,7 @@
       "They (plural)": "finiranno"
     }
   },
-  "condizionale presente": {
+  "conditional (condizionale presente)": {
     "essere": {
       "I": "sarei",
       "You (singular)": "saresti",
@@ -443,7 +443,7 @@
       "They (plural)": "finirebbero"
     }
   },
-  "congiuntivo presente": {
+  "present subjunctive (congiuntivo presente)": {
     "essere": {
       "I": "sia",
       "You (singular)": "sia",
@@ -517,7 +517,7 @@
       "They (plural)": "finiscano"
     }
   },
-  "congiuntivo imperfetto": {
+  "imperfect subjunctive (congiuntivo imperfetto)": {
     "essere": {
       "I": "fossi",
       "You (singular)": "fossi",

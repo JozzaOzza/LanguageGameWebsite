@@ -395,7 +395,7 @@
         "They (plural)": "servono"
       }
     },
-    "presente conjuntivo/subjuntivo": {
+    "presente conjuntivo": {
       "ser": {
         "I": "seja",
         "You (singular)": "sejas",
@@ -461,7 +461,7 @@
         "They (plural)": "servono"
       }
     },
-    "pretérito imperfeito conjuntivo/subjuntivo": {
+    "pretérito imperfeito conjuntivo": {
       "ser": {
         "I": "fosse",
         "You (singular)": "fosses",
