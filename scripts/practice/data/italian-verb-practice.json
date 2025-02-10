@@ -40,6 +40,14 @@
       "You (plural)": "andate",
       "They (plural)": "vanno"
     },
+    "potere": {
+      "I": "posso",
+      "You (singular)": "puoi",
+      "He/She": "può",
+      "We": "possiamo",
+      "You (plural)": "potete",
+      "They (plural)": "possono"
+    },
     "amare": {
       "I": "amo",
       "You (singular)": "ami",
@@ -113,6 +121,14 @@
       "We": "siamo andati",
       "You (plural)": "siete andati",
       "They (plural)": "sono andati"
+    },
+    "potere": {
+      "I": "ho potuto",
+      "You (singular)": "hai potuto",
+      "He/She": "ha potuto",
+      "We": "abbiamo potuto",
+      "You (plural)": "avete potuto",
+      "They (plural)": "hanno potuto"
     },
     "amare": {
       "I": "ho amato",
@@ -188,6 +204,14 @@
       "You (plural)": "andavate",
       "They (plural)": "andavano"
     },
+    "potere": {
+      "I": "potevo",
+      "You (singular)": "potevi",
+      "He/She": "poteva",
+      "We": "potevamo",
+      "You (plural)": "potevate",
+      "They (plural)": "potevano"
+    },
     "amare": {
       "I": "amavo",
       "You (singular)": "amavi",
@@ -261,6 +285,14 @@
       "We": "andammo",
       "You (plural)": "andaste",
       "They (plural)": "andarono"
+    },
+    "potere": {
+      "I": "potei",
+      "You (singular)": "potesti",
+      "He/She": "poté",
+      "We": "potemmo",
+      "You (plural)": "poteste",
+      "They (plural)": "poterono"
     },
     "amare": {
       "I": "amai",
@@ -336,6 +368,14 @@
       "You (plural)": "andrete",
       "They (plural)": "andranno"
     },
+    "potere": {
+      "I": "potrò",
+      "You (singular)": "potrai",
+      "He/She": "potrà",
+      "We": "potremo",
+      "You (plural)": "potrete",
+      "They (plural)": "potranno"
+    },
     "amare": {
       "I": "amerò",
       "You (singular)": "amerai",
@@ -409,6 +449,14 @@
       "We": "andremmo",
       "You (plural)": "andreste",
       "They (plural)": "andrebbero"
+    },
+    "potere": {
+      "I": "potrei",
+      "You (singular)": "potresti",
+      "He/She": "potrebbe",
+      "We": "potremmo",
+      "You (plural)": "potreste",
+      "They (plural)": "potrebbero"
     },
     "amare": {
       "I": "amerei",
@@ -484,6 +532,14 @@
       "You (plural)": "andiate",
       "They (plural)": "vadano"
     },
+    "potere": {
+      "I": "possa",
+      "You (singular)": "possa",
+      "He/She": "possa",
+      "We": "possiamo",
+      "You (plural)": "possiate",
+      "They (plural)": "possano"
+    },
     "amare": {
       "I": "ami",
       "You (singular)": "ami",
@@ -557,6 +613,14 @@
       "We": "andassimo",
       "You (plural)": "andaste",
       "They (plural)": "andassero"
+    },
+    "potere": {
+      "I": "potessi",
+      "You (singular)": "potessi",
+      "He/She": "potesse",
+      "We": "potessimo",
+      "You (plural)": "poteste",
+      "They (plural)": "potessero"
     },
     "amare": {
       "I": "amassi",

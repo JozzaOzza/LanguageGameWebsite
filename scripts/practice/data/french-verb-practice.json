@@ -32,6 +32,14 @@
             "You (plural)": "andate",
             "They (plural)": "vanno"
         },
+        "pouvoir": {
+            "I": "vado",
+            "You (singular)": "vai",
+            "He/She": "va",
+            "We": "andiamo",
+            "You (plural)": "andate",
+            "They (plural)": "vanno"
+        },
         "aimer": {
             "I": "amo",
             "You (singular)": "ami",
@@ -83,6 +91,14 @@
             "They (plural)": "fanno"
         },
         "aller": {
+            "I": "vado",
+            "You (singular)": "vai",
+            "He/She": "va",
+            "We": "andiamo",
+            "You (plural)": "andate",
+            "They (plural)": "vanno"
+        },
+        "pouvoir": {
             "I": "vado",
             "You (singular)": "vai",
             "He/She": "va",
@@ -148,6 +164,14 @@
             "You (plural)": "andate",
             "They (plural)": "vanno"
         },
+        "pouvoir": {
+            "I": "vado",
+            "You (singular)": "vai",
+            "He/She": "va",
+            "We": "andiamo",
+            "You (plural)": "andate",
+            "They (plural)": "vanno"
+        },
         "aimer": {
             "I": "amo",
             "You (singular)": "ami",
@@ -199,6 +223,14 @@
             "They (plural)": "fanno"
         },
         "aller": {
+            "I": "vado",
+            "You (singular)": "vai",
+            "He/She": "va",
+            "We": "andiamo",
+            "You (plural)": "andate",
+            "They (plural)": "vanno"
+        },
+        "pouvoir": {
             "I": "vado",
             "You (singular)": "vai",
             "He/She": "va",
@@ -264,6 +296,14 @@
             "You (plural)": "andate",
             "They (plural)": "vanno"
         },
+        "pouvoir": {
+            "I": "vado",
+            "You (singular)": "vai",
+            "He/She": "va",
+            "We": "andiamo",
+            "You (plural)": "andate",
+            "They (plural)": "vanno"
+        },
         "aimer": {
             "I": "amo",
             "You (singular)": "ami",
@@ -315,6 +355,14 @@
             "They (plural)": "fanno"
         },
         "aller": {
+            "I": "vado",
+            "You (singular)": "vai",
+            "He/She": "va",
+            "We": "andiamo",
+            "You (plural)": "andate",
+            "They (plural)": "vanno"
+        },
+        "pouvoir": {
             "I": "vado",
             "You (singular)": "vai",
             "He/She": "va",
@@ -380,6 +428,14 @@
             "You (plural)": "andate",
             "They (plural)": "vanno"
         },
+        "pouvoir": {
+            "I": "vado",
+            "You (singular)": "vai",
+            "He/She": "va",
+            "We": "andiamo",
+            "You (plural)": "andate",
+            "They (plural)": "vanno"
+        },
         "aimer": {
             "I": "amo",
             "You (singular)": "ami",
@@ -431,6 +487,14 @@
             "They (plural)": "fanno"
         },
         "aller": {
+            "I": "vado",
+            "You (singular)": "vai",
+            "He/She": "va",
+            "We": "andiamo",
+            "You (plural)": "andate",
+            "They (plural)": "vanno"
+        },
+        "pouvoir": {
             "I": "vado",
             "You (singular)": "vai",
             "He/She": "va",

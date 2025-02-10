@@ -36,9 +36,17 @@
       "I": "vou",
       "You (singular)": "vais",
       "He/She": "vai",
-      "We": "vamos",
+      "We": "vamos, vimos",
       "You (plural)": "ides",
       "They (plural)": "vão"
+    },
+    "poder": {
+      "I": "posso",
+      "You (singular)": "podes",
+      "He/She": "pode",
+      "We": "podemos",
+      "You (plural)": "podeis",
+      "They (plural)": "podem"
     },
     "falar": {
       "I": "falo",
@@ -99,36 +107,44 @@
       "They (plural)": "têm feito"
     },
     "ir": {
-      "I": "vado",
-      "You (singular)": "vai",
-      "He/She": "va",
-      "We": "andiamo",
-      "You (plural)": "andate",
-      "They (plural)": "vanno"
+      "I": "tenho ido",
+      "You (singular)": "tens ido",
+      "He/She": "tem ido",
+      "We": "temos ido",
+      "You (plural)": "tendes ido",
+      "They (plural)": "têm ido"
+    },
+    "poder": {
+      "I": "tenho podido",
+      "You (singular)": "tens podido",
+      "He/She": "tem podido",
+      "We": "temos podido",
+      "You (plural)": "tendes podido",
+      "They (plural)": "têm podido"
     },
     "falar": {
-      "I": "amo",
-      "You (singular)": "ami",
-      "He/She": "ama",
-      "We": "amiamo",
-      "You (plural)": "amate",
-      "They (plural)": "amano"
+      "I": "tenho falado",
+      "You (singular)": "tens falado",
+      "He/She": "tem falado",
+      "We": "temos falado",
+      "You (plural)": "tendes falado",
+      "They (plural)": "têm falado"
     },
     "comer": {
-      "I": "credo",
-      "You (singular)": "credi",
-      "He/She": "crede",
-      "We": "crediamo",
-      "You (plural)": "credete",
-      "They (plural)": "credono"
+      "I": "tenho comido",
+      "You (singular)": "tens comido",
+      "He/She": "tem comido",
+      "We": "temos comido",
+      "You (plural)": "tendes comido",
+      "They (plural)": "têm comido"
     },
     "abrir": {
-      "I": "servo",
-      "You (singular)": "servi",
-      "He/She": "serve",
-      "We": "serviamo",
-      "You (plural)": "servite",
-      "They (plural)": "servono"
+      "I": "tenho aberto",
+      "You (singular)": "tens aberto",
+      "He/She": "tem aberto",
+      "We": "temos aberto",
+      "You (plural)": "tendes aberto",
+      "They (plural)": "têm aberto"
     }
   },
   "imperfect (pretérito imperfeito)": {
@@ -165,36 +181,44 @@
       "They (plural)": "faziam"
     },
     "ir": {
-      "I": "vado",
-      "You (singular)": "vai",
-      "He/She": "va",
-      "We": "andiamo",
-      "You (plural)": "andate",
-      "They (plural)": "vanno"
+      "I": "ia",
+      "You (singular)": "ias",
+      "He/She": "ia",
+      "We": "íamos",
+      "You (plural)": "íeis",
+      "They (plural)": "iam"
+    },
+    "poder": {
+      "I": "podia",
+      "You (singular)": "podias",
+      "He/She": "podia",
+      "We": "podíamos",
+      "You (plural)": "podíeis",
+      "They (plural)": "podiam"
     },
     "falar": {
-      "I": "amo",
-      "You (singular)": "ami",
-      "He/She": "ama",
-      "We": "amiamo",
-      "You (plural)": "amate",
-      "They (plural)": "amano"
+      "I": "falava",
+      "You (singular)": "falavas",
+      "He/She": "falava",
+      "We": "falávamos",
+      "You (plural)": "faláveis",
+      "They (plural)": "falavam"
     },
     "comer": {
-      "I": "credo",
-      "You (singular)": "credi",
-      "He/She": "crede",
-      "We": "crediamo",
-      "You (plural)": "credete",
-      "They (plural)": "credono"
+      "I": "comia",
+      "You (singular)": "comias",
+      "He/She": "comia",
+      "We": "comíamos",
+      "You (plural)": "comíeis",
+      "They (plural)": "comiam"
     },
     "abrir": {
-      "I": "servo",
-      "You (singular)": "servi",
-      "He/She": "serve",
-      "We": "serviamo",
-      "You (plural)": "servite",
-      "They (plural)": "servono"
+      "I": "abria",
+      "You (singular)": "abrias",
+      "He/She": "abria",
+      "We": "abríamos",
+      "You (plural)": "abríeis",
+      "They (plural)": "abriam"
     }
   },
   "preterite (pretérito perfeito)": {
@@ -237,6 +261,14 @@
       "We": "fomos",
       "You (plural)": "fostes",
       "They (plural)": "foram"
+    },
+    "poder": {
+      "I": "pude",
+      "You (singular)": "pudeste",
+      "He/She": "pôde",
+      "We": "pudemos",
+      "You (plural)": "pudestes",
+      "They (plural)": "puderam"
     },
     "falar": {
       "I": "falei",
@@ -297,36 +329,44 @@
       "They (plural)": "farão"
     },
     "ir": {
-      "I": "vado",
-      "You (singular)": "vai",
-      "He/She": "va",
-      "We": "andiamo",
-      "You (plural)": "andate",
-      "They (plural)": "vanno"
+      "I": "irei",
+      "You (singular)": "irás",
+      "He/She": "irá",
+      "We": "iremos",
+      "You (plural)": "ireis",
+      "They (plural)": "irão"
+    },
+    "poder": {
+      "I": "poderei",
+      "You (singular)": "poderás",
+      "He/She": "poderá",
+      "We": "poderemos",
+      "You (plural)": "podereis",
+      "They (plural)": "poderão"
     },
     "falar": {
-      "I": "amo",
-      "You (singular)": "ami",
-      "He/She": "ama",
-      "We": "amiamo",
-      "You (plural)": "amate",
-      "They (plural)": "amano"
+      "I": "falarei",
+      "You (singular)": "falarás",
+      "He/She": "falará",
+      "We": "falaremos",
+      "You (plural)": "falareis",
+      "They (plural)": "falarão"
     },
     "comer": {
-      "I": "credo",
-      "You (singular)": "credi",
-      "He/She": "crede",
-      "We": "crediamo",
-      "You (plural)": "credete",
-      "They (plural)": "credono"
+      "I": "comerei",
+      "You (singular)": "comerás",
+      "He/She": "comerá",
+      "We": "comeremos",
+      "You (plural)": "comereis",
+      "They (plural)": "comerão"
     },
     "abrir": {
-      "I": "servo",
-      "You (singular)": "servi",
-      "He/She": "serve",
-      "We": "serviamo",
-      "You (plural)": "servite",
-      "They (plural)": "servono"
+      "I": "abrirei",
+      "You (singular)": "abrirás",
+      "He/She": "abrirá",
+      "We": "abriremos",
+      "You (plural)": "abrireis",
+      "They (plural)": "abrirão"
     }
   },
   "conditional (condicional simples)": {
@@ -363,36 +403,44 @@
       "They (plural)": "fariam"
     },
     "ir": {
-      "I": "vado",
-      "You (singular)": "vai",
-      "He/She": "va",
-      "We": "andiamo",
-      "You (plural)": "andate",
-      "They (plural)": "vanno"
+      "I": "iria",
+      "You (singular)": "irias",
+      "He/She": "iria",
+      "We": "iríamos",
+      "You (plural)": "iríeis",
+      "They (plural)": "iriam"
+    },
+    "poder": {
+      "I": "poderia",
+      "You (singular)": "poderias",
+      "He/She": "poderia",
+      "We": "poderíamos",
+      "You (plural)": "poderíeis",
+      "They (plural)": "poderiam"
     },
     "falar": {
-      "I": "amo",
-      "You (singular)": "ami",
-      "He/She": "ama",
-      "We": "amiamo",
-      "You (plural)": "amate",
-      "They (plural)": "amano"
+      "I": "falaria",
+      "You (singular)": "falarias",
+      "He/She": "falaria",
+      "We": "falaríamos",
+      "You (plural)": "falaríeis",
+      "They (plural)": "falariam"
     },
     "comer": {
-      "I": "credo",
-      "You (singular)": "credi",
-      "He/She": "crede",
-      "We": "crediamo",
-      "You (plural)": "credete",
-      "They (plural)": "credono"
+      "I": "comeria",
+      "You (singular)": "comerias",
+      "He/She": "comeria",
+      "We": "comeríamos",
+      "You (plural)": "comeríeis",
+      "They (plural)": "comeriam"
     },
     "abrir": {
-      "I": "servo",
-      "You (singular)": "servi",
-      "He/She": "serve",
-      "We": "serviamo",
-      "You (plural)": "servite",
-      "They (plural)": "servono"
+      "I": "abriria",
+      "You (singular)": "abririas",
+      "He/She": "abriria",
+      "We": "abriríamos",
+      "You (plural)": "abriríeis",
+      "They (plural)": "abririam"
     }
   },
   "subjunctive present (presente conjuntivo)": {
@@ -429,36 +477,44 @@
       "They (plural)": "façam"
     },
     "ir": {
-      "I": "vado",
-      "You (singular)": "vai",
-      "He/She": "va",
-      "We": "andiamo",
-      "You (plural)": "andate",
-      "They (plural)": "vanno"
+      "I": "vá",
+      "You (singular)": "vás",
+      "He/She": "vá",
+      "We": "vamos",
+      "You (plural)": "vades",
+      "They (plural)": "vão"
+    },
+    "poder": {
+      "I": "possa",
+      "You (singular)": "possas",
+      "He/She": "possa",
+      "We": "possamos",
+      "You (plural)": "possais",
+      "They (plural)": "possam"
     },
     "falar": {
-      "I": "amo",
-      "You (singular)": "ami",
-      "He/She": "ama",
-      "We": "amiamo",
-      "You (plural)": "amate",
-      "They (plural)": "amano"
+      "I": "fale",
+      "You (singular)": "fales",
+      "He/She": "fale",
+      "We": "falemos",
+      "You (plural)": "faleis",
+      "They (plural)": "falem"
     },
     "comer": {
-      "I": "credo",
-      "You (singular)": "credi",
-      "He/She": "crede",
-      "We": "crediamo",
-      "You (plural)": "credete",
-      "They (plural)": "credono"
+      "I": "coma",
+      "You (singular)": "comas",
+      "He/She": "coma",
+      "We": "comamos",
+      "You (plural)": "comais",
+      "They (plural)": "comam"
     },
     "abrir": {
-      "I": "servo",
-      "You (singular)": "servi",
-      "He/She": "serve",
-      "We": "serviamo",
-      "You (plural)": "servite",
-      "They (plural)": "servono"
+      "I": "abra",
+      "You (singular)": "abras",
+      "He/She": "abra",
+      "We": "abramos",
+      "You (plural)": "abrais",
+      "They (plural)": "abram"
     }
   },
   "subjunctive imperfect (pretérito imperfeito conjuntivo)": {
@@ -495,36 +551,44 @@
       "They (plural)": "fizessem"
     },
     "ir": {
-      "I": "vado",
-      "You (singular)": "vai",
-      "He/She": "va",
-      "We": "andiamo",
-      "You (plural)": "andate",
-      "They (plural)": "vanno"
+      "I": "fosse",
+      "You (singular)": "fosses",
+      "He/She": "fosse",
+      "We": "fôssemos",
+      "You (plural)": "fôsseis",
+      "They (plural)": "fossem"
+    },
+    "poder": {
+      "I": "pudesse",
+      "You (singular)": "pudesses",
+      "He/She": "pudesse",
+      "We": "pudéssemos",
+      "You (plural)": "pudésseis",
+      "They (plural)": "pudessem"
     },
     "falar": {
-      "I": "amo",
-      "You (singular)": "ami",
-      "He/She": "ama",
-      "We": "amiamo",
-      "You (plural)": "amate",
-      "They (plural)": "amano"
+      "I": "falasse",
+      "You (singular)": "falasses",
+      "He/She": "falasse",
+      "We": "falássemos",
+      "You (plural)": "falásseis",
+      "They (plural)": "falassem"
     },
     "comer": {
-      "I": "credo",
-      "You (singular)": "credi",
-      "He/She": "crede",
-      "We": "crediamo",
-      "You (plural)": "credete",
-      "They (plural)": "credono"
+      "I": "comesse",
+      "You (singular)": "comesses",
+      "He/She": "comesse",
+      "We": "comêssemos",
+      "You (plural)": "comêsseis",
+      "They (plural)": "comessem"
     },
     "abrir": {
-      "I": "servo",
-      "You (singular)": "servi",
-      "He/She": "serve",
-      "We": "serviamo",
-      "You (plural)": "servite",
-      "They (plural)": "servono"
+      "I": "abrisse",
+      "You (singular)": "abrisses",
+      "He/She": "abrisse",
+      "We": "abríssemos",
+      "You (plural)": "abrísseis",
+      "They (plural)": "abrissem"
     }
   }
 }

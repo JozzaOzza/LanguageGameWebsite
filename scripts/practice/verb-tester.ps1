@@ -1,8 +1,11 @@
 using namespace System.Collections.Generic
 
-# & ".\regular-verb-tester.ps1"
+# Tense chosen by user: & ".\verb-tester.ps1"
+# Tense randomly chosen: & ".\verb-tester.ps1" -RandomTense
 [CmdletBinding()]
-param ()  
+param (
+    [switch]$RandomTense
+)  
 process {
     # Set path to target files
     $dataPath = ".\data"
@@ -25,18 +28,28 @@ process {
     
     # Get tenses
     $tensesList = $destinationJson.Keys
-    $tensesIterator = 1
-    $tensesNumberedList = ""
+    $tensesListLength = $tensesList.Count
     
-    foreach ($tense in $tensesList) {
-        $tensesNumberedList += ("`n({0}) {1}" -f $tensesIterator, $tense)
-        $tensesIterator++
+    # Get random tense
+    if ($RandomTense) {
+        Write-Host ("Number of tenses: {0}" -f $tensesListLength)
+        $randomNumber = Get-Random -Maximum $tensesListLength
+        Write-Host ("Random number: {0}" -f $randomNumber)
+        $tenseObject = $destinationJson[$tensesList[$randomNumber]]
     }
-    
-    # Get chosen tense from user
-    $tenseResponse = Read-Host ("Pick a tense. The options are:{0}`n" -f $tensesNumberedList)
-    $tenseResponseNumber = ([int]$tenseResponse) - 1
-    $tenseObject = $destinationJson[$tensesList[$tenseResponseNumber]]
+    # Get tense from user
+    else {
+        $tensesIterator = 1
+        $tensesNumberedList = ""
+        foreach ($tense in $tensesList) {
+            $tensesNumberedList += ("`n({0}) {1}" -f $tensesIterator, $tense)
+            $tensesIterator++
+        }
+        $tenseResponse = Read-Host ("Pick a tense. The options are:{0}`n" -f $tensesNumberedList)
+        $tenseResponseNumber = ([int]$tenseResponse) - 1
+        $tenseObject = $destinationJson[$tensesList[$tenseResponseNumber]]
+    }
+
     $verbsList = $tenseObject.Keys
     $conjugateList = $tenseObject[$verbsList[0]].Keys
 
@@ -77,7 +90,8 @@ process {
         # Check response against correct answer, and generate output
         if ($currentResponse.Trim().ToLower() -in ($currentConjugationAnswer.Split(", "))) {
             $currentOutput, $currentOutputColour, $correctAnswers = ("Correct - {0}" -f $currentConjugationAnswer), "green", ($correctAnswers + 1)
-        } else {
+        }
+        else {
             $currentOutput, $currentOutputColour = ("Wrong - {0}" -f $currentConjugationAnswer), "red"
         }
 
