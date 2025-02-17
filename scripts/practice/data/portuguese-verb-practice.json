@@ -64,13 +64,13 @@
       "You (plural)": "comeis",
       "They (plural)": "comem"
     },
-    "abrir": {
-      "I": "abro",
-      "You (singular)": "abres",
-      "He/She": "abre",
-      "We": "abrimos",
-      "You (plural)": "abris",
-      "They (plural)": "abrem"
+    "partir": {
+      "I": "parto",
+      "You (singular)": "partes",
+      "He/She": "parte",
+      "We": "partimos",
+      "You (plural)": "partis",
+      "They (plural)": "partem"
     }
   },
   "perfect (pretérito perfeito composto)": {
@@ -138,13 +138,13 @@
       "You (plural)": "tendes comido",
       "They (plural)": "têm comido"
     },
-    "abrir": {
-      "I": "tenho aberto",
-      "You (singular)": "tens aberto",
-      "He/She": "tem aberto",
-      "We": "temos aberto",
-      "You (plural)": "tendes aberto",
-      "They (plural)": "têm aberto"
+    "partir": {
+      "I": "tenho partido",
+      "You (singular)": "tens partido",
+      "He/She": "tem partido",
+      "We": "temos partido",
+      "You (plural)": "tendes partido",
+      "They (plural)": "têm partido"
     }
   },
   "imperfect (pretérito imperfeito)": {
@@ -212,13 +212,13 @@
       "You (plural)": "comíeis",
       "They (plural)": "comiam"
     },
-    "abrir": {
-      "I": "abria",
-      "You (singular)": "abrias",
-      "He/She": "abria",
-      "We": "abríamos",
-      "You (plural)": "abríeis",
-      "They (plural)": "abriam"
+    "partir": {
+      "I": "partia",
+      "You (singular)": "partias",
+      "He/She": "partia",
+      "We": "partíamos",
+      "You (plural)": "partíeis",
+      "They (plural)": "partiam"
     }
   },
   "preterite (pretérito perfeito)": {
@@ -286,13 +286,13 @@
       "You (plural)": "comestes",
       "They (plural)": "comeram"
     },
-    "abrir": {
-      "I": "abri",
-      "You (singular)": "abriste",
-      "He/She": "abriu",
-      "We": "abrimos",
-      "You (plural)": "abristes",
-      "They (plural)": "abriram"
+    "partir": {
+      "I": "parti",
+      "You (singular)": "partiste",
+      "He/She": "partiu",
+      "We": "partimos",
+      "You (plural)": "partistes",
+      "They (plural)": "partiram"
     }
   },
   "future (futuro simples)": {
@@ -360,13 +360,13 @@
       "You (plural)": "comereis",
       "They (plural)": "comerão"
     },
-    "abrir": {
-      "I": "abrirei",
-      "You (singular)": "abrirás",
-      "He/She": "abrirá",
-      "We": "abriremos",
-      "You (plural)": "abrireis",
-      "They (plural)": "abrirão"
+    "partir": {
+      "I": "partirei",
+      "You (singular)": "partirás",
+      "He/She": "partirá",
+      "We": "partiremos",
+      "You (plural)": "partireis",
+      "They (plural)": "partirão"
     }
   },
   "conditional (condicional simples)": {
@@ -434,13 +434,13 @@
       "You (plural)": "comeríeis",
       "They (plural)": "comeriam"
     },
-    "abrir": {
-      "I": "abriria",
-      "You (singular)": "abririas",
-      "He/She": "abriria",
-      "We": "abriríamos",
-      "You (plural)": "abriríeis",
-      "They (plural)": "abririam"
+    "partir": {
+      "I": "partiria",
+      "You (singular)": "partirias",
+      "He/She": "partiria",
+      "We": "partiríamos",
+      "You (plural)": "partiríeis",
+      "They (plural)": "partiriam"
     }
   },
   "subjunctive present (presente conjuntivo)": {
@@ -508,13 +508,13 @@
       "You (plural)": "comais",
       "They (plural)": "comam"
     },
-    "abrir": {
-      "I": "abra",
-      "You (singular)": "abras",
-      "He/She": "abra",
-      "We": "abramos",
-      "You (plural)": "abrais",
-      "They (plural)": "abram"
+    "partir": {
+      "I": "parta",
+      "You (singular)": "partas",
+      "He/She": "parta",
+      "We": "partamos",
+      "You (plural)": "partais",
+      "They (plural)": "partam"
     }
   },
   "subjunctive imperfect (pretérito imperfeito conjuntivo)": {
@@ -582,13 +582,13 @@
       "You (plural)": "comêsseis",
       "They (plural)": "comessem"
     },
-    "abrir": {
-      "I": "abrisse",
-      "You (singular)": "abrisses",
-      "He/She": "abrisse",
-      "We": "abríssemos",
-      "You (plural)": "abrísseis",
-      "They (plural)": "abrissem"
+    "partir": {
+      "I": "partisse",
+      "You (singular)": "partisses",
+      "He/She": "partisse",
+      "We": "partíssemos",
+      "You (plural)": "partísseis",
+      "They (plural)": "partissem"
     }
   }
 }

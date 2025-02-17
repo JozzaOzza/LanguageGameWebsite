@@ -1,20 +1,20 @@
 {
     "present (présent)": {
         "être": {
-            "I": "sono",
-            "You (singular)": "sei",
-            "He/She": "è",
-            "We": "siamo",
-            "You (plural)": "siete",
-            "They (plural)": "sono"
+            "I": "je suis",
+            "You (singular)": "tu es",
+            "He/She": "il est",
+            "We": "nous sommes",
+            "You (plural)": "vous êtes",
+            "They (plural)": "ils sont"
         },
         "avoir": {
-            "I": "ho",
-            "You (singular)": "hai",
-            "He/She": "ha",
-            "We": "abbiamo",
-            "You (plural)": "avete",
-            "They (plural)": "hanno"
+            "I": "j'ai",
+            "You (singular)": "tu as",
+            "He/She": "il a",
+            "We": "nous avons",
+            "You (plural)": "vous avez",
+            "They (plural)": "ils ont"
         },
         "faire": {
             "I": "faccio",
@@ -67,20 +67,20 @@
     },
     "perfect (passé composé)": {
         "être": {
-            "I": "sono",
-            "You (singular)": "sei",
-            "He/She": "è",
-            "We": "siamo",
-            "You (plural)": "siete",
-            "They (plural)": "sono"
+            "I": "j'ai été",
+            "You (singular)": "tu as été",
+            "He/She": "il a été",
+            "We": "nous avons été",
+            "You (plural)": "vous avez été",
+            "They (plural)": "ils ont été"
         },
         "avoir": {
-            "I": "ho",
-            "You (singular)": "hai",
-            "He/She": "ha",
-            "We": "abbiamo",
-            "You (plural)": "avete",
-            "They (plural)": "hanno"
+            "I": "j'ai eu",
+            "You (singular)": "tu as eu",
+            "He/She": "il a eu",
+            "We": "nous avons eu",
+            "You (plural)": "vous avez eu",
+            "They (plural)": "ils ont eu"
         },
         "faire": {
             "I": "faccio",
@@ -133,20 +133,20 @@
     },
     "imperfect (imparfait)": {
         "être": {
-            "I": "sono",
-            "You (singular)": "sei",
-            "He/She": "è",
-            "We": "siamo",
-            "You (plural)": "siete",
-            "They (plural)": "sono"
+            "I": "j'étais",
+            "You (singular)": "tu étais",
+            "He/She": "il était",
+            "We": "nous étions",
+            "You (plural)": "vous étiez",
+            "They (plural)": "ils étaient"
         },
         "avoir": {
-            "I": "ho",
-            "You (singular)": "hai",
-            "He/She": "ha",
-            "We": "abbiamo",
-            "You (plural)": "avete",
-            "They (plural)": "hanno"
+            "I": "j'avais",
+            "You (singular)": "tu avais",
+            "He/She": "il avait",
+            "We": "nous avions",
+            "You (plural)": "vous aviez",
+            "They (plural)": "ils avaient"
         },
         "faire": {
             "I": "faccio",
@@ -199,20 +199,20 @@
     },
     "preterite (passé simple)": {
         "être": {
-            "I": "sono",
-            "You (singular)": "sei",
-            "He/She": "è",
-            "We": "siamo",
-            "You (plural)": "siete",
-            "They (plural)": "sono"
+            "I": "je fus",
+            "You (singular)": "tu fus",
+            "He/She": "il fut",
+            "We": "nous fûmes",
+            "You (plural)": "vous fûtes",
+            "They (plural)": "ils furent"
         },
         "avoir": {
-            "I": "ho",
-            "You (singular)": "hai",
-            "He/She": "ha",
-            "We": "abbiamo",
-            "You (plural)": "avete",
-            "They (plural)": "hanno"
+            "I": "j'eus",
+            "You (singular)": "tu eus",
+            "He/She": "il eut",
+            "We": "nous eûmes",
+            "You (plural)": "vous eûtes",
+            "They (plural)": "ils eurent"
         },
         "faire": {
             "I": "faccio",
@@ -265,20 +265,20 @@
     },
     "future (futur simple)": {
         "être": {
-            "I": "sono",
-            "You (singular)": "sei",
-            "He/She": "è",
-            "We": "siamo",
-            "You (plural)": "siete",
-            "They (plural)": "sono"
+            "I": "je serai",
+            "You (singular)": "tu seras",
+            "He/She": "il sera",
+            "We": "nous serons",
+            "You (plural)": "vous serez",
+            "They (plural)": "ils seront"
         },
         "avoir": {
-            "I": "ho",
-            "You (singular)": "hai",
-            "He/She": "ha",
-            "We": "abbiamo",
-            "You (plural)": "avete",
-            "They (plural)": "hanno"
+            "I": "j'aurai",
+            "You (singular)": "tu auras",
+            "He/She": "il aura",
+            "We": "nous aurons",
+            "You (plural)": "vous aurez",
+            "They (plural)": "ils auront"
         },
         "faire": {
             "I": "faccio",
@@ -331,20 +331,20 @@
     },
     "conditional (conditionnel présent)": {
         "être": {
-            "I": "sono",
-            "You (singular)": "sei",
-            "He/She": "è",
-            "We": "siamo",
-            "You (plural)": "siete",
-            "They (plural)": "sono"
+            "I": "je serais",
+            "You (singular)": "tu serais",
+            "He/She": "il serait",
+            "We": "nous serions",
+            "You (plural)": "vous seriez",
+            "They (plural)": "ils seraient"
         },
         "avoir": {
-            "I": "ho",
-            "You (singular)": "hai",
-            "He/She": "ha",
-            "We": "abbiamo",
-            "You (plural)": "avete",
-            "They (plural)": "hanno"
+            "I": "j'aurais",
+            "You (singular)": "tu aurais",
+            "He/She": "il aurait",
+            "We": "nous aurions",
+            "You (plural)": "vous auriez",
+            "They (plural)": "ils auraient"
         },
         "faire": {
             "I": "faccio",
@@ -397,20 +397,20 @@
     },
     "subjunctive present (subjonctif présent)": {
         "être": {
-            "I": "sono",
-            "You (singular)": "sei",
-            "He/She": "è",
-            "We": "siamo",
-            "You (plural)": "siete",
-            "They (plural)": "sono"
+            "I": "je sois",
+            "You (singular)": "tu sois",
+            "He/She": "il soit",
+            "We": "nous soyons",
+            "You (plural)": "vous soyez",
+            "They (plural)": "ils soient"
         },
         "avoir": {
-            "I": "ho",
-            "You (singular)": "hai",
-            "He/She": "ha",
-            "We": "abbiamo",
-            "You (plural)": "avete",
-            "They (plural)": "hanno"
+            "I": "j'aie",
+            "You (singular)": "tu aies",
+            "He/She": "il ait",
+            "We": "nous ayons",
+            "You (plural)": "vous ayez",
+            "They (plural)": "ils aient"
         },
         "faire": {
             "I": "faccio",
@@ -463,20 +463,20 @@
     },
     "subjunctive imperfect (subjonctif imparfait)": {
         "être": {
-            "I": "sono",
-            "You (singular)": "sei",
-            "He/She": "è",
-            "We": "siamo",
-            "You (plural)": "siete",
-            "They (plural)": "sono"
+            "I": "je fusse",
+            "You (singular)": "tu fusses",
+            "He/She": "il fût",
+            "We": "nous fussions",
+            "You (plural)": "vous fussiez",
+            "They (plural)": "ils fussent"
         },
         "avoir": {
-            "I": "ho",
-            "You (singular)": "hai",
-            "He/She": "ha",
-            "We": "abbiamo",
-            "You (plural)": "avete",
-            "They (plural)": "hanno"
+            "I": "j'eusse",
+            "You (singular)": "tu eusses",
+            "He/She": "il eût",
+            "We": "nous eussions",
+            "You (plural)": "vous eussiez",
+            "They (plural)": "ils eussent"
         },
         "faire": {
             "I": "faccio",
