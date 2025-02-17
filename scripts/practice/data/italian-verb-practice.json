@@ -48,13 +48,13 @@
       "You (plural)": "potete",
       "They (plural)": "possono"
     },
-    "amare": {
-      "I": "amo",
-      "You (singular)": "ami",
-      "He/She": "ama",
-      "We": "amiamo",
-      "You (plural)": "amate",
-      "They (plural)": "amano"
+    "parlare": {
+      "I": "parlo",
+      "You (singular)": "parli",
+      "He/She": "parla",
+      "We": "parliamo",
+      "You (plural)": "parlate",
+      "They (plural)": "parlano"
     },
     "credere": {
       "I": "credo",
@@ -130,13 +130,13 @@
       "You (plural)": "avete potuto",
       "They (plural)": "hanno potuto"
     },
-    "amare": {
-      "I": "ho amato",
-      "You (singular)": "hai amato",
-      "He/She": "ha amato",
-      "We": "abbiamo amato",
-      "You (plural)": "avete amato",
-      "They (plural)": "hanno amato"
+    "parlare": {
+      "I": "ho parlato",
+      "You (singular)": "hai parlato",
+      "He/She": "ha parlato",
+      "We": "abbiamo parlato",
+      "You (plural)": "avete parlato",
+      "They (plural)": "hanno parlato"
     },
     "credere": {
       "I": "ho creduto",
@@ -212,13 +212,13 @@
       "You (plural)": "potevate",
       "They (plural)": "potevano"
     },
-    "amare": {
-      "I": "amavo",
-      "You (singular)": "amavi",
-      "He/She": "amava",
-      "We": "amavamo",
-      "You (plural)": "amavate",
-      "They (plural)": "amavano"
+    "parlare": {
+      "I": "parlavo",
+      "You (singular)": "parlavi",
+      "He/She": "parlava",
+      "We": "parlavamo",
+      "You (plural)": "parlavate",
+      "They (plural)": "parlavano"
     },
     "credere": {
       "I": "credevo",
@@ -294,13 +294,13 @@
       "You (plural)": "poteste",
       "They (plural)": "poterono"
     },
-    "amare": {
-      "I": "amai",
-      "You (singular)": "amasti",
-      "He/She": "amò",
-      "We": "amammo",
-      "You (plural)": "amaste",
-      "They (plural)": "amarono"
+    "parlare": {
+      "I": "parlai",
+      "You (singular)": "parlasti",
+      "He/She": "parlò",
+      "We": "parlammo",
+      "You (plural)": "parlaste",
+      "They (plural)": "parlarono"
     },
     "credere": {
       "I": "credei, credetti",
@@ -376,13 +376,13 @@
       "You (plural)": "potrete",
       "They (plural)": "potranno"
     },
-    "amare": {
-      "I": "amerò",
-      "You (singular)": "amerai",
-      "He/She": "amerà",
-      "We": "ameremo",
-      "You (plural)": "amerete",
-      "They (plural)": "ameranno"
+    "parlare": {
+      "I": "parlerò",
+      "You (singular)": "parlerai",
+      "He/She": "parlerà",
+      "We": "parleremo",
+      "You (plural)": "parlerete",
+      "They (plural)": "parleranno"
     },
     "credere": {
       "I": "crederò",
@@ -458,13 +458,13 @@
       "You (plural)": "potreste",
       "They (plural)": "potrebbero"
     },
-    "amare": {
-      "I": "amerei",
-      "You (singular)": "ameresti",
-      "He/She": "amerebbe",
-      "We": "ameremmo",
-      "You (plural)": "amereste",
-      "They (plural)": "amerebbero"
+    "parlare": {
+      "I": "parlerei",
+      "You (singular)": "parleresti",
+      "He/She": "parlerebbe",
+      "We": "parleremmo",
+      "You (plural)": "parlereste",
+      "They (plural)": "parlerebbero"
     },
     "credere": {
       "I": "crederei",
@@ -540,13 +540,13 @@
       "You (plural)": "possiate",
       "They (plural)": "possano"
     },
-    "amare": {
-      "I": "ami",
-      "You (singular)": "ami",
-      "He/She": "ami",
-      "We": "amiamo",
-      "You (plural)": "amiate",
-      "They (plural)": "amino"
+    "parlare": {
+      "I": "parli",
+      "You (singular)": "parli",
+      "He/She": "parli",
+      "We": "parliamo",
+      "You (plural)": "parliate",
+      "They (plural)": "parlino"
     },
     "credere": {
       "I": "credi",
@@ -622,13 +622,13 @@
       "You (plural)": "poteste",
       "They (plural)": "potessero"
     },
-    "amare": {
-      "I": "amassi",
-      "You (singular)": "amassi",
-      "He/She": "amasse",
-      "We": "amassimo",
-      "You (plural)": "amaste",
-      "They (plural)": "amassero"
+    "parlare": {
+      "I": "parlassi",
+      "You (singular)": "parlassi",
+      "He/She": "parlasse",
+      "We": "parlassimo",
+      "You (plural)": "parlaste",
+      "They (plural)": "parlassero"
     },
     "credere": {
       "I": "credessi",
