@@ -46,7 +46,7 @@
       "He/She": "puede",
       "We": "podemos",
       "You (plural)": "podéis",
-      "They (plural)": "poden"
+      "They (plural)": "pueden"
     },
     "hablar": {
       "I": "hablo",
@@ -73,522 +73,522 @@
       "They (plural)": "parten"
     }
   },
-  "perfect (pretérito perfeito composto)": {
+  "perfect (pretérito perfeito compuesto)": {
     "ser": {
-      "I": "soy",
-      "You (singular)": "eres",
-      "He/She": "es",
-      "We": "somos",
-      "You (plural)": "sois",
-      "They (plural)": "son"
+      "I": "he sido",
+      "You (singular)": "has sido",
+      "He/She": "ha sido",
+      "We": "hemos sido",
+      "You (plural)": "habéis sido",
+      "They (plural)": "han sido"
     },
     "estar": {
-      "I": "estoy",
-      "You (singular)": "estás",
-      "He/She": "está",
-      "We": "estamos",
-      "You (plural)": "estáis",
-      "They (plural)": "están"
+      "I": "he estado",
+      "You (singular)": "has estado",
+      "He/She": "ha estado",
+      "We": "hemos estado",
+      "You (plural)": "habéis estado",
+      "They (plural)": "han estado"
     },
     "tener": {
-      "I": "tengo",
-      "You (singular)": "tienes",
-      "He/She": "tiene",
-      "We": "tenemos",
-      "You (plural)": "tenéis",
-      "They (plural)": "tienen"
+      "I": "he tenido",
+      "You (singular)": "has tenido",
+      "He/She": "ha tenido",
+      "We": "hemos tenido",
+      "You (plural)": "habéis tenido",
+      "They (plural)": "han tenido"
     },
     "hacer": {
-      "I": "hago",
-      "You (singular)": "haces",
-      "He/She": "hace",
-      "We": "hacemos",
-      "You (plural)": "hacéis",
-      "They (plural)": "hacen"
+      "I": "he hecho",
+      "You (singular)": "has hecho",
+      "He/She": "ha hecho",
+      "We": "hemos hecho",
+      "You (plural)": "habéis hecho",
+      "They (plural)": "han hecho"
     },
     "ir": {
-      "I": "voy",
-      "You (singular)": "vas",
-      "He/She": "va",
-      "We": "vamos",
-      "You (plural)": "vais",
-      "They (plural)": "van"
+      "I": "he ido",
+      "You (singular)": "has ido",
+      "He/She": "ha ido",
+      "We": "hemos ido",
+      "You (plural)": "habéis ido",
+      "They (plural)": "han ido"
     },
     "poder": {
-      "I": "puedo",
-      "You (singular)": "puedes",
-      "He/She": "puede",
-      "We": "podemos",
-      "You (plural)": "podéis",
-      "They (plural)": "poden"
+      "I": "he podido",
+      "You (singular)": "has podido",
+      "He/She": "ha podido",
+      "We": "hemos podido",
+      "You (plural)": "habéis podido",
+      "They (plural)": "han podido"
     },
     "hablar": {
-      "I": "hablo",
-      "You (singular)": "hablas",
-      "He/She": "habla",
-      "We": "hablamos",
-      "You (plural)": "habláis",
-      "They (plural)": "hablan"
+      "I": "he hablado",
+      "You (singular)": "has hablado",
+      "He/She": "ha hablado",
+      "We": "hemos hablado",
+      "You (plural)": "habéis hablado",
+      "They (plural)": "han hablado"
     },
     "comer": {
-      "I": "como",
-      "You (singular)": "comes",
-      "He/She": "come",
-      "We": "comemos",
-      "You (plural)": "coméis",
-      "They (plural)": "comen"
+      "I": "he comido",
+      "You (singular)": "has comido",
+      "He/She": "ha comido",
+      "We": "hemos comido",
+      "You (plural)": "habéis comido",
+      "They (plural)": "han comido"
     },
     "partir": {
-      "I": "parto",
-      "You (singular)": "partes",
-      "He/She": "parte",
-      "We": "partimos",
-      "You (plural)": "partís",
-      "They (plural)": "parten"
+      "I": "he partido",
+      "You (singular)": "has partido",
+      "He/She": "ha partido",
+      "We": "hemos partido",
+      "You (plural)": "habéis partido",
+      "They (plural)": "han partido"
     }
   },
-  "imperfect (pretérito imperfeito)": {
+  "imperfect (pretérito imperfecto)": {
     "ser": {
-      "I": "soy",
-      "You (singular)": "eres",
-      "He/She": "es",
-      "We": "somos",
-      "You (plural)": "sois",
-      "They (plural)": "son"
+      "I": "era",
+      "You (singular)": "eras",
+      "He/She": "era",
+      "We": "éramos",
+      "You (plural)": "erais",
+      "They (plural)": "eran"
     },
     "estar": {
-      "I": "estoy",
-      "You (singular)": "estás",
-      "He/She": "está",
-      "We": "estamos",
-      "You (plural)": "estáis",
-      "They (plural)": "están"
+      "I": "estaba",
+      "You (singular)": "estabas",
+      "He/She": "estaba",
+      "We": "estábamos",
+      "You (plural)": "estabais",
+      "They (plural)": "estaban"
     },
     "tener": {
-      "I": "tengo",
-      "You (singular)": "tienes",
-      "He/She": "tiene",
-      "We": "tenemos",
-      "You (plural)": "tenéis",
-      "They (plural)": "tienen"
+      "I": "tenía",
+      "You (singular)": "tenías",
+      "He/She": "tenía",
+      "We": "teníamos",
+      "You (plural)": "teníais",
+      "They (plural)": "tenían"
     },
     "hacer": {
-      "I": "hago",
-      "You (singular)": "haces",
-      "He/She": "hace",
-      "We": "hacemos",
-      "You (plural)": "hacéis",
-      "They (plural)": "hacen"
+      "I": "hacía",
+      "You (singular)": "hacías",
+      "He/She": "hacía",
+      "We": "hacíamos",
+      "You (plural)": "hacíais",
+      "They (plural)": "hacían"
     },
     "ir": {
-      "I": "voy",
-      "You (singular)": "vas",
-      "He/She": "va",
-      "We": "vamos",
-      "You (plural)": "vais",
-      "They (plural)": "van"
+      "I": "iba",
+      "You (singular)": "ibas",
+      "He/She": "iba",
+      "We": "íbamos",
+      "You (plural)": "ibais",
+      "They (plural)": "iban"
     },
     "poder": {
-      "I": "puedo",
-      "You (singular)": "puedes",
-      "He/She": "puede",
-      "We": "podemos",
-      "You (plural)": "podéis",
-      "They (plural)": "poden"
+      "I": "podía",
+      "You (singular)": "podías",
+      "He/She": "podía",
+      "We": "podíamos",
+      "You (plural)": "podíais",
+      "They (plural)": "podían"
     },
     "hablar": {
-      "I": "hablo",
-      "You (singular)": "hablas",
-      "He/She": "habla",
-      "We": "hablamos",
-      "You (plural)": "habláis",
-      "They (plural)": "hablan"
+      "I": "hablaba",
+      "You (singular)": "hablabas",
+      "He/She": "hablaba",
+      "We": "hablábamos",
+      "You (plural)": "hablabais",
+      "They (plural)": "hablaban"
     },
     "comer": {
-      "I": "como",
-      "You (singular)": "comes",
-      "He/She": "come",
-      "We": "comemos",
-      "You (plural)": "coméis",
-      "They (plural)": "comen"
+      "I": "comía",
+      "You (singular)": "comías",
+      "He/She": "comía",
+      "We": "comíamos",
+      "You (plural)": "comíais",
+      "They (plural)": "comían"
     },
     "partir": {
-      "I": "parto",
-      "You (singular)": "partes",
-      "He/She": "parte",
-      "We": "partimos",
-      "You (plural)": "partís",
-      "They (plural)": "parten"
+      "I": "partía",
+      "You (singular)": "partías",
+      "He/She": "partía",
+      "We": "partíamos",
+      "You (plural)": "partíais",
+      "They (plural)": "partían"
     }
   },
-  "preterite (pretérito perfeito)": {
+  "preterite (pretérito perfecto simple)": {
     "ser": {
-      "I": "soy",
-      "You (singular)": "eres",
-      "He/She": "es",
-      "We": "somos",
-      "You (plural)": "sois",
-      "They (plural)": "son"
+      "I": "fui",
+      "You (singular)": "fuiste",
+      "He/She": "fue",
+      "We": "fuimos",
+      "You (plural)": "fuisteis",
+      "They (plural)": "fueron"
     },
     "estar": {
-      "I": "estoy",
-      "You (singular)": "estás",
-      "He/She": "está",
-      "We": "estamos",
-      "You (plural)": "estáis",
-      "They (plural)": "están"
+      "I": "estuve",
+      "You (singular)": "estuviste",
+      "He/She": "estuvo",
+      "We": "estuvimos",
+      "You (plural)": "estuvisteis",
+      "They (plural)": "estuvieron"
     },
     "tener": {
-      "I": "tengo",
-      "You (singular)": "tienes",
-      "He/She": "tiene",
-      "We": "tenemos",
-      "You (plural)": "tenéis",
-      "They (plural)": "tienen"
+      "I": "tuve",
+      "You (singular)": "tuviste",
+      "He/She": "tuvo",
+      "We": "tuvimos",
+      "You (plural)": "tuvisteis",
+      "They (plural)": "tuvieron"
     },
     "hacer": {
-      "I": "hago",
-      "You (singular)": "haces",
-      "He/She": "hace",
-      "We": "hacemos",
-      "You (plural)": "hacéis",
-      "They (plural)": "hacen"
+      "I": "hice",
+      "You (singular)": "hiciste",
+      "He/She": "hizo",
+      "We": "hicimos",
+      "You (plural)": "hicisteis",
+      "They (plural)": "hicieron"
     },
     "ir": {
-      "I": "voy",
-      "You (singular)": "vas",
-      "He/She": "va",
-      "We": "vamos",
-      "You (plural)": "vais",
-      "They (plural)": "van"
+      "I": "fui",
+      "You (singular)": "fuiste",
+      "He/She": "fue",
+      "We": "fuimos",
+      "You (plural)": "fuisteis",
+      "They (plural)": "fueron"
     },
     "poder": {
-      "I": "puedo",
-      "You (singular)": "puedes",
-      "He/She": "puede",
-      "We": "podemos",
-      "You (plural)": "podéis",
-      "They (plural)": "poden"
+      "I": "pude",
+      "You (singular)": "pudiste",
+      "He/She": "pudo",
+      "We": "pudimos",
+      "You (plural)": "pudisteis",
+      "They (plural)": "pudieron"
     },
     "hablar": {
-      "I": "hablo",
-      "You (singular)": "hablas",
-      "He/She": "habla",
+      "I": "hablé",
+      "You (singular)": "hablaste",
+      "He/She": "habló",
       "We": "hablamos",
-      "You (plural)": "habláis",
-      "They (plural)": "hablan"
+      "You (plural)": "hablasteis",
+      "They (plural)": "hablaron"
     },
     "comer": {
-      "I": "como",
-      "You (singular)": "comes",
-      "He/She": "come",
-      "We": "comemos",
-      "You (plural)": "coméis",
-      "They (plural)": "comen"
+      "I": "comí",
+      "You (singular)": "comiste",
+      "He/She": "comió",
+      "We": "comimos",
+      "You (plural)": "comisteis",
+      "They (plural)": "comieron"
     },
     "partir": {
-      "I": "parto",
-      "You (singular)": "partes",
-      "He/She": "parte",
+      "I": "partí",
+      "You (singular)": "partiste",
+      "He/She": "partió",
       "We": "partimos",
-      "You (plural)": "partís",
-      "They (plural)": "parten"
+      "You (plural)": "partisteis",
+      "They (plural)": "partieron"
     }
   },
-  "future (futuro simples)": {
+  "future (futuro)": {
     "ser": {
-      "I": "soy",
-      "You (singular)": "eres",
-      "He/She": "es",
-      "We": "somos",
-      "You (plural)": "sois",
-      "They (plural)": "son"
+      "I": "seré",
+      "You (singular)": "serás",
+      "He/She": "será",
+      "We": "seremos",
+      "You (plural)": "seréis",
+      "They (plural)": "serán"
     },
     "estar": {
-      "I": "estoy",
-      "You (singular)": "estás",
-      "He/She": "está",
-      "We": "estamos",
-      "You (plural)": "estáis",
-      "They (plural)": "están"
+      "I": "estaré",
+      "You (singular)": "estarás",
+      "He/She": "estará",
+      "We": "estaremos",
+      "You (plural)": "estaréis",
+      "They (plural)": "estarán"
     },
     "tener": {
-      "I": "tengo",
-      "You (singular)": "tienes",
-      "He/She": "tiene",
-      "We": "tenemos",
-      "You (plural)": "tenéis",
-      "They (plural)": "tienen"
+      "I": "tendré",
+      "You (singular)": "tendrás",
+      "He/She": "tendrá",
+      "We": "tendremos",
+      "You (plural)": "tendréis",
+      "They (plural)": "tendrán"
     },
     "hacer": {
-      "I": "hago",
-      "You (singular)": "haces",
-      "He/She": "hace",
-      "We": "hacemos",
-      "You (plural)": "hacéis",
-      "They (plural)": "hacen"
+      "I": "haré",
+      "You (singular)": "harás",
+      "He/She": "hará",
+      "We": "haremos",
+      "You (plural)": "haréis",
+      "They (plural)": "harán"
     },
     "ir": {
-      "I": "voy",
-      "You (singular)": "vas",
-      "He/She": "va",
-      "We": "vamos",
-      "You (plural)": "vais",
-      "They (plural)": "van"
+      "I": "iré",
+      "You (singular)": "irás",
+      "He/She": "irá",
+      "We": "iremos",
+      "You (plural)": "iréis",
+      "They (plural)": "irán"
     },
     "poder": {
-      "I": "puedo",
-      "You (singular)": "puedes",
-      "He/She": "puede",
-      "We": "podemos",
-      "You (plural)": "podéis",
-      "They (plural)": "poden"
+      "I": "podré",
+      "You (singular)": "podrás",
+      "He/She": "podrá",
+      "We": "podremos",
+      "You (plural)": "podréis",
+      "They (plural)": "podrán"
     },
     "hablar": {
-      "I": "hablo",
-      "You (singular)": "hablas",
-      "He/She": "habla",
-      "We": "hablamos",
-      "You (plural)": "habláis",
-      "They (plural)": "hablan"
+      "I": "hablaré",
+      "You (singular)": "hablarás",
+      "He/She": "hablará",
+      "We": "hablaremos",
+      "You (plural)": "hablaréis",
+      "They (plural)": "hablarán"
     },
     "comer": {
-      "I": "como",
-      "You (singular)": "comes",
-      "He/She": "come",
-      "We": "comemos",
-      "You (plural)": "coméis",
-      "They (plural)": "comen"
+      "I": "comeré",
+      "You (singular)": "comerás",
+      "He/She": "comerá",
+      "We": "comeremos",
+      "You (plural)": "comeréis",
+      "They (plural)": "comerán"
     },
     "partir": {
-      "I": "parto",
-      "You (singular)": "partes",
-      "He/She": "parte",
-      "We": "partimos",
-      "You (plural)": "partís",
-      "They (plural)": "parten"
+      "I": "partiré",
+      "You (singular)": "partirás",
+      "He/She": "partirá",
+      "We": "partiremos",
+      "You (plural)": "partiréis",
+      "They (plural)": "partirán"
     }
   },
-  "conditional (condicional simples)": {
+  "conditional (condicional)": {
     "ser": {
-      "I": "soy",
-      "You (singular)": "eres",
-      "He/She": "es",
-      "We": "somos",
-      "You (plural)": "sois",
-      "They (plural)": "son"
+      "I": "sería",
+      "You (singular)": "serías",
+      "He/She": "sería",
+      "We": "seríamos",
+      "You (plural)": "seríais",
+      "They (plural)": "serían"
     },
     "estar": {
-      "I": "estoy",
-      "You (singular)": "estás",
-      "He/She": "está",
-      "We": "estamos",
-      "You (plural)": "estáis",
-      "They (plural)": "están"
+      "I": "estaría",
+      "You (singular)": "estarías",
+      "He/She": "estaría",
+      "We": "estaríamos",
+      "You (plural)": "estaríais",
+      "They (plural)": "estarían"
     },
     "tener": {
-      "I": "tengo",
-      "You (singular)": "tienes",
-      "He/She": "tiene",
-      "We": "tenemos",
-      "You (plural)": "tenéis",
-      "They (plural)": "tienen"
+      "I": "tendría",
+      "You (singular)": "tendrías",
+      "He/She": "tendría",
+      "We": "tendríamos",
+      "You (plural)": "tendríais",
+      "They (plural)": "tendrían"
     },
     "hacer": {
-      "I": "hago",
-      "You (singular)": "haces",
-      "He/She": "hace",
-      "We": "hacemos",
-      "You (plural)": "hacéis",
-      "They (plural)": "hacen"
+      "I": "haría",
+      "You (singular)": "harías",
+      "He/She": "haría",
+      "We": "haríamos",
+      "You (plural)": "haríais",
+      "They (plural)": "harían"
     },
     "ir": {
-      "I": "voy",
-      "You (singular)": "vas",
-      "He/She": "va",
-      "We": "vamos",
-      "You (plural)": "vais",
-      "They (plural)": "van"
+      "I": "iría",
+      "You (singular)": "irías",
+      "He/She": "iría",
+      "We": "iríamos",
+      "You (plural)": "iríais",
+      "They (plural)": "irían"
     },
     "poder": {
-      "I": "puedo",
-      "You (singular)": "puedes",
-      "He/She": "puede",
-      "We": "podemos",
-      "You (plural)": "podéis",
-      "They (plural)": "poden"
+      "I": "podría",
+      "You (singular)": "podrías",
+      "He/She": "podría",
+      "We": "podríamos",
+      "You (plural)": "podríais",
+      "They (plural)": "podrían"
     },
     "hablar": {
-      "I": "hablo",
-      "You (singular)": "hablas",
-      "He/She": "habla",
-      "We": "hablamos",
-      "You (plural)": "habláis",
-      "They (plural)": "hablan"
+      "I": "hablaría",
+      "You (singular)": "hablarías",
+      "He/She": "hablaría",
+      "We": "hablaríamos",
+      "You (plural)": "hablaríais",
+      "They (plural)": "hablarían"
     },
     "comer": {
-      "I": "como",
-      "You (singular)": "comes",
-      "He/She": "come",
-      "We": "comemos",
-      "You (plural)": "coméis",
-      "They (plural)": "comen"
+      "I": "comería",
+      "You (singular)": "comerías",
+      "He/She": "comería",
+      "We": "comeríamos",
+      "You (plural)": "comeríais",
+      "They (plural)": "comerían"
     },
     "partir": {
-      "I": "parto",
-      "You (singular)": "partes",
-      "He/She": "parte",
-      "We": "partimos",
-      "You (plural)": "partís",
-      "They (plural)": "parten"
+      "I": "partiría",
+      "You (singular)": "partirías",
+      "He/She": "partiría",
+      "We": "partiríamos",
+      "You (plural)": "partiríais",
+      "They (plural)": "partirían"
     }
   },
-  "subjunctive present (presente conjuntivo)": {
+  "subjunctive present (subjuntivo presente)": {
     "ser": {
-      "I": "soy",
-      "You (singular)": "eres",
-      "He/She": "es",
-      "We": "somos",
-      "You (plural)": "sois",
-      "They (plural)": "son"
+      "I": "sea",
+      "You (singular)": "seas",
+      "He/She": "sea",
+      "We": "seamos",
+      "You (plural)": "seáis",
+      "They (plural)": "sean"
     },
     "estar": {
-      "I": "estoy",
-      "You (singular)": "estás",
-      "He/She": "está",
-      "We": "estamos",
-      "You (plural)": "estáis",
-      "They (plural)": "están"
+      "I": "esté",
+      "You (singular)": "estés",
+      "He/She": "esté",
+      "We": "estemos",
+      "You (plural)": "estéis",
+      "They (plural)": "estén"
     },
     "tener": {
-      "I": "tengo",
-      "You (singular)": "tienes",
-      "He/She": "tiene",
-      "We": "tenemos",
-      "You (plural)": "tenéis",
-      "They (plural)": "tienen"
+      "I": "tenga",
+      "You (singular)": "tengas",
+      "He/She": "tenga",
+      "We": "tengamos",
+      "You (plural)": "tengáis",
+      "They (plural)": "tengan"
     },
     "hacer": {
-      "I": "hago",
-      "You (singular)": "haces",
-      "He/She": "hace",
-      "We": "hacemos",
-      "You (plural)": "hacéis",
-      "They (plural)": "hacen"
+      "I": "haga",
+      "You (singular)": "hagas",
+      "He/She": "haga",
+      "We": "hagamos",
+      "You (plural)": "hagáis",
+      "They (plural)": "hagan"
     },
     "ir": {
-      "I": "voy",
-      "You (singular)": "vas",
-      "He/She": "va",
-      "We": "vamos",
-      "You (plural)": "vais",
-      "They (plural)": "van"
+      "I": "vaya",
+      "You (singular)": "vayas",
+      "He/She": "vaya",
+      "We": "vayamos",
+      "You (plural)": "vayáis",
+      "They (plural)": "vayan"
     },
     "poder": {
-      "I": "puedo",
-      "You (singular)": "puedes",
-      "He/She": "puede",
-      "We": "podemos",
-      "You (plural)": "podéis",
-      "They (plural)": "poden"
+      "I": "pueda",
+      "You (singular)": "puedas",
+      "He/She": "pueda",
+      "We": "podamos",
+      "You (plural)": "podáis",
+      "They (plural)": "puedan"
     },
     "hablar": {
-      "I": "hablo",
-      "You (singular)": "hablas",
-      "He/She": "habla",
-      "We": "hablamos",
-      "You (plural)": "habláis",
-      "They (plural)": "hablan"
+      "I": "hable",
+      "You (singular)": "hables",
+      "He/She": "hable",
+      "We": "hablemos",
+      "You (plural)": "habléis",
+      "They (plural)": "hablen"
     },
     "comer": {
-      "I": "como",
-      "You (singular)": "comes",
-      "He/She": "come",
-      "We": "comemos",
-      "You (plural)": "coméis",
-      "They (plural)": "comen"
+      "I": "coma",
+      "You (singular)": "comas",
+      "He/She": "coma",
+      "We": "comamos",
+      "You (plural)": "comáis",
+      "They (plural)": "coman"
     },
     "partir": {
-      "I": "parto",
-      "You (singular)": "partes",
-      "He/She": "parte",
-      "We": "partimos",
-      "You (plural)": "partís",
-      "They (plural)": "parten"
+      "I": "parta",
+      "You (singular)": "partas",
+      "He/She": "parta",
+      "We": "partamos",
+      "You (plural)": "partáis",
+      "They (plural)": "partan"
     }
   },
-  "subjunctive imperfect (pretérito imperfeito conjuntivo)": {
+  "subjunctive imperfect (subjuntivo pretérito imperfecto)": {
     "ser": {
-      "I": "soy",
-      "You (singular)": "eres",
-      "He/She": "es",
-      "We": "somos",
-      "You (plural)": "sois",
-      "They (plural)": "son"
+      "I": "fuera",
+      "You (singular)": "fueras",
+      "He/She": "fuera",
+      "We": "fuéramos",
+      "You (plural)": "fuerais",
+      "They (plural)": "fueran"
     },
     "estar": {
-      "I": "estoy",
-      "You (singular)": "estás",
-      "He/She": "está",
-      "We": "estamos",
-      "You (plural)": "estáis",
-      "They (plural)": "están"
+      "I": "estuviera",
+      "You (singular)": "estuvieras",
+      "He/She": "estuviera",
+      "We": "estuviéramos",
+      "You (plural)": "estuvierais",
+      "They (plural)": "estuvieran"
     },
     "tener": {
-      "I": "tengo",
-      "You (singular)": "tienes",
-      "He/She": "tiene",
-      "We": "tenemos",
-      "You (plural)": "tenéis",
-      "They (plural)": "tienen"
+      "I": "tuviera",
+      "You (singular)": "tuvieras",
+      "He/She": "tuviera",
+      "We": "tuviéramos",
+      "You (plural)": "tuvierais",
+      "They (plural)": "tuvieran"
     },
     "hacer": {
-      "I": "hago",
-      "You (singular)": "haces",
-      "He/She": "hace",
-      "We": "hacemos",
-      "You (plural)": "hacéis",
-      "They (plural)": "hacen"
+      "I": "hiciera",
+      "You (singular)": "hicieras",
+      "He/She": "hiciera",
+      "We": "hiciéramos",
+      "You (plural)": "hicierais",
+      "They (plural)": "hicieran"
     },
     "ir": {
-      "I": "voy",
-      "You (singular)": "vas",
-      "He/She": "va",
-      "We": "vamos",
-      "You (plural)": "vais",
-      "They (plural)": "van"
+      "I": "fuera",
+      "You (singular)": "fueras",
+      "He/She": "fuera",
+      "We": "fuéramos",
+      "You (plural)": "fuerais",
+      "They (plural)": "fueran"
     },
     "poder": {
-      "I": "puedo",
-      "You (singular)": "puedes",
-      "He/She": "puede",
-      "We": "podemos",
-      "You (plural)": "podéis",
-      "They (plural)": "poden"
+      "I": "pudiera",
+      "You (singular)": "pudieras",
+      "He/She": "pudiera",
+      "We": "pudiéramos",
+      "You (plural)": "pudierais",
+      "They (plural)": "pudieran"
     },
     "hablar": {
-      "I": "hablo",
-      "You (singular)": "hablas",
-      "He/She": "habla",
-      "We": "hablamos",
-      "You (plural)": "habláis",
-      "They (plural)": "hablan"
+      "I": "hablara",
+      "You (singular)": "hablaras",
+      "He/She": "hablara",
+      "We": "habláramos",
+      "You (plural)": "hablarais",
+      "They (plural)": "hablaran"
     },
     "comer": {
-      "I": "como",
-      "You (singular)": "comes",
-      "He/She": "come",
-      "We": "comemos",
-      "You (plural)": "coméis",
-      "They (plural)": "comen"
+      "I": "comiera",
+      "You (singular)": "comieras",
+      "He/She": "comiera",
+      "We": "comiéramos",
+      "You (plural)": "comierais",
+      "They (plural)": "comieran"
     },
     "partir": {
-      "I": "parto",
-      "You (singular)": "partes",
-      "He/She": "parte",
-      "We": "partimos",
-      "You (plural)": "partís",
-      "They (plural)": "parten"
+      "I": "partiera",
+      "You (singular)": "partieras",
+      "He/She": "partiera",
+      "We": "partiéramos",
+      "You (plural)": "partierais",
+      "They (plural)": "partieran"
     }
   }
 }
