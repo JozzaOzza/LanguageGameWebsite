@@ -108,8 +108,7 @@
       "not any (not one)": "nenhum, nehuma",
       "neither (nor)": "nem",
       "never": "nunca, jamais",
-      "nobody (no one)": "ninguém",
-      "nowhere": "lugar nenhum, nada"
+      "nobody (no one)": "ninguém"
     },
     "cardinal numbers": {
       "zero": "zero",
@@ -421,12 +420,12 @@
       "I am sorry (apology)": "desculpe, desculpa, sinto muito, eu sinto muito",
       "I am sorry (sympathy)": "sinto muito, eu sinto muito",
       "my name is": "o meu nome é, me chamo, eu me chamo",
-      "what is your name?": "qual o seu nome",
+      "what is your name?": "qual o seu nome, como te chamas, como se chama",
       "good morning": "bom dia",
       "good afternoon": "boa tarde",
       "good evening": "boa noite",
       "good night": "boa noite",
-      "nice to meet you": "muito prazer",
+      "nice to meet you": "muito prazer, prazer em conhecê-lo, prazer em conhecê-la, prazer em conhecê-te, prazer conhecê-lo, prazer conhecê-la, prazer conhecê-te",
       "see you later": "até mais tarde, até logo mais, até logo",
       "welcome (e.g. welcome to my home)": "bem-vindo",
       "excuse me (interjection)": "com licença, desculpe, perdão",

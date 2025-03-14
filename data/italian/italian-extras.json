@@ -108,8 +108,7 @@
       "not any (not one)": "alcuno, nessuno",
       "neither (nor)": "né",
       "never": "mai",
-      "nobody (no one)": "nessuno",
-      "nowhere": "in nessun posto, da nessuna parte"
+      "nobody (no one)": "nessuno"
     },
     "cardinal numbers": {
       "zero": "zero",
@@ -135,7 +134,7 @@
       "twenty": "venti",
       "thirty": "trenta",
       "fourty": "quaranta",
-      "fifty": "cinquante",
+      "fifty": "cinquanta",
       "sixty": "sessanta",
       "seventy": "settanta",
       "eighty": "ottanta",
@@ -427,7 +426,7 @@
       "good evening": "buonasera",
       "good night": "buonanotte, buona notte",
       "nice to meet you": "piacere",
-      "see you later": "ci vediamo, a presto",
+      "see you later": "ci vediamo, a presto, arrivederci",
       "welcome (e.g. welcome to my home)": "benvenuto",
       "excuse me (interjection)": "scusa, scusami, scusi, mi scusi",
       "of course": "certo, certamente",

@@ -108,8 +108,7 @@
       "not any (not one)": "aucun, aucune, pas de",
       "neither (nor)": "ni",
       "never": "jamais",
-      "nobody (no one)": "personne",
-      "nowhere": "nulle part"
+      "nobody (no one)": "personne"
     },
     "cardinal numbers": {
       "zero": "zéro",
@@ -260,7 +259,7 @@
       "morning": "matin, matinée",
       "afternoon": "après-midi",
       "evening": "soir, soirée",
-      "weekend": "weekend, week-end",
+      "weekend": "weekend, week-end, fin de semaine",
       "week": "semaine",
       "month": "mois",
       "year": "an, année",
@@ -418,8 +417,8 @@
       "please": "s'il te plaît, s'il vous plaît",
       "thank you": "merci",
       "you are welcome": "de rien, il n'y a pas de quoi, je t'en prie, je vous en prie",
-      "I am sorry (apology)": "je suis désolé, je suis désolée, je suis navré, je suis navrée, je te demande pardon, je vous demande pardon, je regrette, désolé, désolée, pardon",
-      "I am sorry (sympathy)": "je suis désolé, je suis désolée, je suis navré, je suis navrée, toutes mes condoléances, condoléances",
+      "I am sorry (apology)": "je suis désolé, je suis navré, je te demande pardon, je vous demande pardon, je regrette, désolé, pardon",
+      "I am sorry (sympathy)": "je suis désolé, je suis navré, toutes mes condoléances, condoléances",
       "my name is": "je m'appelle",
       "what is your name?": "comment t'appelles tu",
       "good morning": "bonjour",
@@ -437,7 +436,7 @@
       "on the right": "à droite, sur la droite",
       "how do you say (e.g. how do you say this)": "comment dit-on, comment dites-vous, comment dis-tu",
       "how much does this cost?": "combien ça coûte",
-      "do you have a table for two?": "avez vous une table pour deux, as-tu un table pour deux",
+      "do you have a table for two?": "avez vous une table pour deux, as-tu une table pour deux",
       "I would like (e.g. I would like a cake)": "je voudrais",
       "to take away (e.g. a pizza to take away)": "à emporter",
       "I cannot speak much of this language": "je ne parle pas beaucoup de cette langue, je ne peux pas parler beaucoup de cette langue"

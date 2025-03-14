@@ -108,8 +108,7 @@
       "not any (not one)": "ninguno, ninguna",
       "neither (nor)": "ni",
       "never": "nunca, jamás",
-      "nobody (no one)": "nadie",
-      "nowhere": "ninguna parte, nada"
+      "nobody (no one)": "nadie"
     },
     "cardinal numbers": {
       "zero": "cero",
@@ -431,13 +430,13 @@
       "welcome (e.g. welcome to my home)": "bienvenido",
       "excuse me (interjection)": "perdón, disculpe, perdone, disculpa, perdona, disculpá, perdoná",
       "of course": "claro, por supuesto",
-      "there is (e.g. there is a restaurant in the town)": null,
-      "there are (e.g. there are restaurants in the town)": null,
-      "on the left": null,
-      "on the right": null,
+      "there is (e.g. there is a restaurant in the town)": "hay",
+      "there are (e.g. there are restaurants in the town)": "hay",
+      "on the left": "a la izquierda, a la siniestra",
+      "on the right": "a la derecha",
       "how do you say (e.g. how do you say this)": "cómo se dice",
-      "how much does this cost?": "cuánto cuesta esto, cuánto cuesta esto",
-      "do you have a table for two?": "tienen una mesa para dos, tenéis una mesa para dos",
+      "how much does this cost?": "cuánto cuesta esto, cuánto cuesta esto, cuánto cuesta",
+      "do you have a table for two?": "tienes una mesa para dos, tenéis una mesa para dos, tienen una mesa para dos",
       "I would like (e.g. I would like a cake)": "me gustaría",
       "to take away (e.g. a pizza to take away)": "para llevar",
       "I cannot speak much of this language": "no puedo hablar mucho de este idioma, no puedo hablar mucho de esta lengua, yo no puedo hablar mucho de este idioma, yo no puedo hablar mucho de esta lengua"

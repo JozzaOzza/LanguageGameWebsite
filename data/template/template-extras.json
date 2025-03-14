@@ -69,7 +69,7 @@
       "their (plural subject, singular object)": null,
       "their (plural subject, plural object)": null,
       "theirs (plural subject, singular object)": null,
-      "theirs (plural subject, plural object)": null,
+      "theirs (plural subject, plural object)": null
     },
     "articles (definite, indefinite, partitive)": {
       "a (singular e.g. a cake)": null,
@@ -108,8 +108,7 @@
       "not any (not one)": null,
       "neither (nor)": null,
       "never": null,
-      "nobody (no one)": null,
-      "nowhere": null
+      "nobody (no one)": null
     },
     "cardinal numbers": {
       "zero": null,
