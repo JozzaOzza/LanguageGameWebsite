@@ -263,6 +263,8 @@
       "week": "semana",
       "month": "mês",
       "year": "ano",
+      "past": "passado",
+      "future": "futuro",
       "money (general)": "dinheiro",
       "price": "preço",
       "work": "trabalho",

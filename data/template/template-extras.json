@@ -263,6 +263,8 @@
       "week": null,
       "month": null,
       "year": null,
+      "past": null,
+      "future": null,
       "money (general)": null,
       "price": null,
       "work": null,

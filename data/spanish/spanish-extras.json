@@ -263,6 +263,8 @@
       "week": "semana",
       "month": "mes",
       "year": "año",
+      "past": "pasado",
+      "future": "futuro",
       "money (general)": "dinero, plata",
       "price": "precio",
       "work": "trabajo, profesión, empleo, labor",

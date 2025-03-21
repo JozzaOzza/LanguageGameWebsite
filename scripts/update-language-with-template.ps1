@@ -3,6 +3,7 @@
 [CmdletBinding()]
 param ()
 begin {
+    # $languages = Get-ChildItem -Path "..\data\" -Exclude "template" -Recurse -Directory -Force -ErrorAction SilentlyContinue | Select-Object Name
     $languages = @("french", "italian", "portuguese", "spanish")
     # verbs kept separately due to structure
     $types = @("adjectives", "adverbs", "extras", "nouns")
