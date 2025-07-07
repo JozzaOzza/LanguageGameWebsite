@@ -48,7 +48,7 @@
       "mine (plural)": "les miens, les miennes",
       "your (singular subject, singular object)": "ton, ta",
       "your (singular subject, plural object)": "tes",
-      "yours (singular subject, singular object)": "le tie, la tienne",
+      "yours (singular subject, singular object)": "le tien, la tienne",
       "yours (singular subject, plural object)": "les tiens, les tiennes",
       "his (singular) (adjective)": "son, sa",
       "his (plural) (adjective)": "ses",
@@ -67,7 +67,7 @@
       "yours (plural subject, singular object)": "le vôtre, la vôtre",
       "yours (plural subject, plural object)": "les vôtres, les vôtres",
       "their (plural subject, singular object)": "leur",
-      "their (plural subject, plural object)": "leur",
+      "their (plural subject, plural object)": "leurs",
       "theirs (plural subject, singular object)": "le leur, la leur",
       "theirs (plural subject, plural object)": "les leurs, les leurs"
     },
@@ -276,7 +276,7 @@
     "common verbs (infinitives)": {
       "to be (location)": "être",
       "to be (exist)": "être",
-      "to have": "avpir",
+      "to have": "avoir",
       "to do": "faire",
       "to say": "dire",
       "to go": "aller",
@@ -375,7 +375,7 @@
       "slow": "lent",
       "happy": "heureux, content",
       "sad": "triste",
-      "old": "vieux",
+      "old": "vieux, ancien",
       "new": "nouveau",
       "busy": "occupé",
       "ready": "prêt"

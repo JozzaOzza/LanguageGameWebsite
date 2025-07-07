@@ -48,7 +48,6 @@ process {
     # Make length of test equal to the amount of words in the chosen category
     $totalPermutations = ($categoryObject.Keys.Count)
     $testLength = $totalPermutations
-
     $totalQuestions = 0
     $correctAnswers = 0
 

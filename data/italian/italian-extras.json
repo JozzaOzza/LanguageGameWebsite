@@ -23,7 +23,7 @@
     },
     "direct object pronouns": {
       "me": "mi",
-      "you (singular)": "ti, Lei",
+      "you (singular)": "ti, lei",
       "him": "lo",
       "her": "la",
       "us": "ci",
@@ -33,7 +33,7 @@
     },
     "indirect object pronouns": {
       "me": "mi",
-      "you (singular)": "ti, La",
+      "you (singular)": "ti, la",
       "him": "lo, l'",
       "her": "la, l'",
       "us": "ci",
@@ -66,10 +66,10 @@
       "your (plural subject, plural object)": "i vostri, gli vostri, le vostre",
       "yours (plural subject, singular object)": "il vostro, lo vostro, la vostra",
       "yours (plural subject, plural object)": "i vostri, gli vostri, le vostre",
-      "their (plural subject, singular object)": "il suo, lo suo, la sua",
-      "their (plural subject, plural object)": "i suoi, gli suoi, le sue",
-      "theirs (plural subject, singular object)": "il suo, lo suo, la sua",
-      "theirs (plural subject, plural object)": "i suoi, gli suoi, le sue"
+      "their (plural subject, singular object)": "il loro, lo loro, la loro",
+      "their (plural subject, plural object)": "i loro, gli loro, le loro",
+      "theirs (plural subject, singular object)": "il loro, lo loro, la loro",
+      "theirs (plural subject, plural object)": "i loro, gli loro, le loro"
     },
     "articles (definite, indefinite, partitive)": {
       "a (singular e.g. a cake)": "un, uno, una",
@@ -190,8 +190,8 @@
       "one thousandth": "millesimo"
     },
     "prepositions": {
-      "on": "su",
-      "in": "in",
+      "on": "su, sopra",
+      "in": "in, dentro",
       "at": "a",
       "to": "a, in, verso",
       "from": "da",
@@ -218,8 +218,8 @@
       "and": "e",
       "or": "o, oppure",
       "because": "perché",
-      "so (then)": "quindi, dunque, perciò",
-      "therefore": "di conseguenza, perciò, quindi, pertanto",
+      "so (then)": "quindi, dunque, perciò, allora",
+      "therefore": "di conseguenza, quindi, dunque, perciò, allora, pertanto",
       "but": "ma, però",
       "however": "però, tuttavia, ma, comunque, peraltro",
       "as well, also": "anche, pure",
@@ -441,7 +441,7 @@
       "do you have a table for two?": "ha un tavolo per due, hai un tavolo per due, avete un tavolo per due",
       "I would like (e.g. I would like a cake)": "mi piacerebbe",
       "to take away (e.g. a pizza to take away)": "portare via",
-      "I cannot speak much of this language": "non posso parlare molto di questa lingua"
+      "I cannot speak much of this language": "non posso parlare molto di questa lingua, io non posso parlare molto di questa lingua"
     },
     "tim ferriss practice": {
       "it is John's apple": "è la mela di John",

@@ -1,530 +1,530 @@
 {
     "present (présent)": {
         "être": {
-            "I": "je suis",
-            "You (singular)": "tu es",
-            "He/She": "il est",
-            "We": "nous sommes",
-            "You (plural)": "vous êtes",
-            "They (plural)": "ils sont"
+            "I": "suis",
+            "You (singular)": "es",
+            "He/She": "est",
+            "We": "sommes",
+            "You (plural)": "êtes",
+            "They (plural)": "sont"
         },
         "avoir": {
-            "I": "j'ai",
-            "You (singular)": "tu as",
-            "He/She": "il a",
-            "We": "nous avons",
-            "You (plural)": "vous avez",
-            "They (plural)": "ils ont"
+            "I": "ai",
+            "You (singular)": "as",
+            "He/She": "a",
+            "We": "avons",
+            "You (plural)": "avez",
+            "They (plural)": "ont"
         },
         "faire": {
-            "I": "je fais",
-            "You (singular)": "tu fais",
-            "He/She": "il fait",
-            "We": "nous faisons",
-            "You (plural)": "vous faites",
-            "They (plural)": "ils font"
+            "I": "fais",
+            "You (singular)": "fais",
+            "He/She": "fait",
+            "We": "faisons",
+            "You (plural)": "faites",
+            "They (plural)": "font"
         },
         "aller": {
-            "I": "je vais",
-            "You (singular)": "tu vas",
-            "He/She": "il va",
-            "We": "nous allons",
-            "You (plural)": "vous allez",
-            "They (plural)": "ils vont"
+            "I": "vais",
+            "You (singular)": "vas",
+            "He/She": "va",
+            "We": "allons",
+            "You (plural)": "allez",
+            "They (plural)": "vont"
         },
         "pouvoir": {
-            "I": "je peux, je puis",
-            "You (singular)": "tu peux",
-            "He/She": "il peut",
-            "We": "nous pouvons",
-            "You (plural)": "vous pouvez",
-            "They (plural)": "ils peuvent"
+            "I": "peux, puis",
+            "You (singular)": "peux",
+            "He/She": "peut",
+            "We": "pouvons",
+            "You (plural)": "pouvez",
+            "They (plural)": "peuvent"
         },
         "parler": {
-            "I": "je parle",
-            "You (singular)": "tu parles",
-            "He/She": "il parle",
-            "We": "nous parlons",
-            "You (plural)": "vous parlez",
-            "They (plural)": "ils parlent"
+            "I": "parle",
+            "You (singular)": "parles",
+            "He/She": "parle",
+            "We": "parlons",
+            "You (plural)": "parlez",
+            "They (plural)": "parlent"
         },
         "choisir": {
-            "I": "je choisis",
-            "You (singular)": "tu choisis",
-            "He/She": "il choisit",
-            "We": "nous choisissons",
-            "You (plural)": "vous choisissez",
-            "They (plural)": "ils choisissent"
+            "I": "choisis",
+            "You (singular)": "choisis",
+            "He/She": "choisit",
+            "We": "choisissons",
+            "You (plural)": "choisissez",
+            "They (plural)": "choisissent"
         },
         "attendre": {
-            "I": "j'attends",
-            "You (singular)": "tu attends",
-            "He/She": "il attend",
-            "We": "nous attendons",
-            "You (plural)": "vous attendez",
-            "They (plural)": "ils attendent"
+            "I": "attends",
+            "You (singular)": "attends",
+            "He/She": "attend",
+            "We": "attendons",
+            "You (plural)": "attendez",
+            "They (plural)": "attendent"
         }
     },
     "perfect (passé composé)": {
         "être": {
-            "I": "j'ai été",
-            "You (singular)": "tu as été",
-            "He/She": "il a été",
-            "We": "nous avons été",
-            "You (plural)": "vous avez été",
-            "They (plural)": "ils ont été"
+            "I": "ai été",
+            "You (singular)": "as été",
+            "He/She": "a été",
+            "We": "avons été",
+            "You (plural)": "avez été",
+            "They (plural)": "ont été"
         },
         "avoir": {
-            "I": "j'ai eu",
-            "You (singular)": "tu as eu",
-            "He/She": "il a eu",
-            "We": "nous avons eu",
-            "You (plural)": "vous avez eu",
-            "They (plural)": "ils ont eu"
+            "I": "ai eu",
+            "You (singular)": "as eu",
+            "He/She": "a eu",
+            "We": "avons eu",
+            "You (plural)": "avez eu",
+            "They (plural)": "ont eu"
         },
         "faire": {
-            "I": "j'ai fait",
-            "You (singular)": "tu as fait",
-            "He/She": "il a fait",
-            "We": "nous avons fait",
-            "You (plural)": "vous avez fait",
-            "They (plural)": "ils ont fait"
+            "I": "ai fait",
+            "You (singular)": "as fait",
+            "He/She": "a fait",
+            "We": "avons fait",
+            "You (plural)": "avez fait",
+            "They (plural)": "ont fait"
         },
         "aller": {
-            "I": "je suis allé",
-            "You (singular)": "tu es allé",
-            "He/She": "il est allé",
-            "We": "nous sommes allés",
-            "You (plural)": "vous êtes allés",
-            "They (plural)": "ils sont allés"
+            "I": "suis allé",
+            "You (singular)": "es allé",
+            "He/She": "est allé",
+            "We": "sommes allés",
+            "You (plural)": "êtes allés",
+            "They (plural)": "sont allés"
         },
         "pouvoir": {
-            "I": "j'ai pu",
-            "You (singular)": "tu as pu",
-            "He/She": "il a pu",
-            "We": "nous avons pu",
-            "You (plural)": "vous avez pu",
-            "They (plural)": "ils ont pu"
+            "I": "ai pu",
+            "You (singular)": "as pu",
+            "He/She": "a pu",
+            "We": "avons pu",
+            "You (plural)": "avez pu",
+            "They (plural)": "ont pu"
         },
         "parler": {
-            "I": "j'ai parlé",
-            "You (singular)": "tu as parlé",
-            "He/She": "il a parlé",
-            "We": "nous avons parlé",
-            "You (plural)": "vous avez parlé",
-            "They (plural)": "ils ont parlé"
+            "I": "ai parlé",
+            "You (singular)": "as parlé",
+            "He/She": "a parlé",
+            "We": "avons parlé",
+            "You (plural)": "avez parlé",
+            "They (plural)": "ont parlé"
         },
         "choisir": {
-            "I": "j'ai choisi",
-            "You (singular)": "tu as choisi",
-            "He/She": "il a choisi",
-            "We": "nous avons choisi",
-            "You (plural)": "vous avez choisi",
-            "They (plural)": "ils ont choisi"
+            "I": "ai choisi",
+            "You (singular)": "as choisi",
+            "He/She": "a choisi",
+            "We": "avons choisi",
+            "You (plural)": "avez choisi",
+            "They (plural)": "ont choisi"
         },
         "attendre": {
-            "I": "j'ai attendu",
-            "You (singular)": "tu as attendu",
-            "He/She": "il a attendu",
-            "We": "nous avons attendu",
-            "You (plural)": "vous avez attendu",
-            "They (plural)": "ils ont attendu"
+            "I": "ai attendu",
+            "You (singular)": "as attendu",
+            "He/She": "a attendu",
+            "We": "avons attendu",
+            "You (plural)": "avez attendu",
+            "They (plural)": "ont attendu"
         }
     },
     "imperfect (imparfait)": {
         "être": {
-            "I": "j'étais",
-            "You (singular)": "tu étais",
-            "He/She": "il était",
-            "We": "nous étions",
-            "You (plural)": "vous étiez",
-            "They (plural)": "ils étaient"
+            "I": "étais",
+            "You (singular)": "étais",
+            "He/She": "était",
+            "We": "étions",
+            "You (plural)": "étiez",
+            "They (plural)": "étaient"
         },
         "avoir": {
-            "I": "j'avais",
-            "You (singular)": "tu avais",
-            "He/She": "il avait",
-            "We": "nous avions",
-            "You (plural)": "vous aviez",
-            "They (plural)": "ils avaient"
+            "I": "avais",
+            "You (singular)": "avais",
+            "He/She": "avait",
+            "We": "avions",
+            "You (plural)": "aviez",
+            "They (plural)": "avaient"
         },
         "faire": {
-            "I": "je faisais",
-            "You (singular)": "tu faisais",
-            "He/She": "il faisait",
-            "We": "nous faisions",
-            "You (plural)": "vous faisiez",
-            "They (plural)": "ils faisaient"
+            "I": "faisais",
+            "You (singular)": "faisais",
+            "He/She": "faisait",
+            "We": "faisions",
+            "You (plural)": "faisiez",
+            "They (plural)": "faisaient"
         },
         "aller": {
-            "I": "j'allais",
-            "You (singular)": "tu allais",
-            "He/She": "il allait",
-            "We": "nous allions",
-            "You (plural)": "vous alliez",
-            "They (plural)": "ils allaient"
+            "I": "allais",
+            "You (singular)": "allais",
+            "He/She": "allait",
+            "We": "allions",
+            "You (plural)": "alliez",
+            "They (plural)": "allaient"
         },
         "pouvoir": {
-            "I": "je pouvais",
-            "You (singular)": "tu pouvais",
-            "He/She": "il pouvait",
-            "We": "nous pouvions",
-            "You (plural)": "vous pouviez",
-            "They (plural)": "ils pouvaient"
+            "I": "pouvais",
+            "You (singular)": "pouvais",
+            "He/She": "pouvait",
+            "We": "pouvions",
+            "You (plural)": "pouviez",
+            "They (plural)": "pouvaient"
         },
         "parler": {
-            "I": "je parlais",
-            "You (singular)": "tu parlais",
-            "He/She": "il parlait",
-            "We": "nous parlions",
-            "You (plural)": "vous parliez",
-            "They (plural)": "ils parlaient"
+            "I": "parlais",
+            "You (singular)": "parlais",
+            "He/She": "parlait",
+            "We": "parlions",
+            "You (plural)": "parliez",
+            "They (plural)": "parlaient"
         },
         "choisir": {
-            "I": "je choisissais",
-            "You (singular)": "tu choisissais",
-            "He/She": "il choisissait",
-            "We": "nous choisissions",
-            "You (plural)": "vous choisissiez",
-            "They (plural)": "ils choisissaient"
+            "I": "choisissais",
+            "You (singular)": "choisissais",
+            "He/She": "choisissait",
+            "We": "choisissions",
+            "You (plural)": "choisissiez",
+            "They (plural)": "choisissaient"
         },
         "attendre": {
-            "I": "j'attendais",
-            "You (singular)": "tu attendais",
-            "He/She": "il attendait",
-            "We": "nous attendions",
-            "You (plural)": "vous attendiez",
-            "They (plural)": "ils attendaient"
+            "I": "attendais",
+            "You (singular)": "attendais",
+            "He/She": "attendait",
+            "We": "attendions",
+            "You (plural)": "attendiez",
+            "They (plural)": "attendaient"
         }
     },
     "preterite (passé simple)": {
         "être": {
-            "I": "je fus",
-            "You (singular)": "tu fus",
-            "He/She": "il fut",
-            "We": "nous fûmes",
-            "You (plural)": "vous fûtes",
-            "They (plural)": "ils furent"
+            "I": "fus",
+            "You (singular)": "fus",
+            "He/She": "fut",
+            "We": "fûmes",
+            "You (plural)": "fûtes",
+            "They (plural)": "furent"
         },
         "avoir": {
-            "I": "j'eus",
-            "You (singular)": "tu eus",
-            "He/She": "il eut",
-            "We": "nous eûmes",
-            "You (plural)": "vous eûtes",
-            "They (plural)": "ils eurent"
+            "I": "eus",
+            "You (singular)": "eus",
+            "He/She": "eut",
+            "We": "eûmes",
+            "You (plural)": "eûtes",
+            "They (plural)": "eurent"
         },
         "faire": {
-            "I": "je fis",
-            "You (singular)": "tu fis",
-            "He/She": "il fit",
-            "We": "nous fîmes",
-            "You (plural)": "vous fîtes",
-            "They (plural)": "ils firent"
+            "I": "fis",
+            "You (singular)": "fis",
+            "He/She": "fit",
+            "We": "fîmes",
+            "You (plural)": "fîtes",
+            "They (plural)": "firent"
         },
         "aller": {
-            "I": "j'allai",
-            "You (singular)": "tu allas",
-            "He/She": "il alla",
-            "We": "nous allâmes",
-            "You (plural)": "vous allâtes",
-            "They (plural)": "ils allèrent"
+            "I": "allai",
+            "You (singular)": "allas",
+            "He/She": "alla",
+            "We": "allâmes",
+            "You (plural)": "allâtes",
+            "They (plural)": "allèrent"
         },
         "pouvoir": {
-            "I": "je pus",
-            "You (singular)": "tu pus",
-            "He/She": "il put",
-            "We": "nous pûmes",
-            "You (plural)": "vous pûtes",
-            "They (plural)": "ils purent"
+            "I": "pus",
+            "You (singular)": "pus",
+            "He/She": "put",
+            "We": "pûmes",
+            "You (plural)": "pûtes",
+            "They (plural)": "purent"
         },
         "parler": {
-            "I": "je parlai",
-            "You (singular)": "tu parlas",
-            "He/She": "il parla",
-            "We": "nous parlâmes",
-            "You (plural)": "vous parlâtes",
-            "They (plural)": "ils parlèrent"
+            "I": "parlai",
+            "You (singular)": "parlas",
+            "He/She": "parla",
+            "We": "parlâmes",
+            "You (plural)": "parlâtes",
+            "They (plural)": "parlèrent"
         },
         "choisir": {
-            "I": "je choisis",
-            "You (singular)": "tu choisis",
-            "He/She": "il choisit",
-            "We": "nous choisîmes",
-            "You (plural)": "vous choisîtes",
-            "They (plural)": "ils choisirent"
+            "I": "choisis",
+            "You (singular)": "choisis",
+            "He/She": "choisit",
+            "We": "choisîmes",
+            "You (plural)": "choisîtes",
+            "They (plural)": "choisirent"
         },
         "attendre": {
-            "I": "j'attendis",
-            "You (singular)": "tu attendis",
-            "He/She": "il attendit",
-            "We": "nous attendîmes",
-            "You (plural)": "vous attendîtes",
-            "They (plural)": "ils attendirent"
+            "I": "attendis",
+            "You (singular)": "attendis",
+            "He/She": "attendit",
+            "We": "attendîmes",
+            "You (plural)": "attendîtes",
+            "They (plural)": "attendirent"
         }
     },
     "future (futur simple)": {
         "être": {
-            "I": "je serai",
-            "You (singular)": "tu seras",
-            "He/She": "il sera",
-            "We": "nous serons",
-            "You (plural)": "vous serez",
-            "They (plural)": "ils seront"
+            "I": "serai",
+            "You (singular)": "seras",
+            "He/She": "sera",
+            "We": "serons",
+            "You (plural)": "serez",
+            "They (plural)": "seront"
         },
         "avoir": {
-            "I": "j'aurai",
-            "You (singular)": "tu auras",
-            "He/She": "il aura",
-            "We": "nous aurons",
-            "You (plural)": "vous aurez",
-            "They (plural)": "ils auront"
+            "I": "aurai",
+            "You (singular)": "auras",
+            "He/She": "aura",
+            "We": "aurons",
+            "You (plural)": "aurez",
+            "They (plural)": "auront"
         },
         "faire": {
-            "I": "je ferai",
-            "You (singular)": "tu feras",
-            "He/She": "il fera",
-            "We": "nous ferons",
-            "You (plural)": "vous ferez",
-            "They (plural)": "ils feront"
+            "I": "ferai",
+            "You (singular)": "feras",
+            "He/She": "fera",
+            "We": "ferons",
+            "You (plural)": "ferez",
+            "They (plural)": "feront"
         },
         "aller": {
-            "I": "j'irai",
-            "You (singular)": "tu iras",
-            "He/She": "il ira",
-            "We": "nous irons",
-            "You (plural)": "vous irez",
-            "They (plural)": "ils iront"
+            "I": "irai",
+            "You (singular)": "iras",
+            "He/She": "ira",
+            "We": "irons",
+            "You (plural)": "irez",
+            "They (plural)": "iront"
         },
         "pouvoir": {
-            "I": "je pourrai",
-            "You (singular)": "tu pourras",
-            "He/She": "il pourra",
-            "We": "nous pourrons",
-            "You (plural)": "vous pourrez",
-            "They (plural)": "ils pourront"
+            "I": "pourrai",
+            "You (singular)": "pourras",
+            "He/She": "pourra",
+            "We": "pourrons",
+            "You (plural)": "pourrez",
+            "They (plural)": "pourront"
         },
         "parler": {
-            "I": "je parlerai",
-            "You (singular)": "tu parleras",
-            "He/She": "il parlera",
-            "We": "nous parlerons",
-            "You (plural)": "vous parlerez",
-            "They (plural)": "ils parleront"
+            "I": "parlerai",
+            "You (singular)": "parleras",
+            "He/She": "parlera",
+            "We": "parlerons",
+            "You (plural)": "parlerez",
+            "They (plural)": "parleront"
         },
         "choisir": {
-            "I": "je choisirai",
-            "You (singular)": "tu choisiras",
-            "He/She": "il choisira",
-            "We": "nous choisirons",
-            "You (plural)": "vous choisirez",
-            "They (plural)": "ils choisiront"
+            "I": "choisirai",
+            "You (singular)": "choisiras",
+            "He/She": "choisira",
+            "We": "choisirons",
+            "You (plural)": "choisirez",
+            "They (plural)": "choisiront"
         },
         "attendre": {
-            "I": "j'attendrai",
-            "You (singular)": "tu attendras",
-            "He/She": "il attendra",
-            "We": "nous attendrons",
-            "You (plural)": "vous attendrez",
-            "They (plural)": "ils attendront"
+            "I": "attendrai",
+            "You (singular)": "attendras",
+            "He/She": "attendra",
+            "We": "attendrons",
+            "You (plural)": "attendrez",
+            "They (plural)": "attendront"
         }
     },
     "conditional (conditionnel présent)": {
         "être": {
-            "I": "je serais",
-            "You (singular)": "tu serais",
-            "He/She": "il serait",
-            "We": "nous serions",
-            "You (plural)": "vous seriez",
-            "They (plural)": "ils seraient"
+            "I": "serais",
+            "You (singular)": "serais",
+            "He/She": "serait",
+            "We": "serions",
+            "You (plural)": "seriez",
+            "They (plural)": "seraient"
         },
         "avoir": {
-            "I": "j'aurais",
-            "You (singular)": "tu aurais",
-            "He/She": "il aurait",
-            "We": "nous aurions",
-            "You (plural)": "vous auriez",
-            "They (plural)": "ils auraient"
+            "I": "aurais",
+            "You (singular)": "aurais",
+            "He/She": "aurait",
+            "We": "aurions",
+            "You (plural)": "auriez",
+            "They (plural)": "auraient"
         },
         "faire": {
-            "I": "je ferais",
-            "You (singular)": "tu ferais",
-            "He/She": "il ferait",
-            "We": "nous ferions",
-            "You (plural)": "vous feriez",
-            "They (plural)": "ils feraient"
+            "I": "ferais",
+            "You (singular)": "ferais",
+            "He/She": "ferait",
+            "We": "ferions",
+            "You (plural)": "feriez",
+            "They (plural)": "feraient"
         },
         "aller": {
-            "I": "j'irais",
-            "You (singular)": "tu irais",
-            "He/She": "il irait",
-            "We": "nous irions",
-            "You (plural)": "vous iriez",
-            "They (plural)": "ils iraient"
+            "I": "irais",
+            "You (singular)": "irais",
+            "He/She": "irait",
+            "We": "irions",
+            "You (plural)": "iriez",
+            "They (plural)": "iraient"
         },
         "pouvoir": {
-            "I": "je pourrais",
-            "You (singular)": "tu pourrais",
-            "He/She": "il pourrait",
-            "We": "nous pourrions",
-            "You (plural)": "nous pourrions",
-            "They (plural)": "ils pourraient"
+            "I": "pourrais",
+            "You (singular)": "pourrais",
+            "He/She": "pourrait",
+            "We": "pourrions",
+            "You (plural)": "pourrions",
+            "They (plural)": "pourraient"
         },
         "parler": {
-            "I": "je parlerais",
-            "You (singular)": "tu parlerais",
-            "He/She": "il parlerait",
-            "We": "nous parlerions",
-            "You (plural)": "vous parleriez",
-            "They (plural)": "ils parleraient"
+            "I": "parlerais",
+            "You (singular)": "parlerais",
+            "He/She": "parlerait",
+            "We": "parlerions",
+            "You (plural)": "parleriez",
+            "They (plural)": "parleraient"
         },
         "choisir": {
-            "I": "je choisirais",
-            "You (singular)": "tu choisirais",
-            "He/She": "il choisirait",
-            "We": "nous choisirions",
-            "You (plural)": "vous choisiriez",
-            "They (plural)": "ils choisiraient"
+            "I": "choisirais",
+            "You (singular)": "choisirais",
+            "He/She": "choisirait",
+            "We": "choisirions",
+            "You (plural)": "choisiriez",
+            "They (plural)": "choisiraient"
         },
         "attendre": {
-            "I": "j'attendrais",
-            "You (singular)": "tu attendrais",
-            "He/She": "il attendrait",
-            "We": "nous attendrions",
-            "You (plural)": "vous attendriez",
-            "They (plural)": "ils attendraient"
+            "I": "attendrais",
+            "You (singular)": "attendrais",
+            "He/She": "attendrait",
+            "We": "attendrions",
+            "You (plural)": "attendriez",
+            "They (plural)": "attendraient"
         }
     },
     "subjunctive present (subjonctif présent)": {
         "être": {
-            "I": "je sois",
-            "You (singular)": "tu sois",
-            "He/She": "il soit",
-            "We": "nous soyons",
-            "You (plural)": "vous soyez",
-            "They (plural)": "ils soient"
+            "I": "sois",
+            "You (singular)": "sois",
+            "He/She": "soit",
+            "We": "soyons",
+            "You (plural)": "soyez",
+            "They (plural)": "soient"
         },
         "avoir": {
-            "I": "j'aie",
-            "You (singular)": "tu aies",
-            "He/She": "il ait",
-            "We": "nous ayons",
-            "You (plural)": "vous ayez",
-            "They (plural)": "ils aient"
+            "I": "aie",
+            "You (singular)": "aies",
+            "He/She": "ait",
+            "We": "ayons",
+            "You (plural)": "ayez",
+            "They (plural)": "aient"
         },
         "faire": {
-            "I": "je fasse",
-            "You (singular)": "tu fasses",
-            "He/She": "il fasse",
-            "We": "nous fassions",
-            "You (plural)": "vous fassiez",
-            "They (plural)": "ils fassent"
+            "I": "fasse",
+            "You (singular)": "fasses",
+            "He/She": "fasse",
+            "We": "fassions",
+            "You (plural)": "fassiez",
+            "They (plural)": "fassent"
         },
         "aller": {
-            "I": "j'aille",
-            "You (singular)": "tu ailles",
-            "He/She": "il aille",
-            "We": "nous allions",
-            "You (plural)": "vous alliez",
-            "They (plural)": "ils aillent"
+            "I": "aille",
+            "You (singular)": "ailles",
+            "He/She": "aille",
+            "We": "allions",
+            "You (plural)": "alliez",
+            "They (plural)": "aillent"
         },
         "pouvoir": {
-            "I": "je puisse",
-            "You (singular)": "tu puisses",
-            "He/She": "il puisse",
-            "We": "nous puissions",
-            "You (plural)": "vous puissiez",
-            "They (plural)": "ils puissent"
+            "I": "puisse",
+            "You (singular)": "puisses",
+            "He/She": "puisse",
+            "We": "puissions",
+            "You (plural)": "puissiez",
+            "They (plural)": "puissent"
         },
         "parler": {
-            "I": "je parle",
-            "You (singular)": "tu parles",
-            "He/She": "il parle",
-            "We": "nous parlions",
-            "You (plural)": "vous parliez",
-            "They (plural)": "ils parlent"
+            "I": "parle",
+            "You (singular)": "parles",
+            "He/She": "parle",
+            "We": "parlions",
+            "You (plural)": "parliez",
+            "They (plural)": "parlent"
         },
         "choisir": {
-            "I": "je choisisse",
-            "You (singular)": "tu choisisses",
-            "He/She": "il choisisse",
-            "We": "nous choisissions",
-            "You (plural)": "vous choisissiez",
-            "They (plural)": "ils choisissent"
+            "I": "choisisse",
+            "You (singular)": "choisisses",
+            "He/She": "choisisse",
+            "We": "choisissions",
+            "You (plural)": "choisissiez",
+            "They (plural)": "choisissent"
         },
         "attendre": {
-            "I": "j'attende",
-            "You (singular)": "tu attendes",
-            "He/She": "il attende",
-            "We": "nous attendions",
-            "You (plural)": "vous attendiez",
-            "They (plural)": "ils attendent"
+            "I": "attende",
+            "You (singular)": "attendes",
+            "He/She": "attende",
+            "We": "attendions",
+            "You (plural)": "attendiez",
+            "They (plural)": "attendent"
         }
     },
     "subjunctive imperfect (subjonctif imparfait)": {
         "être": {
-            "I": "je fusse",
-            "You (singular)": "tu fusses",
-            "He/She": "il fût",
-            "We": "nous fussions",
-            "You (plural)": "vous fussiez",
-            "They (plural)": "ils fussent"
+            "I": "fusse",
+            "You (singular)": "fusses",
+            "He/She": "fût",
+            "We": "fussions",
+            "You (plural)": "fussiez",
+            "They (plural)": "fussent"
         },
         "avoir": {
-            "I": "j'eusse",
-            "You (singular)": "tu eusses",
-            "He/She": "il eût",
-            "We": "nous eussions",
-            "You (plural)": "vous eussiez",
-            "They (plural)": "ils eussent"
+            "I": "eusse",
+            "You (singular)": "eusses",
+            "He/She": "eût",
+            "We": "eussions",
+            "You (plural)": "eussiez",
+            "They (plural)": "eussent"
         },
         "faire": {
-            "I": "je fisse",
-            "You (singular)": "tu fisses",
-            "He/She": "il fît",
-            "We": "nous fissions",
-            "You (plural)": "vous fissiez",
-            "They (plural)": "ils fissent"
+            "I": "fisse",
+            "You (singular)": "fisses",
+            "He/She": "fît",
+            "We": "fissions",
+            "You (plural)": "fissiez",
+            "They (plural)": "fissent"
         },
         "aller": {
-            "I": "j'allasse",
-            "You (singular)": "tu allasses",
-            "He/She": "il allât",
-            "We": "nous allassions",
-            "You (plural)": "vous allassiez",
-            "They (plural)": "ils allassent"
+            "I": "allasse",
+            "You (singular)": "allasses",
+            "He/She": "allât",
+            "We": "allassions",
+            "You (plural)": "allassiez",
+            "They (plural)": "allassent"
         },
         "pouvoir": {
-            "I": "je pusse",
-            "You (singular)": "tu pusses",
-            "He/She": "il pût",
-            "We": "nous pussions",
-            "You (plural)": "vous pussiez",
-            "They (plural)": "ils pussent"
+            "I": "pusse",
+            "You (singular)": "pusses",
+            "He/She": "pût",
+            "We": "pussions",
+            "You (plural)": "pussiez",
+            "They (plural)": "pussent"
         },
         "parler": {
-            "I": "je parlasse",
-            "You (singular)": "tu parlasses",
-            "He/She": "il parlât",
-            "We": "nous parlassions",
-            "You (plural)": "vous parlassiez",
-            "They (plural)": "ils parlassent"
+            "I": "parlasse",
+            "You (singular)": "parlasses",
+            "He/She": "parlât",
+            "We": "parlassions",
+            "You (plural)": "parlassiez",
+            "They (plural)": "parlassent"
         },
         "choisir": {
-            "I": "je choisisse",
-            "You (singular)": "tu choisisses",
-            "He/She": "il choisît",
-            "We": "nous choisissions",
-            "You (plural)": "vous choisissiez",
-            "They (plural)": "ils choisissent"
+            "I": "choisisse",
+            "You (singular)": "choisisses",
+            "He/She": "choisît",
+            "We": "choisissions",
+            "You (plural)": "choisissiez",
+            "They (plural)": "choisissent"
         },
         "attendre": {
-            "I": "j'attendisse",
-            "You (singular)": "tu attendisses",
-            "He/She": "il attendît",
-            "We": "nous attendissions",
-            "You (plural)": "vous attendissiez",
-            "They (plural)": "ils attendissent"
+            "I": "attendisse",
+            "You (singular)": "attendisses",
+            "He/She": "attendît",
+            "We": "attendissions",
+            "You (plural)": "attendissiez",
+            "They (plural)": "attendissent"
         }
     }
 }
