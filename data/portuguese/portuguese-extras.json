@@ -13,13 +13,13 @@
     },
     "reflexive pronouns": {
       "myself": "me",
-      "yourself": "você",
-      "himself": "o",
-      "herself": "a",
+      "yourself": "te",
+      "himself": "se",
+      "herself": "se",
       "ourselves": "nos",
-      "yourselves": "vocês",
-      "themselves (masculine) (plural)": "se, si",
-      "themselves (feminine) (plural)": "se, si"
+      "yourselves": "vos",
+      "themselves (masculine) (plural)": "se",
+      "themselves (feminine) (plural)": "se"
     },
     "direct object pronouns": {
       "me": "me",
@@ -32,8 +32,8 @@
       "them (feminine) (plural)": "as, las"
     },
     "indirect object pronouns": {
-      "me": "me, mim",
-      "you (singular)": "te, lhe",
+      "me": "me",
+      "you (singular)": "te",
       "him": "lhe",
       "her": "lhe",
       "us": "nos",
@@ -282,7 +282,7 @@
       "to go": "ir",
       "to be able to": "poder",
       "to get (obtain)": "conseguir, obter",
-      "to know (something)": "saber",
+      "to know (something)": "saber, conhecer",
       "to know (someone)": "conhecer",
       "to think": "pensar, achar, refletir",
       "to take (e.g. medicine)": "tomar",
@@ -399,7 +399,7 @@
       "recently": "recentemente",
       "already": "já",
       "before": "antes",
-      "after": "após, depois, mais tarde",
+      "after": "após, depois",
       "later (in the future)": "depois, tempos depois",
       "later (subsequently)": "posteriormente, subsequentemente",
       "still (as before)": "ainda assim, ainda",
@@ -451,7 +451,7 @@
       "the apples are red": "as maças são vermelhas",
       "he gives it to John": "ele o dá para John",
       "I must give it to him": "eu devo o dar para ele, eu devo o dar-lhe",
-      "I have eaten the apple": "eu comi a maçã",
+      "I have eaten the apple": "eu comi a maçã, eu tenho comido a maçã",
       "we give him the apple": "nós damos a maçã para ele, nós damos-lhe a maçã",
       "the apple is red": "a maçã é vermelha",
       "I want to give it to her": "eu quero o dar para ela, eu quero o dar-lhe",
