@@ -223,12 +223,12 @@
   },
   "preterite (pretérito perfeito)": {
     "ser": {
-      "I": "estive",
-      "You (singular)": "estiveste",
-      "He/She": "esteve",
-      "We": "estivemos",
-      "You (plural)": "estivestes",
-      "They (plural)": "estiveram"
+      "I": "fui",
+      "You (singular)": "foste",
+      "He/She": "foi",
+      "We": "fomos",
+      "You (plural)": "fostes",
+      "They (plural)": "foram"
     },
     "estar": {
       "I": "estive",
