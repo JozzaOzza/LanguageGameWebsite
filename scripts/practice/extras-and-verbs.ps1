@@ -14,6 +14,6 @@ process {
         & ".\extras-tester-choice.ps1"
     }
     else {
-        & ".\verb-tester.ps1" -AllConjugations
+        & ".\verb-tester-choice.ps1" -AllConjugations
     }
 }
