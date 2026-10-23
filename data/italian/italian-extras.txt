@@ -1,0 +1,244 @@
+(Language) italian
+(Table) Extras
+
+
+(Category) Subject Pronouns
+i = io
+you (singular) = tu
+he = lui
+she = lei
+it (masculine singular) = esso
+it (feminine singular) = essa
+you (formal) = lei
+us = noi
+you (plural) = voi
+they (plural) = essi
+
+
+(Category) Reflexive Pronouns
+myself = mi
+yourself = ti
+himself = si
+herself = si
+itself = se stesso
+ourselves = ci
+yourselves = vi
+themselves = si
+
+
+(Category) Connectives
+and = e
+also (likewise, too) = anche, pure
+also (end of phrase) = anche, pure, inoltre
+so (therefore) = quindi, dunque, perciò
+but = ma, però
+because = perché
+while (as long as) = mentre 
+while (e.g. while this is good, this is better) = finché
+or (for alternatives) = o, oppure
+instead of = anziché, invece di, al posto di
+therefore = di conseguenza, perciò, quindi, pertanto
+as long as = fintantoché, fintanto che, finché
+although = sebbene, benché, nonostante, anche se
+unless = a meno che non
+maybe = forse, magari
+furthermore = inoltre, oltretutto
+on the other hand = peraltro, d'altra parte, d'altro canto, d'altronde
+for example = per esempio, ad esempio
+such as = come, quale, quali
+overall = in generale, nel complesso, complessivamente
+in summary = in sintesi, riassumendo
+
+
+(Category) Prepositions
+in = in
+on = su
+at = a
+by (action e.g. this was done by him) = da
+by (close) = vicino a
+near to = vicino a, accanto a
+far from = lontano da, distante da
+between = tra, fra
+behind (position) = dietro
+behind (less developed) = indietro, arretrato
+in front = davanti a, di fronte a
+above = sopra, al di sopra di
+below = al di sotto di, sotto
+inside = dentro
+beside (location) = di fianco a, a fianco di, vicino a
+beside (comparison) = rispetto a, in confronto a
+before = prima
+after = dopo
+during = durante
+until = fino a
+since (time) = da, da quando
+since (because) = siccome, dato che, poiché, visto che, dal momento che
+throughout (time) = durante
+throughout (space) = ovunque, dappertutto
+to (direction) = a, in
+to (towards) = verso
+to (in order to) = per
+from = da
+into = in
+through (e.g. the bullet went through his body) = attraverso
+along (next to, the length of) = lungo, nel, attraverso
+across = atrraverso, per
+onto = su, sopra
+off of = da, giù da
+over = su, sopra
+under = sotto
+
+
+(Category) Question Words
+who = chi
+what = che cosa, cosa
+where = dove
+when = quando
+how = come
+why = perché, come mai
+which = quale, quali
+how much = quanto
+
+
+(Category) Common Phrases
+hello (general) = salve, buongiorno
+hello (evening) = buonasera
+hello (informal) = ciao 
+goodbye (general) = arrivederci
+goodbye (informal) = ciao
+good morning = buongiorno, buon giorno
+good afternoon = buon pomeriggio
+good evening = buonasera
+good night (going to bed) = buonanotte
+good night (farewell) = buona notte
+welcome (e.g. welcome to my home) = benvenuto
+nice to meet you = piacere
+please = per favore, per piacere, per cortesia
+thank you = grazie
+you’re welcome = prego, non c'è di che, di niente
+Excuse me (interjection) = scusa, scusami, scusi, mi scusi
+I'm sorry (apology) = scusa, scusami, scusi, mi scusi, mi dispiac
+yes = sì
+no = no
+of course = certo, certamente
+how are you? = come sta
+how much does this cost? = quanto costa 
+how do you say 'thing'? = come si dice 'thing'
+what is your name? = come ti chiami
+my name is = mi chiamo
+Could I get a still water? = Posso avere acqua naturale per favore
+Could I get a sparkling water please? = Posso avere acqua con gas per favore
+Do you have a table for two? = Ha un tavolo per due
+To take away (e.g. a pizza to take away) = portare via
+I cannot speak much Italian = Non posso parlare molto italiano
+
+(Category) Articles (definite, indefinite, partitive)
+a (masculine singular) = un, uno
+a (feminine singular) = una 
+the (masculine singular) = il, lo
+the (feminine singular) = la
+the (masculine plural) = i, gli
+the (masculine plural) = le
+all (masculine singular) = tutto
+all (feminine singular) = tutta
+all (masculine plural) = tutti
+all (feminine plural) = tutte
+some (people, events) = alcuni, qualche
+some (a few) (masculine singular) = del, dello
+some (a few) (feminine singular) = della
+some (a few) (masculine plural) = dei, degli
+some (a few) (feminine plural) = delle
+few (masculine singular) = poco
+few (feminine singular) = poca
+few (masculine plural) = pochi
+few (feminine plural) = poche
+each (masculine singular) = ogni, ciascuno
+each (feminine singular) = ogni, ciascuna
+any (some) (for questions or negative statements) (masculine singular) = del, dello
+any (some) (for questions or negative statements) (feminine singular) = della
+any (some) (for questions or negative statements) (masculine plural) = dei, degli
+any (some) (for questions or negative statements) (feminine plural) = delle
+any (whichever) = qualunque, qualsiasi
+different (e.g. different foods) (masculine plural) = diversi, varii
+different (e.g. different foods) (feminine plural) = diverse, varie
+too much = troppo
+too many = troppi
+almost all (masculine singular) = quasi tutto
+not any (masculine singular) = alcuno, nessuno
+not any (feminine singular) = alcuna, nessuna
+not any (masculine plural) = alcuni, nessuni
+not any (feminine plural) = alcune, nessune
+this (masculine) = questo
+this (feminine) = questa
+these (masculine) = questi
+these (feminine) = queste
+that (masculine) (before consonant) = quel
+that (masculine) (before vowel, s impura, ps, x, z) = quello
+that (feminine) = quella
+those (masculine) (before consonant) = quei
+those (masculine) (before vowel, s impura, ps, x, z) = quegli
+those (feminine) = quelle
+
+
+(Category) Cardinal Numbers
+one = uno
+two = due
+three = tre 
+four = quattro
+five = cinque
+six = sei
+seven = sette
+eight = otto
+nine = nove
+ten = dieci
+eleven = undici
+twelve = dodici
+thirteen = tredici
+fourteen = quattordici
+fifteen = quindici
+sixteen = sedici
+seventeen = diciassette
+eighteen = diciotto
+nineteen = diciannove
+twenty = venti
+thirty = trenta
+fourty = quaranta
+fifty = cinquante
+sixty = sessanta
+seventy = settanta
+eighty = ottanta
+ninety = novanta
+hundred = cento
+thousand = mille
+million = millione
+billion = miliardo
+
+
+(Category) Ordinal Numbers
+first (masculine singular) = primo
+second (masculine singular) = secondo
+third (masculine singular) = terzo
+fourth (masculine singular) = quarto
+fifth (masculine singular) = quinto 
+sixth (masculine singular) = sesto
+seventh (masculine singular) = settimo
+eighth (masculine singular) = ottavo
+ninth (masculine singular) = nono
+tenth (masculine singular) = decimo
+hundredth (masculine singular) = centesimo
+thousandth (masculine singular) = millesimo
+
+
+(Category) Fractional Numbers
+one half = metà
+one third = terzo
+two thirds = due terzi
+one quarter = quarto
+one fifth = quinto
+one sixth = sesto
+one seventh = settimo
+one eighth = ottavo
+one ninth = nono
+one tenth = decimo
+one hundredth = centesimo
+one thousandth = millesimo

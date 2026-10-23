@@ -1,0 +1,218 @@
+(Language) Template
+(Table) Extras
+
+
+(Category) Subject Pronouns
+I
+you (singular)
+He
+She
+It
+You (formal)
+We
+You (plural)
+They (plural)
+
+
+(Category) Reflexive Pronouns
+Myself
+Yourself
+Himself
+Herself
+Itself
+Ourselves
+Yourselves
+Themselves
+
+
+(Category) Connectives
+And
+As well, also
+So
+But
+Because
+While
+Or
+Instead of
+Therefore
+As long as
+Although
+Unless
+maybe
+Furthermore
+On the other hand
+For example
+Such as
+Overall
+In summary
+However
+
+
+(Category) Prepositions
+In
+On
+At
+By
+Near
+Far
+Between
+Behind
+In front
+Above
+Below
+Inside
+Beside
+Before
+After
+During
+Until
+Since
+Throughout
+To
+From
+Into
+Through
+Along
+Across
+Onto 
+Off of
+Over
+Under
+
+
+(Category) Question Words
+Who
+What
+What
+Where
+When
+How
+Why
+Which
+
+
+(Category) Common Phrases
+Hello
+Goodbye
+Good morning
+Good afternoon
+Good evening
+Good night
+Welcome (e.g. welcome to my home)
+Nice to meet you
+Please
+Thank you
+You’re welcome
+Excuse me (interjection)
+I'm sorry (apology)
+Yes
+No
+Of course
+How are you?
+How much does this cost?
+How do you say 'thing'?
+What is your name?
+My name is 'Jamie'
+Could I get a still water please? / I would like  a still water please
+Could I get a sparkling water please? / I would like a sparkling water please
+Do you have a table for two?
+To take away (e.g. a pizza to take away)
+I cannot speak much <language> 
+
+(Category) Articles (definite, indefinite, partitive)
+A
+The
+All
+Some
+Few
+Each
+Any
+Different (e.g. different foods)
+Too much
+Too many
+Almost all
+Not any
+None
+This
+These
+That
+Those 
+
+(Category) Cardinal Numbers
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+eleven
+twelve
+thirteen
+fourteen
+fifteen
+sixteen
+seventeen
+eighteen
+nineteen
+twenty
+thirty
+fourty
+fifty
+sixty
+seventy
+eighty
+ninety
+hundred
+thousand
+million
+billion
+
+
+(Category) Ordinal Numbers
+first
+second
+third
+fourth
+fifth
+sixth
+seventh
+eighth
+ninth
+tenth
+hundredth
+Thousandth
+
+
+(Category) Fractional Numbers
+One half
+One third
+Two thirds
+One quarter
+One fifth
+One sixth
+One seventh
+One eighth
+One ninth
+One tenth
+One hundredth
+One thousandth
+
+
+(Category) Tim Ferriss Practice
+It is John's apple
+I give the apple to John
+She gives it to him
+Is the apple red?
+The apples are red
+He gives it to John
+I must give it to him
+I have eaten the apple
+We give him the apple
+The apple is red
+I want to give it to her
+I can't eat the apple
+I'm going to know tomorrow

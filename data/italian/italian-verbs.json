@@ -1,0 +1,1140 @@
+{
+  "language": "italian",
+  "verbs": {
+    "common": {
+      "to be (location)": {
+        "infinitive": "essere, stare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to be (exist)": {
+        "infinitive": "essere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to have": {
+        "infinitive": "avere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to do": {
+        "infinitive": "fare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to say": {
+        "infinitive": "dire",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to go": {
+        "infinitive": "andare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to be able to": {
+        "infinitive": "potere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to get (obtain)": {
+        "infinitive": "ottenere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to know (something)": {
+        "infinitive": "sapere, conoscere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to know (someone)": {
+        "infinitive": "conoscere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to think": {
+        "infinitive": "pensare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to take (e.g. medicine)": {
+        "infinitive": "prendere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to take (e.g. the train)": {
+        "infinitive": "prendere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to take (bring)": {
+        "infinitive": "portare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to see": {
+        "infinitive": "vedere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to come": {
+        "infinitive": "venire",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to want": {
+        "infinitive": "volere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to look": {
+        "infinitive": "guardare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to use": {
+        "infinitive": "usare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to find (encounter)": {
+        "infinitive": "trovare, incontrare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to give": {
+        "infinitive": "dare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to tell": {
+        "infinitive": "dire, raccontare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to work (a job)": {
+        "infinitive": "lavorare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to work (function)": {
+        "infinitive": "funzionare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to call (shout for)": {
+        "infinitive": "chiamare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to try (attempt)": {
+        "infinitive": "provare, tentare, cercare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to ask (a question)": {
+        "infinitive": "chiedere, domandare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      }
+    },
+    "common (2)": {
+      "to put": {
+        "infinitive": "mettere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to show": {
+        "infinitive": "mostrare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to leave (e.g. they left some cake)": {
+        "infinitive": "lasciare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to run (move)": {
+        "infinitive": "correre",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to need (require)": {
+        "infinitive": "avere bisogno, necessitare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to play (a game)": {
+        "infinitive": "giocare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to believe": {
+        "infinitive": "credere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to talk": {
+        "infinitive": "parlare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to turn (left or right)": {
+        "infinitive": "girare, svoltare, curvare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to keep (hold)": {
+        "infinitive": "conservare, tenere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to bring": {
+        "infinitive": "portare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to feel (be conscious of)": {
+        "infinitive": "sentire",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to start": {
+        "infinitive": "iniziare, cominciare, incominciare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to help": {
+        "infinitive": "aiutare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to begin": {
+        "infinitive": "iniziare, cominciare, incominciare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to let (allow)": {
+        "infinitive": "permettere, consentire, lasciare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to leave (a place)": {
+        "infinitive": "partire, lasciare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to seem": {
+        "infinitive": "sembrare, parere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to mean (signify)": {
+        "infinitive": "significare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to live (be alive)": {
+        "infinitive": "essere vivo, vivere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to hear (perceive sound)": {
+        "infinitive": "sentire, udire",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to like": {
+        "infinitive": "piacere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to become": {
+        "infinitive": "diventare, divenire",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to hold (grasp)": {
+        "infinitive": "tenere, stringere, afferrare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to move (be in motion)": {
+        "infinitive": "muoversi",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      }
+    },
+    "common (3)": {
+      "to spend (time)": {
+        "infinitive": "passare, trascorrere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to learn": {
+        "infinitive": "imparare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to add (mathematical operation)": {
+        "infinitive": "sommare, addizionare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to add (say as well)": {
+        "infinitive": "aggiungere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to change (alter)": {
+        "infinitive": "cambiare, modificare, variare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to lead (head, manage)": {
+        "infinitive": "condurre, dirigere, capeggiare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to pay": {
+        "infinitive": "pagare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to provide": {
+        "infinitive": "fornire, procurare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to sit": {
+        "infinitive": "essere seduto, sedersi",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to stand (rise)": {
+        "infinitive": "alzarsi",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to happen": {
+        "infinitive": "succedere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to create": {
+        "infinitive": "creare, produrre",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to watch": {
+        "infinitive": "guardare, osservare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to write": {
+        "infinitive": "scrivere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to read": {
+        "infinitive": "leggere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to stop (halt)": {
+        "infinitive": "fermarsi, arrestarsi",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to speak": {
+        "infinitive": "parlare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to lose": {
+        "infinitive": "perdere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to continue": {
+        "infinitive": "continuare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to understand": {
+        "infinitive": "capire, comprendere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to meet (e.g. people)": {
+        "infinitive": "incontrare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to include": {
+        "infinitive": "includere, comprendere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to follow": {
+        "infinitive": "seguire",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to grow (become bigger)": {
+        "infinitive": "crescere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      }
+    },
+    "common (4)": {
+      "to build": {
+        "infinitive": "costruire, fabbricare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to serve": {
+        "infinitive": "servire",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to reach (a destination)": {
+        "infinitive": "arrivare, giungere, raggiungere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to cut (e.g. skin)": {
+        "infinitive": "tagliare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to open": {
+        "infinitive": "aprire",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to grow (e.g. a plant)": {
+        "infinitive": "coltivare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to remember": {
+        "infinitive": "ricordare, ricordarsi",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to wait": {
+        "infinitive": "aspettare, attendere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to walk": {
+        "infinitive": "camminare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to cut (reduce)": {
+        "infinitive": "tagliare, accorciare, ridurre",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to expect": {
+        "infinitive": "aspettare, prevedere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to offer": {
+        "infinitive": "offrire",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to send (cause to go)": {
+        "infinitive": "mandare, inviare, spedire",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to buy": {
+        "infinitive": "comprare, acquistare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to suggest (propose something)": {
+        "infinitive": "suggerire, proporre",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to win": {
+        "infinitive": "vincere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to appear (seem)": {
+        "infinitive": "sembrare, parere, apparire",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to die": {
+        "infinitive": "morire",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to stay": {
+        "infinitive": "restare, rimanere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to love": {
+        "infinitive": "amare, adorare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to remain": {
+        "infinitive": "restare, rimanere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to reach (attain)": {
+        "infinitive": "arrivare, raggiungere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to fall": {
+        "infinitive": "cadere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to consider (take into account)": {
+        "infinitive": "considerare, tenere conto, tenere in conto",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to kill": {
+        "infinitive": "uccidere, ammazzare, assassinare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      }
+    },
+    "common (5)": {
+      "to save (rescue)": {
+        "infinitive": "salvare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to pass (e.g. an exam)": {
+        "infinitive": "passare, superare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to remove (take out, take away)": {
+        "infinitive": "rimuovere, togliere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to pass (e.g. pass an object to someone)": {
+        "infinitive": "passare, dare, porgere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to need": {
+        "infinitive": "avere bisogno, necessitare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to raise (e.g. raise a child)": {
+        "infinitive": "crescere, allevare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to question (doubt)": {
+        "infinitive": "contestare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to forget": {
+        "infinitive": "dimenticarsi, scordarsi",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to hide": {
+        "infinitive": "nascondersi",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to break (an object)": {
+        "infinitive": "rompere, sfasciare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to let go (of something)": {
+        "infinitive": "lasciare andare, mollare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to close (e.g. a door)": {
+        "infinitive": "chiudere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to decide": {
+        "infinitive": "decidere, decidersi",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to save (money)": {
+        "infinitive": "risparmiare, mettere da parte",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to refuse": {
+        "infinitive": "rifiutare, rifiutarsi",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to raise (e.g. raise a glass)": {
+        "infinitive": "alzare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to pass (e.g. spend time)": {
+        "infinitive": "passare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to finish (doing something)": {
+        "infinitive": "finire, terminare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to respond (reply)": {
+        "infinitive": "rispondere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to lack": {
+        "infinitive": "mancare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to pull": {
+        "infinitive": "tirare, strattonare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to report (make public)": {
+        "infinitive": "riferire, riportare",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to prevent (someone from doing something)": {
+        "infinitive": "impedire",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      },
+      "to sell": {
+        "infinitive": "vendere",
+        "I": "",
+        "you (singular)": "",
+        "they (singular)": "",
+        "we": "",
+        "you (plural)": "",
+        "they (plural)": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,230 @@
+(Language) portuguese
+(Table) Extras
+
+
+(Category) Subject Pronouns
+i = eu
+you (singular) = você
+he = ele
+she = ela
+it (masculine) = ele
+it (feminine) = ela
+we = nós
+you (plural) = vocês
+they (masculine plural) = eles
+they (masculine plural) = elas
+
+
+(Category) Reflexive Pronouns
+myself = me
+yourself = você
+himself = o
+herself = a
+itself (masculine) = isso, isto, o, ele
+itself (feminine) = isso, isto, a, ela 
+ourselves = nos
+yourselves = vocês
+themselves (standard) (masculine) = os
+themselves (standard) (feminine) = as
+
+
+(Category) Connectives
+and = e
+also = também, além disso
+so (therefore) = por isso 
+but = mas, porém
+because = pois, por causa de, porque
+while = enquanto
+or = ou
+instead of = em vez de
+therefore = logo, portanto
+as long as = contanto que, desde que
+although = embora, apesar de
+unless = a menos que, a não ser que
+maybe = talvez
+furthermore = ademais, além disso, além do mais
+on the other hand = por outro lado
+for example = por exemplo
+such as = como
+overall = no geral
+in summary = em resumo
+however = contudo, entretanto
+
+
+(Category) Prepositions
+in = em
+on = em
+at = em, a
+by = por 
+near to = perto de, próximo de
+far from = longe de, distante de
+between = entre
+behind = atrás
+in front = em frente
+above = sobre
+below = abaixo, debaixo
+inside = dentro
+beside (position) = junto de, ao lado de
+beside (comparison) = ao lado de
+before = antes
+after = depois, após 
+during = durante
+until = até
+since = desde
+throughout = por todo
+to = a, para
+from = de
+into (inside of) = para dentro
+into (contact with) = em 
+through = por, através 
+along = paralelo a, ao longo de
+across = sobre
+onto = em
+off of = fora de
+over = sobre
+under = debaixo de, sob
+
+
+(Category) Question Words
+who = quem
+what = o que
+where = onde
+when = quando
+how = como
+why = por que
+which = qual
+
+
+(Category) Common Phrases
+hello = olá, oi
+goodbye = adeus, tchau
+good morning = bom dia
+good afternoon = boa tarde
+good evening = boa noite
+good night (going to bed) = boa noite
+good night (farewell) = boa noite
+welcome (e.g. welcome to my home) = bem-vindo 
+nice to meet you = muito prazer
+please = por favor
+thank you = obrigado
+you’re welcome = não tem de quê, de nada
+Excuse me (interjection) = com licença, desculpe, perdão
+I'm sorry (apology) = desculpe, sinto muito
+yes = sim
+no = não
+of course = com certeza, claro
+how are you? = como vai?, como está
+how much does this cost? = quanto custa isso
+how do you say 'thing'? = como você diz 'thing'
+what is your name? = qual o seu nome
+my name is = o meu nome é
+I would like a still water please = eu queria água por favor, queria água por favor
+Could I get a sparkling water please? = eu queria água com gás por favor, queria água com gás por favor
+Do you have a table for two? = tendes uma mesa para duas pessoas, tendes uma mesa para duas
+To take away (e.g. a pizza to take away) = para levar
+I cannot speak much Portuguese = não posso falar muito português
+
+(Category) Articles (definite, indefinite, partitive)
+a (masculine) = um
+a (feminine) = uma
+the (masculine singular) = o
+the (feminine singular) = a
+the (plural masculine) = os
+the (plural feminine) = as
+all (masculine singular) = todo
+all (feminine singular) = toda
+all (masculine plural) = todos
+all (feminine plural) = todas
+some (masculine singular) = algum
+some (feminine singular) = alguma
+some (masculine plural) = alguns
+some (feminine plural) = algumas
+few (masculine singular) = pouco
+few (feminine singular) = pouca
+few (masculine plural) = poucos
+few (feminine plural) = poucas
+each = cada
+any (questions or negative statements) (masculine singular) = algum, nenhum
+any (whichever) = qualquer 
+different (e.g. different foods) = diferentes
+too much = demais
+too many = demais
+almost all (masculine singular) = quase todo 
+not any = nenhum
+this (masculine) = este
+this (feminine) = esta
+these = estes
+that (masculine) (nearby) = esse
+that (masculine) (distant) = aquele
+that (feminine) (nearby) = essa
+that (feminine) (distant) = aquela
+that (neutral) (nearby) = isso
+that (neutral) (distant) = aquilo
+those (masculine) (nearby) = esses
+those (masculine) (distant) = aqueles
+those (feminine) (nearby) = essas
+those (feminine) (distant) = aquelas
+
+
+(Category) Cardinal Numbers
+one = um
+two = dois
+three = três
+four = quatro
+five = cinco
+six = seis
+seven = sete
+eight = oito
+nine = nove
+ten = dez
+eleven = onze
+twelve = doze
+thirteen = treze
+fourteen = catorze
+fifteen = quinze
+sixteen = dezesseis
+seventeen = dezassete
+eighteen = dezoito
+nineteen = dezanove
+twenty = vinte
+thirty = trinta
+fourty = quarenta
+fifty = cinquenta
+sixty = sessenta
+seventy = setenta
+eighty = oitenta
+ninety = noventa
+hundred = cem
+thousand = mil
+million = milhão
+billion = bilião
+
+
+(Category) Ordinal Numbers
+first (masculine singular) = primeiro
+second (masculine singular) = segundo
+third (masculine singular) = terceiro 
+fourth (masculine singular) = quarto 
+fifth (masculine singular) = quinto
+sixth (masculine singular) = sexto
+seventh (masculine singular) = sétimo
+eighth (masculine singular) = oitavo
+ninth (masculine singular) = nono
+tenth (masculine singular) = décimo
+hundredth (masculine singular) = centésimo
+thousandth (masculine singular) = milésimo
+
+
+(Category) Fractional Numbers
+one half = metade
+one third = terço
+two thirds = dois terços
+one quarter = um quarto
+one fifth = um quinto
+one sixth = um sexto
+one seventh = um sétimo
+one eighth = um oitavo
+one ninth = um nono
+one tenth = um décimo
+one hundredth = um centésimo
+one thousandth = um milésimo

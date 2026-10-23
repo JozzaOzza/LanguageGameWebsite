@@ -1,0 +1,594 @@
+{
+  "present (presente)": {
+    "ser": {
+      "I": "sou",
+      "You (singular)": "és",
+      "He/She": "é",
+      "We": "somos",
+      "You (plural)": "sois",
+      "They (plural)": "são"
+    },
+    "estar": {
+      "I": "estou",
+      "You (singular)": "estás",
+      "He/She": "está",
+      "We": "estamos",
+      "You (plural)": "estais",
+      "They (plural)": "estão"
+    },
+    "ter": {
+      "I": "tenho",
+      "You (singular)": "tens",
+      "He/She": "tem",
+      "We": "temos",
+      "You (plural)": "tendes",
+      "They (plural)": "têm"
+    },
+    "fazer": {
+      "I": "faço",
+      "You (singular)": "fazes",
+      "He/She": "faz",
+      "We": "fazemos",
+      "You (plural)": "fazeis",
+      "They (plural)": "fazem"
+    },
+    "ir": {
+      "I": "vou",
+      "You (singular)": "vais",
+      "He/She": "vai",
+      "We": "vamos, vimos",
+      "You (plural)": "ides",
+      "They (plural)": "vão"
+    },
+    "poder": {
+      "I": "posso",
+      "You (singular)": "podes",
+      "He/She": "pode",
+      "We": "podemos",
+      "You (plural)": "podeis",
+      "They (plural)": "podem"
+    },
+    "falar": {
+      "I": "falo",
+      "You (singular)": "falas",
+      "He/She": "fala",
+      "We": "falamos",
+      "You (plural)": "falais",
+      "They (plural)": "falam"
+    },
+    "comer": {
+      "I": "como",
+      "You (singular)": "comes",
+      "He/She": "come",
+      "We": "comemos",
+      "You (plural)": "comeis",
+      "They (plural)": "comem"
+    },
+    "partir": {
+      "I": "parto",
+      "You (singular)": "partes",
+      "He/She": "parte",
+      "We": "partimos",
+      "You (plural)": "partis",
+      "They (plural)": "partem"
+    }
+  },
+  "perfect (pretérito perfeito composto)": {
+    "ser": {
+      "I": "tenho sido",
+      "You (singular)": "tens sido",
+      "He/She": "tem sido",
+      "We": "temos sido",
+      "You (plural)": "tendes sido",
+      "They (plural)": "têm sido"
+    },
+    "estar": {
+      "I": "tenho estado",
+      "You (singular)": "tens estado",
+      "He/She": "tem estado",
+      "We": "temos estado",
+      "You (plural)": "tendes estado",
+      "They (plural)": "têm estado"
+    },
+    "ter": {
+      "I": "tenho tido",
+      "You (singular)": "tens tido",
+      "He/She": "tem tido",
+      "We": "temos tido",
+      "You (plural)": "tendes tido",
+      "They (plural)": "têm tido"
+    },
+    "fazer": {
+      "I": "tenho feito",
+      "You (singular)": "tens feito",
+      "He/She": "tem feito",
+      "We": "temos feito",
+      "You (plural)": "tendes feito",
+      "They (plural)": "têm feito"
+    },
+    "ir": {
+      "I": "tenho ido",
+      "You (singular)": "tens ido",
+      "He/She": "tem ido",
+      "We": "temos ido",
+      "You (plural)": "tendes ido",
+      "They (plural)": "têm ido"
+    },
+    "poder": {
+      "I": "tenho podido",
+      "You (singular)": "tens podido",
+      "He/She": "tem podido",
+      "We": "temos podido",
+      "You (plural)": "tendes podido",
+      "They (plural)": "têm podido"
+    },
+    "falar": {
+      "I": "tenho falado",
+      "You (singular)": "tens falado",
+      "He/She": "tem falado",
+      "We": "temos falado",
+      "You (plural)": "tendes falado",
+      "They (plural)": "têm falado"
+    },
+    "comer": {
+      "I": "tenho comido",
+      "You (singular)": "tens comido",
+      "He/She": "tem comido",
+      "We": "temos comido",
+      "You (plural)": "tendes comido",
+      "They (plural)": "têm comido"
+    },
+    "partir": {
+      "I": "tenho partido",
+      "You (singular)": "tens partido",
+      "He/She": "tem partido",
+      "We": "temos partido",
+      "You (plural)": "tendes partido",
+      "They (plural)": "têm partido"
+    }
+  },
+  "imperfect (pretérito imperfeito)": {
+    "ser": {
+      "I": "era",
+      "You (singular)": "eras",
+      "He/She": "era",
+      "We": "éramos",
+      "You (plural)": "éreis",
+      "They (plural)": "eram"
+    },
+    "estar": {
+      "I": "estava",
+      "You (singular)": "estavas",
+      "He/She": "estava",
+      "We": "estávamos",
+      "You (plural)": "estáveis",
+      "They (plural)": "estavam"
+    },
+    "ter": {
+      "I": "tinha",
+      "You (singular)": "tinhas",
+      "He/She": "tinha",
+      "We": "tínhamos",
+      "You (plural)": "tínheis",
+      "They (plural)": "tinham"
+    },
+    "fazer": {
+      "I": "fazia",
+      "You (singular)": "fazias",
+      "He/She": "fazia",
+      "We": "fazíamos",
+      "You (plural)": "fazíeis",
+      "They (plural)": "faziam"
+    },
+    "ir": {
+      "I": "ia",
+      "You (singular)": "ias",
+      "He/She": "ia",
+      "We": "íamos",
+      "You (plural)": "íeis",
+      "They (plural)": "iam"
+    },
+    "poder": {
+      "I": "podia",
+      "You (singular)": "podias",
+      "He/She": "podia",
+      "We": "podíamos",
+      "You (plural)": "podíeis",
+      "They (plural)": "podiam"
+    },
+    "falar": {
+      "I": "falava",
+      "You (singular)": "falavas",
+      "He/She": "falava",
+      "We": "falávamos",
+      "You (plural)": "faláveis",
+      "They (plural)": "falavam"
+    },
+    "comer": {
+      "I": "comia",
+      "You (singular)": "comias",
+      "He/She": "comia",
+      "We": "comíamos",
+      "You (plural)": "comíeis",
+      "They (plural)": "comiam"
+    },
+    "partir": {
+      "I": "partia",
+      "You (singular)": "partias",
+      "He/She": "partia",
+      "We": "partíamos",
+      "You (plural)": "partíeis",
+      "They (plural)": "partiam"
+    }
+  },
+  "preterite (pretérito perfeito)": {
+    "ser": {
+      "I": "fui",
+      "You (singular)": "foste",
+      "He/She": "foi",
+      "We": "fomos",
+      "You (plural)": "fostes",
+      "They (plural)": "foram"
+    },
+    "estar": {
+      "I": "estive",
+      "You (singular)": "estiveste",
+      "He/She": "esteve",
+      "We": "estivemos",
+      "You (plural)": "estivestes",
+      "They (plural)": "estiveram"
+    },
+    "ter": {
+      "I": "tive",
+      "You (singular)": "tiveste",
+      "He/She": "teve",
+      "We": "tivemos",
+      "You (plural)": "tivestes",
+      "They (plural)": "tiveram"
+    },
+    "fazer": {
+      "I": "fiz",
+      "You (singular)": "fizeste",
+      "He/She": "fez",
+      "We": "fizemos",
+      "You (plural)": "fizestes",
+      "They (plural)": "fizeram"
+    },
+    "ir": {
+      "I": "fui",
+      "You (singular)": "foste",
+      "He/She": "foi",
+      "We": "fomos",
+      "You (plural)": "fostes",
+      "They (plural)": "foram"
+    },
+    "poder": {
+      "I": "pude",
+      "You (singular)": "pudeste",
+      "He/She": "pôde",
+      "We": "pudemos",
+      "You (plural)": "pudestes",
+      "They (plural)": "puderam"
+    },
+    "falar": {
+      "I": "falei",
+      "You (singular)": "falaste",
+      "He/She": "falou",
+      "We": "falámos",
+      "You (plural)": "falastes",
+      "They (plural)": "falaram"
+    },
+    "comer": {
+      "I": "comi",
+      "You (singular)": "comeste",
+      "He/She": "comeu",
+      "We": "comemos",
+      "You (plural)": "comestes",
+      "They (plural)": "comeram"
+    },
+    "partir": {
+      "I": "parti",
+      "You (singular)": "partiste",
+      "He/She": "partiu",
+      "We": "partimos",
+      "You (plural)": "partistes",
+      "They (plural)": "partiram"
+    }
+  },
+  "future (futuro simples)": {
+    "ser": {
+      "I": "serei",
+      "You (singular)": "serás",
+      "He/She": "será",
+      "We": "seremos",
+      "You (plural)": "sereis",
+      "They (plural)": "serão"
+    },
+    "estar": {
+      "I": "estarei",
+      "You (singular)": "estarás",
+      "He/She": "estará",
+      "We": "estaremos",
+      "You (plural)": "estareis",
+      "They (plural)": "estarão"
+    },
+    "ter": {
+      "I": "terei",
+      "You (singular)": "terás",
+      "He/She": "terá",
+      "We": "teremos",
+      "You (plural)": "tereis",
+      "They (plural)": "terão"
+    },
+    "fazer": {
+      "I": "farei",
+      "You (singular)": "farás",
+      "He/She": "fará",
+      "We": "faremos",
+      "You (plural)": "fareis",
+      "They (plural)": "farão"
+    },
+    "ir": {
+      "I": "irei",
+      "You (singular)": "irás",
+      "He/She": "irá",
+      "We": "iremos",
+      "You (plural)": "ireis",
+      "They (plural)": "irão"
+    },
+    "poder": {
+      "I": "poderei",
+      "You (singular)": "poderás",
+      "He/She": "poderá",
+      "We": "poderemos",
+      "You (plural)": "podereis",
+      "They (plural)": "poderão"
+    },
+    "falar": {
+      "I": "falarei",
+      "You (singular)": "falarás",
+      "He/She": "falará",
+      "We": "falaremos",
+      "You (plural)": "falareis",
+      "They (plural)": "falarão"
+    },
+    "comer": {
+      "I": "comerei",
+      "You (singular)": "comerás",
+      "He/She": "comerá",
+      "We": "comeremos",
+      "You (plural)": "comereis",
+      "They (plural)": "comerão"
+    },
+    "partir": {
+      "I": "partirei",
+      "You (singular)": "partirás",
+      "He/She": "partirá",
+      "We": "partiremos",
+      "You (plural)": "partireis",
+      "They (plural)": "partirão"
+    }
+  },
+  "conditional (condicional simples)": {
+    "ser": {
+      "I": "seria",
+      "You (singular)": "serias",
+      "He/She": "seria",
+      "We": "seríamos",
+      "You (plural)": "seríeis",
+      "They (plural)": "seriam"
+    },
+    "estar": {
+      "I": "estaria",
+      "You (singular)": "estarias",
+      "He/She": "estaria",
+      "We": "estaríamos",
+      "You (plural)": "estaríeis",
+      "They (plural)": "estariam"
+    },
+    "ter": {
+      "I": "teria",
+      "You (singular)": "terias",
+      "He/She": "teria",
+      "We": "teríamos",
+      "You (plural)": "teríeis",
+      "They (plural)": "teriam"
+    },
+    "fazer": {
+      "I": "faria",
+      "You (singular)": "farias",
+      "He/She": "faria",
+      "We": "faríamos",
+      "You (plural)": "faríeis",
+      "They (plural)": "fariam"
+    },
+    "ir": {
+      "I": "iria",
+      "You (singular)": "irias",
+      "He/She": "iria",
+      "We": "iríamos",
+      "You (plural)": "iríeis",
+      "They (plural)": "iriam"
+    },
+    "poder": {
+      "I": "poderia",
+      "You (singular)": "poderias",
+      "He/She": "poderia",
+      "We": "poderíamos",
+      "You (plural)": "poderíeis",
+      "They (plural)": "poderiam"
+    },
+    "falar": {
+      "I": "falaria",
+      "You (singular)": "falarias",
+      "He/She": "falaria",
+      "We": "falaríamos",
+      "You (plural)": "falaríeis",
+      "They (plural)": "falariam"
+    },
+    "comer": {
+      "I": "comeria",
+      "You (singular)": "comerias",
+      "He/She": "comeria",
+      "We": "comeríamos",
+      "You (plural)": "comeríeis",
+      "They (plural)": "comeriam"
+    },
+    "partir": {
+      "I": "partiria",
+      "You (singular)": "partirias",
+      "He/She": "partiria",
+      "We": "partiríamos",
+      "You (plural)": "partiríeis",
+      "They (plural)": "partiriam"
+    }
+  },
+  "subjunctive present (presente conjuntivo)": {
+    "ser": {
+      "I": "seja",
+      "You (singular)": "sejas",
+      "He/She": "seja",
+      "We": "sejamos",
+      "You (plural)": "sejais",
+      "They (plural)": "sejam"
+    },
+    "estar": {
+      "I": "esteja",
+      "You (singular)": "estejas",
+      "He/She": "esteja",
+      "We": "estejamos",
+      "You (plural)": "estejais",
+      "They (plural)": "estejam"
+    },
+    "ter": {
+      "I": "tenha",
+      "You (singular)": "tenhas",
+      "He/She": "tenha",
+      "We": "tenhamos",
+      "You (plural)": "tenhais",
+      "They (plural)": "tenham"
+    },
+    "fazer": {
+      "I": "faça",
+      "You (singular)": "faças",
+      "He/She": "faça",
+      "We": "façamos",
+      "You (plural)": "façais",
+      "They (plural)": "façam"
+    },
+    "ir": {
+      "I": "vá",
+      "You (singular)": "vás",
+      "He/She": "vá",
+      "We": "vamos",
+      "You (plural)": "vades",
+      "They (plural)": "vão"
+    },
+    "poder": {
+      "I": "possa",
+      "You (singular)": "possas",
+      "He/She": "possa",
+      "We": "possamos",
+      "You (plural)": "possais",
+      "They (plural)": "possam"
+    },
+    "falar": {
+      "I": "fale",
+      "You (singular)": "fales",
+      "He/She": "fale",
+      "We": "falemos",
+      "You (plural)": "faleis",
+      "They (plural)": "falem"
+    },
+    "comer": {
+      "I": "coma",
+      "You (singular)": "comas",
+      "He/She": "coma",
+      "We": "comamos",
+      "You (plural)": "comais",
+      "They (plural)": "comam"
+    },
+    "partir": {
+      "I": "parta",
+      "You (singular)": "partas",
+      "He/She": "parta",
+      "We": "partamos",
+      "You (plural)": "partais",
+      "They (plural)": "partam"
+    }
+  },
+  "subjunctive imperfect (pretérito imperfeito conjuntivo)": {
+    "ser": {
+      "I": "fosse",
+      "You (singular)": "fosses",
+      "He/She": "fosse",
+      "We": "fôssemos",
+      "You (plural)": "fôsseis",
+      "They (plural)": "fossem"
+    },
+    "estar": {
+      "I": "estivesse",
+      "You (singular)": "estivesses",
+      "He/She": "estivesse",
+      "We": "estivéssemos",
+      "You (plural)": "estivésseis",
+      "They (plural)": "estivessem"
+    },
+    "ter": {
+      "I": "tivesse",
+      "You (singular)": "tivesses",
+      "He/She": "tivesse",
+      "We": "tivéssemos",
+      "You (plural)": "tivésseis",
+      "They (plural)": "tivessem"
+    },
+    "fazer": {
+      "I": "fizesse",
+      "You (singular)": "fizesses",
+      "He/She": "fizesse",
+      "We": "fizéssemos",
+      "You (plural)": "fizésseis",
+      "They (plural)": "fizessem"
+    },
+    "ir": {
+      "I": "fosse",
+      "You (singular)": "fosses",
+      "He/She": "fosse",
+      "We": "fôssemos",
+      "You (plural)": "fôsseis",
+      "They (plural)": "fossem"
+    },
+    "poder": {
+      "I": "pudesse",
+      "You (singular)": "pudesses",
+      "He/She": "pudesse",
+      "We": "pudéssemos",
+      "You (plural)": "pudésseis",
+      "They (plural)": "pudessem"
+    },
+    "falar": {
+      "I": "falasse",
+      "You (singular)": "falasses",
+      "He/She": "falasse",
+      "We": "falássemos",
+      "You (plural)": "falásseis",
+      "They (plural)": "falassem"
+    },
+    "comer": {
+      "I": "comesse",
+      "You (singular)": "comesses",
+      "He/She": "comesse",
+      "We": "comêssemos",
+      "You (plural)": "comêsseis",
+      "They (plural)": "comessem"
+    },
+    "partir": {
+      "I": "partisse",
+      "You (singular)": "partisses",
+      "He/She": "partisse",
+      "We": "partíssemos",
+      "You (plural)": "partísseis",
+      "They (plural)": "partissem"
+    }
+  }
+}

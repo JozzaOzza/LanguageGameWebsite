@@ -1,0 +1,238 @@
+(Language) french
+(Table) Extras
+
+
+(Category) Subject Pronouns
+i = je
+you (singular) = tu
+he = il 
+she = elle 
+it (masculine) = il
+it (feminine) = elle
+you (formal singular, general) = on
+us = nous
+you (plural) = vous
+they (masculine plural) = ils
+they (feminine plural) = elles
+
+
+(Category) Reflexive Pronouns
+myself = me
+yourself = te
+himself = se
+herself = se
+itself = se
+yourself (formal singular) = se
+ourselves = nous
+yourselves = vous 
+themselves = se
+
+
+(Category) Connectives
+and = et
+also (start of phrase) = de plus, en outre
+also (end of phrase) = aussi, également
+so (therefore) = donc, alors
+but = mais
+because = parce que, car
+while (as long as) = pendant que, 
+while (e.g. while this is good, this is better) = tant que, tandis que
+or (for alternatives) = ou, ou bien, ou encore
+instead of = au lieu de, à la place de, plutôt que
+therefore = donc, par conséquent
+as long as = pendant que
+although = bien que, quoique, même si 
+unless = à moins que, à moins de, excepté si, sauf si
+maybe = peut-être
+furthermore = de plus, en outre
+on the other hand = d'un autre côté, de l'autre, d'autre part, par contre
+for example = par exemple
+such as = comme, tel que, telle que
+overall = dans l'ensemble, en général
+in summary = en résumé, pour résumer
+
+
+(Category) Prepositions
+in (continent, feminine country) = en
+in (masculine country) = au
+in (town, city) = à
+in (specific place e.g. in the car) = dans
+on = sur
+at = à
+by (action e.g. this was done by him) = par
+by (close) = près de, à côté de
+near to = proche de, près de
+far from = loin de 
+between = entre
+behind (position) = à l'arrière, derrière
+behind (less developed) = en retard, à la traîne
+in front = devant
+above = au-dessus de
+below = sous, en dessous de
+inside = dans, à l'intérieur de
+beside (location) = près de, à côté de
+beside (comparison) = comparé, à côté de, par rapport à
+before = avant
+after = après
+during = pendant, durant
+until = jusqu'à
+since (time) = depuis
+since (because) = puisque 
+throughout (time) = tout au long de, durant
+throughout (space) = d'un bout à l'autre, à travers
+to (direction) = à
+to (towards) = vers
+to (in order to) = pour
+from = de
+into = dans
+through (e.g. the bullet went through his body) = à travers
+along (next to, the length of)= le long de, dans, sur
+across = à travers
+onto = sur
+off of = de
+over = sur, par dessus
+under = sous
+
+
+(Category) Question Words
+who = qui
+what = que, qu'est ce que, quoi
+where = où
+when (at what time) = quand
+when (at which time) = à quelle heure
+how = comment
+why = pourquoi
+which (masculine singular) = quel
+which (feminine singular) = quelle
+which one (masculine singular) = lequel
+which one (feminine singular) = laquelle
+how much = combien de
+
+(Category) Common Phrases
+hello (general, morning) = bonjour
+hello (familiar) = coucou, salut
+hello (evening) = bonsoir
+goodbye = au revoir, adieu
+good morning = bonjour
+good afternoon = bonjour
+good evening = 
+good night (going to bed) = bonne nuit
+good night (farewell) = au revoir, bonsoir, bonne soirée 
+welcome (e.g. welcome to my home) = bienvenue
+nice to meet you = enchanté, ravi de te rencontrer, ravi de vous rencontrer, très heureux, très heureuse
+please (request) = s'il te plaît, s'il vous plaît
+thank you = merci
+you’re welcome = de rien, il n'y a pas de quoi, je t'en prie, je vous en prie
+Excuse me (interjection) = s'il vous plaît, s'il te plaît, pardon, excusez-moi, excuse-moi
+I'm sorry (apology) = je suis navré, je suis désolé, je regrette, je te demande pardon, je vous demande pardon
+yes = oui
+no = non
+of course = bien entendu, bien sûr
+how are you? = ça va, comment ça va
+how much does it cost? = combien coûte ça
+how do you say 'thing'? = comment dit-on 'thing'
+what is your name? = comment t'appelles tu
+my name is = je m'appelle
+I would like a still water = je voudrais de l'eau plate
+I would like a sparkling water = je voudrais de l'eau gazeuse, je voudrais de l'eau pétillante
+Do you have a table for two? = avez vous une table pour deux
+To take away (e.g. a pizza to take away) = à emporter
+I cannot speak much French = je ne peux pas parler beaucoup de français
+
+(Category) Articles (definite, indefinite, partitive)
+a (masculine singular) = un
+a (feminine singular) = une 
+the (masculine singular) = le
+the (feminine singular) = la
+the (plural) = les
+all (masculine singular) = tout
+all (feminine singular) = toute
+all (plural) = tous
+some (a few) = des, quelques
+few = peu de
+each = chaque
+any (some) (for questions or negative statements) (masculine singular) = du
+any (some) (for questions or negative statements) (feminine singular) = de l', de la
+any (some) (for questions or negative statements) (plural) = des
+any (some) (masculine singular) = un
+any (some) (masculine singular) = une
+any (some) (plural) = des
+different (e.g. different foods) = différents
+too much = trop de
+too many = trop de
+almost all (masculine singular)= presque tout, quasiment tout
+not any (masculine singular) = aucun
+not any (feminine singular) = aucune
+this (masculine) = ce
+this (masculine) (followed by vowel) = cet
+this (feminine) = cette
+these = ces
+that (masculine) = ce
+that (masculine) (followed by vowel) = cet
+that (feminine) = cette
+those = ces
+
+
+(Category) Cardinal Numbers
+zero = 	zéro
+one = un
+two = deux
+three = trois
+four = quatre
+five = cinq
+six = six
+seven = sept
+eight = huit
+nine = neuf
+ten = dix
+eleven = onze
+twelve = douze
+thirteen = treize
+fourteen = quatorze
+fifteen = quinze
+sixteen = seize
+seventeen = dix-sept
+eighteen = dix-huit
+nineteen = dix-neuf
+twenty = vingt
+thirty = trente
+fourty = quarante
+fifty = cinquante
+sixty = soixante
+seventy = soixante-dix
+eighty = quatre-vingts
+ninety = quatre-vingts-dix
+hundred = cent
+thousand = mille
+million = million
+billion = milliard
+
+
+(Category) Ordinal Numbers
+first (masculine singular) = premier
+second (masculine singular) = deuxième, second
+third (masculine singular) = troisième
+fourth (masculine singular) = quatrième
+fifth (masculine singular) = cinquième
+sixth (masculine singular) = sixième
+seventh (masculine singular) = septième
+eighth (masculine singular) = huitième
+ninth (masculine singular) = neuvième
+tenth (masculine singular) = dixième
+hundredth (masculine singular) = centième
+thousandth (masculine singular) = millième
+
+
+(Category) Fractional Numbers
+one half = moitié
+one third = tiers
+two thirds = deux tiers
+one quarter = quart
+one fifth = cinquième
+one sixth = sixième
+one seventh = septième
+one eighth = huitième
+one ninth = neuvième
+one tenth = dixième
+one hundredth = centième
+one thousandth = millième

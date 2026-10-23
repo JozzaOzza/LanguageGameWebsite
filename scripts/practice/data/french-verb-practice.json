@@ -1,0 +1,530 @@
+{
+    "present (présent)": {
+        "être": {
+            "I": "suis",
+            "You (singular)": "es",
+            "He/She": "est",
+            "We": "sommes",
+            "You (plural)": "êtes",
+            "They (plural)": "sont"
+        },
+        "avoir": {
+            "I": "ai",
+            "You (singular)": "as",
+            "He/She": "a",
+            "We": "avons",
+            "You (plural)": "avez",
+            "They (plural)": "ont"
+        },
+        "faire": {
+            "I": "fais",
+            "You (singular)": "fais",
+            "He/She": "fait",
+            "We": "faisons",
+            "You (plural)": "faites",
+            "They (plural)": "font"
+        },
+        "aller": {
+            "I": "vais",
+            "You (singular)": "vas",
+            "He/She": "va",
+            "We": "allons",
+            "You (plural)": "allez",
+            "They (plural)": "vont"
+        },
+        "pouvoir": {
+            "I": "peux, puis",
+            "You (singular)": "peux",
+            "He/She": "peut",
+            "We": "pouvons",
+            "You (plural)": "pouvez",
+            "They (plural)": "peuvent"
+        },
+        "parler": {
+            "I": "parle",
+            "You (singular)": "parles",
+            "He/She": "parle",
+            "We": "parlons",
+            "You (plural)": "parlez",
+            "They (plural)": "parlent"
+        },
+        "choisir": {
+            "I": "choisis",
+            "You (singular)": "choisis",
+            "He/She": "choisit",
+            "We": "choisissons",
+            "You (plural)": "choisissez",
+            "They (plural)": "choisissent"
+        },
+        "attendre": {
+            "I": "attends",
+            "You (singular)": "attends",
+            "He/She": "attend",
+            "We": "attendons",
+            "You (plural)": "attendez",
+            "They (plural)": "attendent"
+        }
+    },
+    "perfect (passé composé)": {
+        "être": {
+            "I": "ai été",
+            "You (singular)": "as été",
+            "He/She": "a été",
+            "We": "avons été",
+            "You (plural)": "avez été",
+            "They (plural)": "ont été"
+        },
+        "avoir": {
+            "I": "ai eu",
+            "You (singular)": "as eu",
+            "He/She": "a eu",
+            "We": "avons eu",
+            "You (plural)": "avez eu",
+            "They (plural)": "ont eu"
+        },
+        "faire": {
+            "I": "ai fait",
+            "You (singular)": "as fait",
+            "He/She": "a fait",
+            "We": "avons fait",
+            "You (plural)": "avez fait",
+            "They (plural)": "ont fait"
+        },
+        "aller": {
+            "I": "suis allé",
+            "You (singular)": "es allé",
+            "He/She": "est allé",
+            "We": "sommes allés",
+            "You (plural)": "êtes allés",
+            "They (plural)": "sont allés"
+        },
+        "pouvoir": {
+            "I": "ai pu",
+            "You (singular)": "as pu",
+            "He/She": "a pu",
+            "We": "avons pu",
+            "You (plural)": "avez pu",
+            "They (plural)": "ont pu"
+        },
+        "parler": {
+            "I": "ai parlé",
+            "You (singular)": "as parlé",
+            "He/She": "a parlé",
+            "We": "avons parlé",
+            "You (plural)": "avez parlé",
+            "They (plural)": "ont parlé"
+        },
+        "choisir": {
+            "I": "ai choisi",
+            "You (singular)": "as choisi",
+            "He/She": "a choisi",
+            "We": "avons choisi",
+            "You (plural)": "avez choisi",
+            "They (plural)": "ont choisi"
+        },
+        "attendre": {
+            "I": "ai attendu",
+            "You (singular)": "as attendu",
+            "He/She": "a attendu",
+            "We": "avons attendu",
+            "You (plural)": "avez attendu",
+            "They (plural)": "ont attendu"
+        }
+    },
+    "imperfect (imparfait)": {
+        "être": {
+            "I": "étais",
+            "You (singular)": "étais",
+            "He/She": "était",
+            "We": "étions",
+            "You (plural)": "étiez",
+            "They (plural)": "étaient"
+        },
+        "avoir": {
+            "I": "avais",
+            "You (singular)": "avais",
+            "He/She": "avait",
+            "We": "avions",
+            "You (plural)": "aviez",
+            "They (plural)": "avaient"
+        },
+        "faire": {
+            "I": "faisais",
+            "You (singular)": "faisais",
+            "He/She": "faisait",
+            "We": "faisions",
+            "You (plural)": "faisiez",
+            "They (plural)": "faisaient"
+        },
+        "aller": {
+            "I": "allais",
+            "You (singular)": "allais",
+            "He/She": "allait",
+            "We": "allions",
+            "You (plural)": "alliez",
+            "They (plural)": "allaient"
+        },
+        "pouvoir": {
+            "I": "pouvais",
+            "You (singular)": "pouvais",
+            "He/She": "pouvait",
+            "We": "pouvions",
+            "You (plural)": "pouviez",
+            "They (plural)": "pouvaient"
+        },
+        "parler": {
+            "I": "parlais",
+            "You (singular)": "parlais",
+            "He/She": "parlait",
+            "We": "parlions",
+            "You (plural)": "parliez",
+            "They (plural)": "parlaient"
+        },
+        "choisir": {
+            "I": "choisissais",
+            "You (singular)": "choisissais",
+            "He/She": "choisissait",
+            "We": "choisissions",
+            "You (plural)": "choisissiez",
+            "They (plural)": "choisissaient"
+        },
+        "attendre": {
+            "I": "attendais",
+            "You (singular)": "attendais",
+            "He/She": "attendait",
+            "We": "attendions",
+            "You (plural)": "attendiez",
+            "They (plural)": "attendaient"
+        }
+    },
+    "preterite (passé simple)": {
+        "être": {
+            "I": "fus",
+            "You (singular)": "fus",
+            "He/She": "fut",
+            "We": "fûmes",
+            "You (plural)": "fûtes",
+            "They (plural)": "furent"
+        },
+        "avoir": {
+            "I": "eus",
+            "You (singular)": "eus",
+            "He/She": "eut",
+            "We": "eûmes",
+            "You (plural)": "eûtes",
+            "They (plural)": "eurent"
+        },
+        "faire": {
+            "I": "fis",
+            "You (singular)": "fis",
+            "He/She": "fit",
+            "We": "fîmes",
+            "You (plural)": "fîtes",
+            "They (plural)": "firent"
+        },
+        "aller": {
+            "I": "allai",
+            "You (singular)": "allas",
+            "He/She": "alla",
+            "We": "allâmes",
+            "You (plural)": "allâtes",
+            "They (plural)": "allèrent"
+        },
+        "pouvoir": {
+            "I": "pus",
+            "You (singular)": "pus",
+            "He/She": "put",
+            "We": "pûmes",
+            "You (plural)": "pûtes",
+            "They (plural)": "purent"
+        },
+        "parler": {
+            "I": "parlai",
+            "You (singular)": "parlas",
+            "He/She": "parla",
+            "We": "parlâmes",
+            "You (plural)": "parlâtes",
+            "They (plural)": "parlèrent"
+        },
+        "choisir": {
+            "I": "choisis",
+            "You (singular)": "choisis",
+            "He/She": "choisit",
+            "We": "choisîmes",
+            "You (plural)": "choisîtes",
+            "They (plural)": "choisirent"
+        },
+        "attendre": {
+            "I": "attendis",
+            "You (singular)": "attendis",
+            "He/She": "attendit",
+            "We": "attendîmes",
+            "You (plural)": "attendîtes",
+            "They (plural)": "attendirent"
+        }
+    },
+    "future (futur simple)": {
+        "être": {
+            "I": "serai",
+            "You (singular)": "seras",
+            "He/She": "sera",
+            "We": "serons",
+            "You (plural)": "serez",
+            "They (plural)": "seront"
+        },
+        "avoir": {
+            "I": "aurai",
+            "You (singular)": "auras",
+            "He/She": "aura",
+            "We": "aurons",
+            "You (plural)": "aurez",
+            "They (plural)": "auront"
+        },
+        "faire": {
+            "I": "ferai",
+            "You (singular)": "feras",
+            "He/She": "fera",
+            "We": "ferons",
+            "You (plural)": "ferez",
+            "They (plural)": "feront"
+        },
+        "aller": {
+            "I": "irai",
+            "You (singular)": "iras",
+            "He/She": "ira",
+            "We": "irons",
+            "You (plural)": "irez",
+            "They (plural)": "iront"
+        },
+        "pouvoir": {
+            "I": "pourrai",
+            "You (singular)": "pourras",
+            "He/She": "pourra",
+            "We": "pourrons",
+            "You (plural)": "pourrez",
+            "They (plural)": "pourront"
+        },
+        "parler": {
+            "I": "parlerai",
+            "You (singular)": "parleras",
+            "He/She": "parlera",
+            "We": "parlerons",
+            "You (plural)": "parlerez",
+            "They (plural)": "parleront"
+        },
+        "choisir": {
+            "I": "choisirai",
+            "You (singular)": "choisiras",
+            "He/She": "choisira",
+            "We": "choisirons",
+            "You (plural)": "choisirez",
+            "They (plural)": "choisiront"
+        },
+        "attendre": {
+            "I": "attendrai",
+            "You (singular)": "attendras",
+            "He/She": "attendra",
+            "We": "attendrons",
+            "You (plural)": "attendrez",
+            "They (plural)": "attendront"
+        }
+    },
+    "conditional (conditionnel présent)": {
+        "être": {
+            "I": "serais",
+            "You (singular)": "serais",
+            "He/She": "serait",
+            "We": "serions",
+            "You (plural)": "seriez",
+            "They (plural)": "seraient"
+        },
+        "avoir": {
+            "I": "aurais",
+            "You (singular)": "aurais",
+            "He/She": "aurait",
+            "We": "aurions",
+            "You (plural)": "auriez",
+            "They (plural)": "auraient"
+        },
+        "faire": {
+            "I": "ferais",
+            "You (singular)": "ferais",
+            "He/She": "ferait",
+            "We": "ferions",
+            "You (plural)": "feriez",
+            "They (plural)": "feraient"
+        },
+        "aller": {
+            "I": "irais",
+            "You (singular)": "irais",
+            "He/She": "irait",
+            "We": "irions",
+            "You (plural)": "iriez",
+            "They (plural)": "iraient"
+        },
+        "pouvoir": {
+            "I": "pourrais",
+            "You (singular)": "pourrais",
+            "He/She": "pourrait",
+            "We": "pourrions",
+            "You (plural)": "pourrions",
+            "They (plural)": "pourraient"
+        },
+        "parler": {
+            "I": "parlerais",
+            "You (singular)": "parlerais",
+            "He/She": "parlerait",
+            "We": "parlerions",
+            "You (plural)": "parleriez",
+            "They (plural)": "parleraient"
+        },
+        "choisir": {
+            "I": "choisirais",
+            "You (singular)": "choisirais",
+            "He/She": "choisirait",
+            "We": "choisirions",
+            "You (plural)": "choisiriez",
+            "They (plural)": "choisiraient"
+        },
+        "attendre": {
+            "I": "attendrais",
+            "You (singular)": "attendrais",
+            "He/She": "attendrait",
+            "We": "attendrions",
+            "You (plural)": "attendriez",
+            "They (plural)": "attendraient"
+        }
+    },
+    "subjunctive present (subjonctif présent)": {
+        "être": {
+            "I": "sois",
+            "You (singular)": "sois",
+            "He/She": "soit",
+            "We": "soyons",
+            "You (plural)": "soyez",
+            "They (plural)": "soient"
+        },
+        "avoir": {
+            "I": "aie",
+            "You (singular)": "aies",
+            "He/She": "ait",
+            "We": "ayons",
+            "You (plural)": "ayez",
+            "They (plural)": "aient"
+        },
+        "faire": {
+            "I": "fasse",
+            "You (singular)": "fasses",
+            "He/She": "fasse",
+            "We": "fassions",
+            "You (plural)": "fassiez",
+            "They (plural)": "fassent"
+        },
+        "aller": {
+            "I": "aille",
+            "You (singular)": "ailles",
+            "He/She": "aille",
+            "We": "allions",
+            "You (plural)": "alliez",
+            "They (plural)": "aillent"
+        },
+        "pouvoir": {
+            "I": "puisse",
+            "You (singular)": "puisses",
+            "He/She": "puisse",
+            "We": "puissions",
+            "You (plural)": "puissiez",
+            "They (plural)": "puissent"
+        },
+        "parler": {
+            "I": "parle",
+            "You (singular)": "parles",
+            "He/She": "parle",
+            "We": "parlions",
+            "You (plural)": "parliez",
+            "They (plural)": "parlent"
+        },
+        "choisir": {
+            "I": "choisisse",
+            "You (singular)": "choisisses",
+            "He/She": "choisisse",
+            "We": "choisissions",
+            "You (plural)": "choisissiez",
+            "They (plural)": "choisissent"
+        },
+        "attendre": {
+            "I": "attende",
+            "You (singular)": "attendes",
+            "He/She": "attende",
+            "We": "attendions",
+            "You (plural)": "attendiez",
+            "They (plural)": "attendent"
+        }
+    },
+    "subjunctive imperfect (subjonctif imparfait)": {
+        "être": {
+            "I": "fusse",
+            "You (singular)": "fusses",
+            "He/She": "fût",
+            "We": "fussions",
+            "You (plural)": "fussiez",
+            "They (plural)": "fussent"
+        },
+        "avoir": {
+            "I": "eusse",
+            "You (singular)": "eusses",
+            "He/She": "eût",
+            "We": "eussions",
+            "You (plural)": "eussiez",
+            "They (plural)": "eussent"
+        },
+        "faire": {
+            "I": "fisse",
+            "You (singular)": "fisses",
+            "He/She": "fît",
+            "We": "fissions",
+            "You (plural)": "fissiez",
+            "They (plural)": "fissent"
+        },
+        "aller": {
+            "I": "allasse",
+            "You (singular)": "allasses",
+            "He/She": "allât",
+            "We": "allassions",
+            "You (plural)": "allassiez",
+            "They (plural)": "allassent"
+        },
+        "pouvoir": {
+            "I": "pusse",
+            "You (singular)": "pusses",
+            "He/She": "pût",
+            "We": "pussions",
+            "You (plural)": "pussiez",
+            "They (plural)": "pussent"
+        },
+        "parler": {
+            "I": "parlasse",
+            "You (singular)": "parlasses",
+            "He/She": "parlât",
+            "We": "parlassions",
+            "You (plural)": "parlassiez",
+            "They (plural)": "parlassent"
+        },
+        "choisir": {
+            "I": "choisisse",
+            "You (singular)": "choisisses",
+            "He/She": "choisît",
+            "We": "choisissions",
+            "You (plural)": "choisissiez",
+            "They (plural)": "choisissent"
+        },
+        "attendre": {
+            "I": "attendisse",
+            "You (singular)": "attendisses",
+            "He/She": "attendît",
+            "We": "attendissions",
+            "You (plural)": "attendissiez",
+            "They (plural)": "attendissent"
+        }
+    }
+}
